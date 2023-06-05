@@ -1,0 +1,453 @@
+{
+    "questions": [
+      {
+        "question": "1. Suspendarea sub supraveghere a executării pedepsei se poate dispune, printre altele dacă cel condamnat:",
+        "options": [
+          "a) nu a mai fost anterior condamnat la pedeapsa închisorii mai mare de 2 ani",
+          "b) nu are vârsta de pensionare, pentru a putea munci",
+          "c) nu a mai fost anterior condamnat la pedeapsa închisorii mai mare de 1 an"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "2. Termenul de încercare în cazul suspendării sub supraveghere a executării pedepsei este:",
+        "options": [
+          "a) de un an în cazul pedepsei amenzii",
+          "b) de maxim 3 ani în cazul pedepsei închisorii",
+          "c) de minim 2 ani"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "3. Termenul de încercare în cazul suspendării sub supraveghere a executării pedepsei se socoteşte:",
+        "options": [
+          "a) de la data pronunţării hotărârii",
+          "b) de la data când hotărârea a rămas definitivă",
+          "c) de la data când a solicitat condamnatul",
+          "d) de la o dată prevăzută în hotărâre"
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "4. Instanţa poate dispune suspendarea sub supraveghere a executării pedepsei:",
+        "options": [
+          "a) dacă pedeapsa aplicată este închisoarea de cel mult 3 ani, chiar şi în cazul concursului de infracţiuni",
+          "b) dacă paguba prin infracţiune este reparată integral până la pronunţarea hotărârii",
+          "c) dacă se apreciază că scopul pedepsei poate fi atins chiar fără executarea acesteia"
+        ],
+        "answer": [0, 2]
+      },
+      {
+        "question": "5. Revocarea suspendării sub supraveghere a executării pedepsei este facultativă:",
+        "options": [
+          "a) dacă în termenul de încercare se comite o infracţiune de o mică gravitate",
+          "b) dacă în termenul de încercare se comite o infracţiune din culpă, indiferent de forma sa",
+          "c) dacă infracţiunea comisă în termenul de încercare este descoperită ulterior împlinirii acestuia"
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "6. Anularea suspendării sub supraveghere a executării pedepsei intervine când se descoperă că cel condamnat mai săvârşise anterior suspendării:",
+        "options": [
+          "a) numai o infracţiune intenţionată",
+          "b) atât o infracţiune intenţionată cât şi din culpă",
+          "c) o infracţiune, indiferent de forma de vinovăţie cu care a fost comisă"
+        ],
+        "answer": [1, 2]
+      },
+      {
+        "question": "7. Revocarea suspendării sub supraveghere a executării pedepsei în cazul neexecutării obligaţiilor civile stabilite de instanţă:",
+        "options": [
+          "a) este obligatorie, când condamnatul a avut posibilitatea de a executa aceste obligaţii, dar nu a dorit acest lucru",
+          "b) este facultativă",
+          "c) este obligatorie, chiar dacă cel condamnat nu a avut putinţa de a îndeplini aceste obligaţii"
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "8. Suspendarea executării pedepsei sub supraveghere se poate dispune, cu îndeplinirea şi a celorlalte condiţii:",
+        "options": [
+          "a) dacă pedeapsa aplicată este amenda",
+          "b) dacă infractorul nu a mai fost anterior condamnat la pedeapsa închisorii mai mare de 1 an",
+          "c) pedeapsa prevăzută de lege pentru infracţiunea comisă este de maxim 3 ani"
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "9. Suspendarea executării pedepsei sub supraveghere se poate dispune în cazul concursului de infracţiuni dacă pedeapsa aplicată este închisoarea de cel mult:",
+        "options": [
+          "a) 3 ani",
+          "b) 2 ani",
+          "c) 4 ani"
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "10. Termenul de încercare al suspendării executării pedepsei sub supraveghere:",
+        "options": [
+          "a) este cuprins între 2 şi 4 ani, ce va fi stabilit de instanţă",
+          "b) nu poate fi niciodată mai mic decât pedeapsa aplicată",
+          "c) poate fi prelungit, dacă instanţa consideră necesar acest lucru, dar să nu depăşească durata dispusă iniţial"
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "11. Suspendarea sub supraveghere a executării pedepsei:",
+        "options": [
+          "a) este o măsură de individualizare legală a pedepsei",
+          "b) este o măsură de individualizare judecătorească a executării pedepsei",
+          "c) atrage şi suspendarea măsurilor de siguranţă"
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "12. Suspendarea sub supraveghere a executării pedepsei:",
+        "options": [
+          "a) nu poate fi dispusă cu privire la o pedeapsă rezultantă constând în 2 ani închisoare și 10.000 lei amendă, aplicată pentru un concurs de infracțiuni",
+          "b) poate fi dispusă de către instanță în cazul infracțiunii de abandon de familie, chiar dacă nu se îndeplinesc condiţiile de la art. 100 C.pen.",
+          "c) nu poate fi dispusă cu privire la o pedeapsă ce constituie al doilea termen al unei recidive postexecutorii"
+        ],
+        "answer": [1, 2]
+      },
+      {
+        "question": "13. X, major, a fost condamnat la o pedeapsă de 9 luni închisoare cu suspendarea sub supraveghere a executării. Ulterior, în termenul de încercare al suspendării, a fost descoperită o altă infracţiune intenţionată comisă de X, pentru care instanţa îi stabileşte pedeapsa închisorii de 2 ani. În acest caz, executarea pedepsei ce se va aplica pentru pluralitatea de infracţiuni:",
+        "options": [
+          "a) poate fi suspendată sub supraveghere, indiferent de momentul comiterii infracţiunii descoperite ulterior",
+          "b) nu poate în nici un caz să fie suspendată",
+          "c) nu poate fi suspendată sub supraveghere dacă infracţiunea descoperită ulterior s-a comis după dispunerea primei suspendări"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "14. Suspendarea sub supraveghere a executării pedepsei este condiţionată de lipsa unei condamnări anterioare:",
+        "options": [
+          "a) la pedeapsa amenzii",
+          "b) la pedeapsa închisorii",
+          "c) la pedeapsa închisorii mai mare de 1 an, afară de cazul când condamnarea intră în vreunul din cazurile prevăzute de art. 42 C.pen."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "15. Suspendarea sub supraveghere a executării pedepsei nu poate fi dispusă:",
+        "options": [
+          "a) în cazul infracţiunilor intenţionate, pentru care legea prevede pedeapsa închisorii mai mare de 15 ani",
+          "b) în cazul infracţiunii de tortură",
+          "c) în cazul infracţiunii de viol",
+          "d) în cazul infracţiunii de vătămare corporală"
+        ],
+        "answer": []
+      },
+      {
+        "question": "16. Suspendarea sub supraveghere şi liberarea condiţionată din executarea pedepsei:",
+        "options": [
+          "a) trebuie motivată numai când legea prevede",
+          "b) trebuie motivată întotdeauna",
+          "c) nu trebuie motivată niciodată"
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "17. Revocarea suspendării sub supraveghere a executării pedepsei poate fi dispusă:",
+        "options": [
+          "a) dacă cel condamnat, în termenul de încercare, a săvârşit o faptă prevăzută de legea penală",
+          "b) dacă cel condamnat, în termenul de încercare, a săvârşit o faptă care îl face nevrednic de a beneficia de măsura de suspendare",
+          "c) dacă cel condamnat, în termenul de încercare, a săvârşit o faptă prevăzută de legea penală şi care îl face nevrednic de a beneficia de măsura de suspendare"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "18. Instanţa poate dispune suspendarea sub supraveghere a executării pedepsei dacă există:",
+        "options": [
+          "a) probabilitatea mică de săvârşire a altor infracţiuni, în viitor, de către cel condamnat",
+          "b) certitudinea că scopul pedepsei poate fi atins şi fără executarea acesteia",
+          "c) probabilitatea că scopul pedepsei poate fi atins fără executarea acesteia",
+          "d) certitudinea că scopul pedepsei nu poate fi atins decât prin executarea acesteia"
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "19. Suspendarea sub supraveghere a executării pedepsei se poate dispune în cazul infracţiunii de evaziune fiscală:",
+        "options": [
+          "a) dacă s-au reparat integral pagubele pricinuite prin săvârşirea infracţiunii",
+          "b) dacă este atins scopul pedepsei, prin alte măsuri, fără executarea acesteia",
+          "c) dacă persoana condamnată nu a mai fost anterior condamnată la pedeapsa închisorii"
+        ],
+        "answer": [0, 2]
+      },
+      {
+        "question": "20. Suspendarea sub supraveghere a executării pedepsei poate fi dispusă:",
+        "options": [
+          "a) în cazul unei pedepse închisorii de 2 ani, pentru care s-a întrunit condiţia privind lipsa condamnărilor anterioare",
+          "b) în cazul unei pedepse închisorii de 1 an, chiar dacă s-a întrunit condiţia privind lipsa condamnărilor anterioare",
+          "c) în cazul unei pedepse închisorii de 1 an, numai dacă nu există condiţia privind lipsa condamnărilor anterioare"
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "17. Inculpatul a fost trimis în judecată pentru săvârşirea infracţiunii de abandon de familie prevăzută de art. 378 alin. 1 lit. c C.pen. În cursul judecăţii în primă instanţă inculpatul a plătit integral pensia de întreţinere restantă. Instanţa l-a condamnat pe inculpat la o pedeapsă de un an închisoare şi a dispus, în temeiul art. 378 alin. 5 C.pen., revocarea suspendării sub supraveghere a executării pedepsei de 6 luni închisoare aplicată inculpatului în antecedenţă, prin hotărâre definitivă, tot pentru infracţiunea de abandon de familie, urmând ca acesta să execute pedepsele în întregime şi alăturat, în regim de detenţie. Hotărârea instanţei este:",
+        "options": [
+          "a) legală, întrucât revocarea suspendării sub supraveghere a executării pedepsei se dispune independent de plata pensiei de întreţinere restante, în condiţiile în care inculpatul a săvârşit o nouă infracţiune în cursul termenului de încercare",
+          "b) nelegală, întrucât suspendarea sub supraveghere a executării pedepsei era obligatorie în cauză conform art. 378 alin. 5 C.pen.",
+          "c) legală, întrucât revocarea este întotdeauna obligatorie când se comite o infracţiune intenţionată."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "18. Suspendarea sub supraveghere a executării pedepsei nu are efect:",
+        "options": [
+          "a) asupra măsurilor de siguranţă",
+          "b) asupra obligaţiilor civile prevăzute în hotărârea de condamnare",
+          "c) asupra pedepsei accesorii."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "19. Anularea suspendării executării pedepsei sub supraveghere nu are loc dacă:",
+        "options": [
+          "a) infracţiunea care ar fi putut atrage anularea a fost descoperită după expirarea termenului de încercare",
+          "b) pedeapsa aplicată pentru infracţiunea săvârşită anterior a fost amenda penală",
+          "c) inculpatrul a mai săvârşit o infracţiune înainte de rămânerea definitivă a hotărârii de condamnare cu suspendarea sub supraveghere a executării pedepsei."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "20. Suspendarea sub supraveghere a executării pedepsei se dispune:",
+        "options": [
+          "a) la cererea condamnatului",
+          "b) numai la cererea procurorului",
+          "c) şi din oficiu."
+        ],
+        "answer": [0, 2]
+      },
+      {
+        "question": "21. Atrage aplicarea unui tratament sancţionator constând în cumulul aritmetic:",
+        "options": [
+          "a) revocarea suspendării sub supraveghere a executării pedepsei ca urmare a comiterii unei infracţiuni din culpă în termenul de încercare",
+          "b) evadarea din arestul preventiv, în măsura în care se pronunţă o condamnare pentru infracţiunea care a atras arestarea preventivă",
+          "c) revocarea liberării condiţionate ca urmare a comiterii unei infracţiuni intenţionate pe durata supravegherii şi dacă sunt îndeplinite condiţiile de la recidiva postcondamnatorie."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "22. Termenul de încercare în cazul acordării suspendării sub supraveghere curge de la:",
+        "options": [
+          "a) pronunţarea hotărârii cu suspendarea condiţionată",
+          "b) data când hotărârea prin care s-a pronunţat suspendarea a rămas definitivă",
+          "c) data când s-a întors dovada de comunicare a hotărârii."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "23. Revocarea suspendării executării pedepsei nu are loc:",
+        "options": [
+          "a) dacă infracţiunea săvârşită în termenul de încercare a fost descoperită după expirarea acestui termen",
+          "b) când cel condamnat dovedeşte că nu a avut putinţa de a îndeplini obligaţiile civile din hotărâre",
+          "c) dacă condamnarea definitivă pentru o infracţiune săvârşită în termenul de încercare a intervenit după împlinirea termenului de încercare."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "24. Anularea suspendării sub supraveghere a executării pedepsei poate interveni dacă:",
+        "options": [
+          "a) condamnatul a săvârşit o infracţiune mai înainte de rămânerea definitivă a hotărârii de condamnare cu suspendare sub supraveghere",
+          "b) condamnatul a săvârşit o infracţiune mai înainte de pronunţarea hotărârii de condamnare cu suspendare, iar pentru această infracţiune s-a aplicat pedeapsa închisorii, chiar după expirarea termenului de încercare",
+          "c) infracţiunea ce ar atrage anularea este descoperită chiar după împlinirea termenului de încercare."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "25. Dacă cel condamnat cu executarea pedepsei sub supraveghere nu îndeplineşte măsurile de supraveghere prevăzute de lege ori obligaţiile stabilite de instanţă:",
+        "options": [
+          "a) se poate prelungi termenul de încercare",
+          "b) nu se poate prelungi niciodată termenul de încercare",
+          "c) se poate prelungi termenul de încercare cu cel mult jumătate din durata pedepsei pronunţată."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "26. Revocarea suspendării sub supraveghere a executării pedepsei este facultativă:",
+        "options": [
+          "a) când, în termenul de încercare, condamnatul nu a îndeplinit obligaţiile civile stabilite prin hotărâre judecătorească şi nu a dovedit neputinţă de a îndeplini acele obligaţii",
+          "b) când infracţiunea ulterioară este săvârşită din culpă",
+          "c) când infracţiunea ulterioară este săvârşită în termenul de încercare, dar este descoperită după expirarea acestuia."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "27. În cazul anulării suspendării executării pedepsei şi când se întrunesc condiţiile concursului de infracţiuni, iar pedeapsa rezultată este de cel mult 2 ani, instanţa poate dispune suspendarea condiţionată, termenul de suspendare calculându-se:",
+        "options": [
+          "a) de la data rămânerii definitive a hotărârii de condamnare pentru concursul de infracţiuni",
+          "b) de la data pronunţării hotărârii de condamnare pentru concursul de infracţiuni",
+          "c) de la data rămânerii definitive a hotărârii prin care s-a pronunţat anterior suspendarea condiţionată a pedepsei."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "28. Poate interveni anularea suspendării sub supraveghere a executării unei pedepse aplicate printr-o hotărâre definitivă în cazul:",
+        "options": [
+          "a) comiterii unei noi infracţiuni, în formă continuată, care s-a consumat înainte de dispunerea suspendării şi s-a epuizat în termenul de încercare",
+          "b) în care se descoperă, în cursul termenului de încercare, o infracţiune concurentă cu cea care a atras aplicarea pedepsei cu suspendarea executării",
+          "c) în care pedeapsa cu privire la care s-a dispus suspendarea constituia al doilea termen al unei recidive postcondamnatorii, dar acest fapt a fost descoperit doar în cursul termenului de încercare."
+        ],
+        "answer": [1, 2]
+      },
+      {
+        "question": "29. Inculpatul X este condamnat la o pedeapsă de 2 ani închisoare cu suspendarea sub supraveghere a executării pedepsei pe un termen de încercare de 4 ani. În cauză se deduce durata reţinerii şi a arestării preventive de la 2 februarie 2006 la 2 august 2006. În interiorul termenului de încercare inculpatul săvârşeşte cu intenţie o nouă infracţiune, pentru care instanţa îi aplică pedeapsa închisorii de 3 ani. În această situaţie instanţa va dispune:",
+        "options": [
+          "a) revocarea suspendării sub supraveghere a pedepsei de 2 ani închisoare, cumularea artimetică a acestei pedepse cu pedeapsa aplicată în cauză, urmând ca ulterior, din pedeapsa rezultată de 5 ani închisoare să deducă detenţia de la 2 februarie 2006 la 2 august 2006",
+          "b) revocarea suspendării condiţionate privind restul rămas de executat din pedeapsa de 2 ani închisoare, (urmare a deducerii detenţiei de la 2 februarie 2006 la 2 august 2006), şi cumularea acestui rest cu pedeapsa de 3 ani aplicată în cauză",
+          "c) contopirea pedepsei aplicată anterior cu pedeapsa aplicată în cauză, urmând ca, din pedeapsa rezultantă să fie dedusă detenţia de la 2 februarie 2006 la 2 august 2006."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "30. În cursul termenului de încercare al suspendării sub supraveghere a executării unei pedepse cu închisoarea se descoperă o altă infracţine intenţionată, comisă anterior pronunţării hotărârii prin care s-a aplicat suspendarea. Dacă pentru infracţiunea nou descoperită instanţa stabileşte pedeapsa amenzii:",
+        "options": [
+          "a) se va revoca suspendarea executării primei pedepse",
+          "b) se va menţine suspendarea executării primei pedepse",
+          "c) se va anula suspendarea executării primei pedepse."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "31. Suspendarea sub supraveghere a executării pedepsei:",
+        "options": [
+          "a) exclude posibilitatea unei graţieri individuale ulterioare a pedepsei suspendate",
+          "b) se revocă dacă, până la expirarea termenului de încercare, condamnatul nu a îndeplinit obligaţiile civile stabilite prin hotărârea de condamnare, afară de cazul când cel condamnat dovedeşte că nu a avut putinţa de a îndeplini acele obligaţii",
+          "c) atrage şi suspendarea obligaţiilor civile prevăzute în hotărârea de condamnare."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "32. În cazul revocării suspendării sub supraveghere:",
+        "options": [
+          "a) pedeapsa stabilită pentru infracţiunea săvârşită în cursul termenului de încercare şi pedeapsa a cărei executare a fost suspendată se contopesc, putându-se acorda un spor de până la 2 ani",
+          "b) pedeapsa stabilită pentru infracţiunea săvârşită în cursul termenului de încercare şi pedeapsa a cărei executare a fost suspendată se contopesc, fără a se mai putea acorda vreun spor",
+          "c) pedeapsa stabilită pentru infracţiunea săvârşită în cursul termenului de încercare şi pedeapsa a cărei executare a fost suspendată condiţionat se cumulează, dacă se îndeplinesc condiţiile pentru recidivă."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "33. În durata executării pedepsei închisorii:",
+        "options": [
+          "a) se include ziua în care începe executarea pedepsei",
+          "b) se include ziua în care încetează executarea pedepsei",
+          "c) nu se include ziua în care încetează executarea pedepsei."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "34. Suspendarea sub supraveghere a executării pedepsei nu poate fi acordată:",
+        "options": [
+          "a) în cazul infractorilor minori",
+          "b) pentru o infracţiune sancţionată cu 4 ani de închisoare",
+          "c) în cazul infracţiunilor de omor."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "35. După acordarea liberării condiţionate unui condamnat la detenţiunea pe viaţă, pedeapsa se consideră executată dacă cel liberat nu a mai săvârşit o nouă infracţiune în termen de:",
+        "options": [
+          "a) 15 ani",
+          "b) 10 ani",
+          "c) 20 ani",
+          "d) tot restul vieţii."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "36. În cazul liberatului condiţionat, termenul de reabilitare curge de la data:",
+        "options": [
+          "a) acordării liberării condiţionate",
+          "b) împlinirii duratei pedepsei",
+          "c) împlinirii duratei pedepsei în calculul căruia nu intră şi zilele considerate ca executate pe baza muncii prestate."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "37. Eliberarea din închisoare a condamnatului mai înainte de termen este:",
+        "options": [
+          "a) libertate supravegheată",
+          "b) liberare sub control judiciar",
+          "c) liberare condiţionată",
+          "d) facultativă."
+        ],
+        "answer": [2, 3]
+      },
+      {
+        "question": "38. Condamnatul la pedeapsa detenţiunii pe viaţă trecut de 60 de ani poate fi liberat condiţionat după executarea efectivă a:",
+        "options": [
+          "a) 15 ani de detenţiune",
+          "b) 25 ani de detenţiune",
+          "c) 20 ani de detenţiune",
+          "d) unui număr de ani prevăzut expres în C.pen."
+        ],
+        "answer": [2, 3]
+      },
+      {
+        "question": "39. Pedeapsa principală aplicată unei persoane juridice:",
+        "options": [
+          "a) nu poate fi suspendată sub supraveghere",
+          "b) nu poate face obiectul unei graţieri individuale",
+          "c) poate fi înlocuită cu dizolvarea, în cazul în care persoana juridică se sustrage cu rea-credinţă de la executarea ei."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "40. În calculul fracţiunilor de pedeapsă prevăzută pentru liberarea condiţionată:",
+        "options": [
+          "a) nu se ţine seama de partea din durata pedepsei care poate fi considerată, potrivit legii, ca executată pe baza muncii prestate",
+          "b) se ţine seama de partea din durata pedepsei care poate fi considerată, potrivit legii, ca executată pe baza muncii prestate",
+          "c) intră şi durata în care condamnatul a fost internat datorită faptului că şi-a provocat singur leziuni interne."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "41. În cazul acordării liberării condiţionate, pedeapsa se consideră executată:",
+        "options": [
+          "a) din momentul pronunţării hotărârii",
+          "b) din momentul rămânerii definitive a hotărârii",
+          "c) dacă în intervalul de timp de la liberarea condiţionată şi până la împlinirea duratei pedepsei cel condamnat nu a săvârşit din nou o infracţiune."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "42. Revocarea liberării condiţionate este obligatorie când în intervalul de timp de la liberare şi până la împlinirea duratei pedepsei cel liberat a săvârşit:",
+        "options": [
+          "a) infracţiunea de ucidere din culpă",
+          "b) infracţiunea de omor",
+          "c) infacţiunea de furt simplu."
+        ],
+        "answer": [0, 1, 2]
+      },
+      {
+        "question": "43. În cazul în care s-a dispus revocarea liberării condiţionate:",
+        "options": [
+          "a) pedeapsa stabilită pentru infracţiunea săvârşită ulterior absoarbe restul de pedeapsă ce a mai rămas de executat din pedeapsa anterioară",
+          "b) pedeapsa stabilită pentru infracţiunea săvârşită ulterior se cumulează cu restul de pedeapsă ce a mai rămas de executat din pedeapsa anterioară",
+          "c) pedeapsa stabilită pentru infracţiunea săvârşită ulterior şi restul de pedeapsă ce a mai rămas de executat din pedeapsa anterioară, se contopesc, putându-se aplica un spor."
+        ],
+        "answer": [1, 2]
+      },
+      {
+        "question": "44. Dacă în intervalul de timp de la liberarea condiţionată şi până la împlinirea duratei pedepsei, cel liberat săvârşeşte o nouă infracţiune de omor, o infracţiune de furt şi o infracţiune din culpă, instanţa:",
+        "options": [
+          "a) aplică regulile concursului de infracţiuni pentru cele 3 infracţiuni săvârşite, iar pedeapsa rezultată o contopeşte cu restul de pedeapsă ce a mai rămas de executat din pedeapsa anterioară",
+          "b) revocă liberarea condiţionată şi cumulează pedepsa aplicată pentru cele 3 infracţiuni cu restul de pedeapsă rămas neexecutat din pedeapsa anterioară",
+          "c) revocă liberarea condiţionată în raport cu infracţiunea de omor, contopind pedeapsa aplicată pentru această infracţiune cu restul de pedeapsă rămas neexecutat din pedeapsa anterioară."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "45. Săvârşirea unei noi infracţiuni la 28 iulie 2004, de către cel liberat condiţionat la 23 august 2002, dintr-o pedeapsă de 7 ani închisoare a cărei executare a început la 3 mai 1997: ",
+        "options": [
+          "a) atrage revocarea obligatorie a liberării condiţionate",
+          "b) atrage revocarea facultativă a liberării condiţionate",
+          "c) nu atrage revocarea liberării condiţionate."
+        ],
+        "answer": [2]
+      }
+       
+    ]
+  }
+  

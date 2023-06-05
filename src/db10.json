@@ -1,0 +1,345 @@
+{
+    "questions": [
+        {
+            "question": "Termenele de reabilitare se socotesc:",
+            "options": [
+                "a) în caz de graţiere totală antecondamnatorie, de la data actului de graţiere",
+                "b) în caz de graţiere a restului de pedeapsă, de la data rămânerii definitive a hotărârii de condamnare",
+                "c) pentru cei condamnaţi la pedeapsa amenzii, de la data achitării ei."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "În cazul liberatului condiţionat, termenul de reabilitare curge de la data:",
+            "options": [
+                "a) liberării condiţionate",
+                "b) împlinirii duratei pedepsei",
+                "c) împlinirii duratei pedepsei în calculul căruia nu intră şi zilele considerate ca executate pe baza muncii prestate."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Anularea reabilitării priveşte:",
+            "options": [
+                "a) ambele forme ale reabilitării",
+                "b) numai reabilitarea judecătorească",
+                "c) numai reabilitarea de drept."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Reabilitarea nu are efect asupra:",
+            "options": [
+                "a) măsurii de siguranţă a confiscării extinse",
+                "b) obligaţiei de reintegrare în funcţia din care condamnatul a fost destituit după comiterea infracţiunii",
+                "c) vreunei măsuri de siguranţă."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Reabilitarea nu poate fi obţinută în cazul condamnărilor pentru infracţiunile:",
+            "options": [
+                "a) contra umanităţii",
+                "b) contra securităţii naţionale",
+                "c) contra capacităţii de luptă a forţelor armate."
+            ],
+            "answer": []
+        },
+        {
+            "question": "Reabilitarea de drept poate interveni:",
+            "options": [
+                "a) după executarea unei pedepse de 2 ani închisoare pentru o infracţiune intenţionată",
+                "b) după trecerea unui termen de 3 ani de la executarea pedepsei închisorii ce nu depăşeşte 2 ani",
+                "c) după executarea pedepsei amenzii."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Dacă referitor la o infracţiune pentru care persoana fizică a fost deja graţiată condiţionat intervine, ulterior acestui moment, amnistia postcondamnatorie:",
+            "options": [
+                "a) revocarea graţierii condiţionate a pedepsei este obligatorie în cazul în care condamnatul săvârşeşte o infracţiune în termenul prevăzut de legea de graţiere, dar după data intrării în vigoare a legii de amnistie",
+                "b) pedepsele complementare care nu au fost graţiate nu se mai execută",
+                "c) termenul de reabilitare curge întotdeauna de la data intervenirii amnistiei."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Termenele de reabilitare judecătorească sunt:",
+            "options": [
+                "a) 4 ani, în cazul condamnării la pedeapsa închisorii mai mare de 2 ani, dar care nu depăşeşte 5 ani",
+                "b) 5 ani, în cazul condamnării la pedeapsa închisorii mai mare de 5 ani, dar care nu depăşeşte 10 ani",
+                "c) 7 ani, în cazul condamnării la pedeapsa închisorii mai mare de 10 ani sau în cazul pedepsei detenţiunii pe viaţă, comutată sau înlocuită cu pedeapsa închisorii",
+                "d) 10 ani, în cazul condamnării la pedeapsa detenţiunii pe viaţă, considerată executată ca urmare a graţierii, a împlinirii termenului de prescripţie a executării pedepsei sau a liberării condiţionate."
+            ],
+            "answer": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Termenul de reabilitare judecătorească poate curge:",
+            "options": [
+                "a) de la data actului de graţiere",
+                "b) de la data când pedeapsa principală s-a prescris",
+                "c) de la data pronunţării liberării condiţionate",
+                "d) de la data când s-a terminat de executat pedeapsa principală."
+            ],
+            "answer": [
+                0,
+                1,
+                3
+            ]
+        },
+        {
+            "question": "Anularea reabilitării judecătoreşti se face:",
+            "options": [
+                "a) când, după acordarea, ei s-a descoperit că cel reabilitat nu şi-a executat cu rea-credinţă obligaţiile civile",
+                "b) când, după acordarea ei, s-a descoperit că cel reabilitat mai suferise o altă condamnare, care dacă ar fi fost cunoscută, ducea la respingerea cererii de reabilitare",
+                "c) când, după acordarea ei, s-a descoperit că cel reabilitat nu a avut o conduită bună."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "În cazul în care o persoană a suferit mai multe condamnări, dintre care unele fac obiectul reabilitării de drept şi altele fac obiectul reabilitării judecătoreşti:",
+            "options": [
+                "a) pentru cele uşoare va opera reabilitarea de drept, deoarece aceasta are un efect constatator de drepturi",
+                "b) pentru toate va opera reabilitarea judecătorească",
+                "c) termenul de reablitare se va raporta la ultima pedeapsă executată."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Reabilitarea înlătură:",
+            "options": [
+                "a) răspunderea penală",
+                "b) executarea pedepsei",
+                "c) decăderile ce decurg din condamnare",
+                "d) caracterul penal al faptei."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Reabilitarea de drept:",
+            "options": [
+                "a) intervine pentru orice tip de condamnare",
+                "b) nu are efecte asupra pedepselor complementare",
+                "c) spre deosebire de cea judecătorească nu înlătură şi incapacităţile ce decurg din condamnare."
+            ],
+            "answer": []
+        },
+        {
+            "question": "Reabilitarea judecătorească:",
+            "options": [
+                "a) se acordă numai pentru condamnări mai mari de 2 ani",
+                "b) produce aceleşi efecte ca şi reabilitarea de drept",
+                "c) se poate acorda în principiu pentru orice fel de condamnare."
+            ],
+            "answer": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Pronunţarea unei condamnări definitive în cursul termenului de reabilitare duce la:",
+            "options": [
+                "a) întreruperea cursului termenului de reabilitare",
+                "b) suspendarea cursului termenului de reabilitare",
+                "c) nu are nici un efect asupra acestui termen."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "16. Pentru a beneficia de reabilitarea judecătorească, condamnatul:",
+            "options": [
+                "a) trebuie ca în termenul de reabilitare să nu mai fi săvârşit o infracţiune",
+                "b) trebuie ca în termenul de reabilitare să nu mai fi suferit o condamnare",
+                "c) trebuie ca în termenul de reabilitare să nu mai fi suferit o condamnare, mai puţin cazul în care, ulterior, a intervenit amnistia sau dezincriminarea infracţiunii pentru care a suferit ultima condamnare."
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "17.Termenul de reabilitare judecătorească poate curge:",
+            "options": [
+                "a) de la data când a luat sfârşit executarea pedepsei principale",
+                "b) de la data rămânerii definitive a hotărârii de condamnare, în anumite cazuri",
+                "c) de la data actului de graţiere necondiţionată a restului de pedeapsă."
+            ],
+            "answer": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "question": "18. Reabilitarea de drept operază:",
+            "options": [
+                "a) în cazul amânării aplicării pedepsei",
+                "b) în cazul suspendării executării pedepsei sub supraveghere",
+                "c) în cazul aplicării unei pedepse de 3 ani, cu suspendare sub supraveghere."
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "19. Cel condamnat este reabilitat de drept:",
+            "options": [
+                "a) la data executării condamnării la pedeapsa închisorii de 2 ani şi aplicarea amenzii",
+                "b) la 3 ani după executarea pedepsei cu amenda",
+                "c) la 3 ani după executarea pedepsei cu închisoarea pe timp de 3 ani."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "20. Condamnatul poate fi reabilitat la cerere de instanţa de judecată:",
+            "options": [
+                "a) în cazul condamnării la pedeapsa închisorii mai mare de un an până la 5 ani, după trecerea unui termen de 4 ani",
+                "b) în cazul condamnării la pedeapsa închisorii mai mare de 5 ani până la 10 ani, după trecerea unui termen de 5 ani de la executarea pedepsei",
+                "c) în cazul condamnării la pedeapsa închisorii mai mare de 10 ani, după trecerea unui termen de 7 ani de la executarea pedepsei."
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "21. Termenele de reabilitare:",
+            "options": [
+                "a) pot fi micşorate de către instanţa de judecată în cazuri excepţionale",
+                "b) sunt diferite, în funcţie de pedeapsa aplicată",
+                "c) sunt diferite, în funcţie de pedeapsa prevăzută de norma de incriminare."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "22. Reabilitarea de drept are loc, dacă în decurs de trei ani condamnatul nu a săvârşit nici o altă infracţiune, în cazul condamnării la:",
+            "options": [
+                "a) pedeapsa amenzii",
+                "b) pedeapsa închisorii de doi ani",
+                "c) pedeapsa închisorii de trei ani."
+            ],
+            "answer": [
+                0,
+                1
+            ]
+        },
+        {
+            "question": "23. Reabilitarea de drept are loc:",
+            "options": [
+                "a) în cazul condamnării la pedeapsa închisorii care nu depăşeşte 2 ani, dacă în decurs de trei ani condamnatul nu a săvârşit o altă infracţiune",
+                "b) în cazul condamnării la pedeapsa închisorii care nu depăşeşte 2 ani, dacă în decurs de trei ani condamnatul nu a săvârşit o altă infracţiune intenţionată",
+                "c) dacă cel condamnat nu a săvârşit din nou o infracţiune înlăuntrul termenului de încercare şi nici nu s-a pronunţat revocarea suspendării executării pedepsei sub supraveghere."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "24. Termenul de 3 ani prevăzut de lege pentru reabilitarea de drept curge:",
+            "options": [
+                "a) de la data rămânerii definitive a hotărârii de condamnare la o pedeapsă cu închisoarea de 1 an, cu executare în regim de detenţie",
+                "b) de la data liberării condiţionate din executarea unei pedepse de 6 luni închisoare",
+                "c) de la data când s-a prescris executarea unei pedepse de 1 an închisoare."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "25. Dacă o persoană a executat succesiv mai multe pedepse cu închisoarea mai mari de 2 ani, termenul de reabilitare judecătorească:",
+            "options": [
+                "a) se calculează în funcţie de pedeapsa cea mai grea şi începe să curgă întotdeauna de la data la care aceasta a fost executată sau considerată ca executată",
+                "b) se calculează întotdeauna în funcţie de durata ultimei pedepse şi începe să curgă de la data la care aceasta a fost executată sau considerată ca executată",
+                "c) se calculează întotdeauna în funcţie de pedeapsa cea mai grea şi începe să curgă de la data la care ultima pedeapsă a fost executată sau considerată ca executată."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "26. Reabilitarea judecătorerască acordată persoanei fizice:",
+            "options": [
+                "a) înlătură executarea măsurii de siguranţă a obligării la tratament medical",
+                "b) nu înlătură executarea măsurii de siguranţă a internării medicale",
+                "c) înlătură pedeapsa complementară a degradării militare, condamnatul redobândind gradul militar deţinut la data condamnării."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "27. În cazul condamnării la o pedeapsă cu închisoarea de 1 an, cu suspendarea condiţionată a executării acesteia, reabilitarea intervine:",
+            "options": [
+                "a) dacă într-un termen de 3 ani de la data când se consideră executată pedeapsa, condamnatul nu a mai săvârşit nicio altă infracţiune şi nici nu s-a pronunţat revocarea suspendării condiţionate a executări pedepsei",
+                "b) dacă într-un termen de 3 ani, la care se adaugă jumătate din durata pedepsei pronunţate, termen ce curge de la data rămânerii definitive a hotărârii, condamnatul nu a mai săvârşit nicio altă infracţiune",
+                "c) dacă înăuntrul termenului de încercare condamnatul nu a mai săvârşit nicio altă infracţiune şi nici nu s-a pronunţat revocarea suspendării condiţionate a executări pedepsei."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "28. Reabilitarea judecătorească nu poate fi acordată:",
+            "options": [
+                "a) în cazul condamnărilor pentru infracţiuni contra umanităţii",
+                "b) în cazul persoanelor juridice",
+                "c) dacă la data examinării cererii de reabilitare persoana condamnată se afla încă în executarea unei măsuri de siguranţă dispusă prin hotărârea de condamnare."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "29. O condamnare de 3 ani închisoare:",
+            "options": [
+                "a) poate forma obiectul unei reabilitări de drept",
+                "b) poate forma obiectul unei reabilitări judecătoreşti",
+                "c) nu poate forma obiectul unei reabilitări judecătoreşti."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "30. Dacă o persoană a fost condamnată la pedeapsa închisorii de 5 ani, după trecerea unui termen de 7 ani de la executarea pedepsei, instanţa:",
+            "options": [
+                "a) poate dispune reabilitarea acesteia de drept",
+                "b) poate dispune reabilitarea acesteia judecătoreşte",
+                "c) nu poate dispune nicio formă de reabilitare."
+            ],
+            "answer": [
+                2
+            ]
+        }
+    ]
+}

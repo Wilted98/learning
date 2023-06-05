@@ -1,0 +1,319 @@
+{
+    "questions": [
+        {
+            "question": "Faţă de minorul care răspunde penal:",
+            "options": [
+                "a) se poate aplica o pedeapsă",
+                "b) se poate aplica o pedeapsă, numai dacă se apreciază că luarea unei măsuri educative nu este suficientă pentru îndreptarea minorului",
+                "c) se poate aplica numai o măsură educativă."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Minorilor infractori li se pot aplica următoarele sancţiunii:",
+            "options": [
+                "a) neprivative de libertate",
+                "b) privative de libertate",
+                "c) numai neprivative de libertate."
+            ],
+            "answer": [
+                0,
+                1
+            ]
+        },
+        {
+            "question": "Este măsură educativă:",
+            "options": [
+                "a) supravegherea",
+                "b) suspendarea sub supraveghere",
+                "c) internarea medicală."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "S-a reţinut în fapt că la data comiterii infracţiunii inculpatul era în vârstă de 17 ani şi 8 luni. Ce sancţiune de drept penal poate să pronunţe instanţa de judecată:",
+            "options": [
+                "a) stagiul de formare civică",
+                "b) internarea într-un centru educativ",
+                "c) renunţarea la aplicarea pedepsei."
+            ],
+            "answer": [
+                0,
+                1
+            ]
+        },
+        {
+            "question": "Internarea într-un centru educativ se ia pe o durată:",
+            "options": [
+                "a) de maxim 2 ani",
+                "b) de cel puţin 1 an",
+                "c) nedeterminată."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Minorul care, anterior împlinirii vârstei de 14 ani, a aplicat victimei o lovitură care, din cauza complicaţiilor a condus la moartea acesteia, fapt survenit după împlinirea vârstei de 14 ani de către făptuitor:",
+            "options": [
+                "a) îndeplineşte condiţiile legale ce ţin de vârsta pentru a răspunde penal",
+                "b) nu îndeplineşte condiţiile legale ce ţin de vârsta pentru a răspunde penal",
+                "c) îndeplineşte condiţiile legale ce ţin de vârsta pentru a răspunde penal, doar dacă se dovedeşte că a acţionat cu discernământ."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Sunt măsuri educative:",
+            "options": [
+                "a) internarea medicală într-un centru educativ",
+                "b) asistarea zilnică",
+                "c) supravegherea."
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Stagiul de formare civică se dispune pe o perioadă de:",
+            "options": [
+                "a) cel mult 16 săptămâni",
+                "b) între o lună şi 4 luni",
+                "c) de minim o lună."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "Internarea într-un centru educativ luată faţă de minor, se află în subordinea:",
+            "options": [
+                "a) Ministerului Justiţiei",
+                "b) Ministerului Tineretului",
+                "c) Ministerului Public."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "Durata minimă a unei măsuri educative prevăzută de lege ce se poate aplica unui minor:",
+            "options": [
+                "a) în general este prevăzută de lege, cu o singură excepţie",
+                "b) este prevăzută de lege doar în cazul măsurilor educative privative de libertate",
+                "c) este de o lună."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "Condamnările pronunţate pentru infracţiuni comise pe timpul minorităţii, dar executate pe timpul cât acesta a devenit major, nu atrag:",
+            "options": [
+                "a) decăderi",
+                "b) incapacităţi",
+                "c) antecedente penale."
+            ],
+            "answer": [
+                0,
+                1
+            ]
+        },
+        {
+            "question": "Pedepsele complementare:",
+            "options": [
+                "a) nu se aplică niciodată minorului",
+                "b) se aplică minorului, dar numai în cazul măsurilor educative privative de libertate",
+                "c) se aplică atunci când legea prevede expres aceasta."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "Faţă de un minor instanţa poate dispune:",
+            "options": [
+                "a) aplicarea unei pedepse de maxim 5 ani",
+                "b) arestarea preventivă",
+                "c) aplicarea unei măsuri de siguranţă cu caracter medical."
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Pe durata executării măsurilor educative neprivative de libertate, instanţa poate impune minorului:",
+            "options": [
+                "a) numai una dintre obligaţiile prevăzute de lege",
+                "b) să urmeze un curs de pregătire şcolară sau formare profesională",
+                "c) să nu se afle în anumite locuri sau la anumite manifestări sportive, culturale ori la alte adunări publice, stabilite de instanţă."
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Dacă, pe parcursul supravegherii, au intervenit motive care justifică fie impunerea unor noi obligaţii, fie sporirea sau diminuarea condiţiilor de executare a celor existente:",
+            "options": [
+                "a) instanţa dispune modificarea obligaţiilor în mod corespunzător, pentru a asigura persoanei supravegheate şanse mai mari de îndreptare",
+                "b) instanţa dispune încetarea executării unora dintre obligaţiile pe care le-a impus, când apreciază că menţinerea acestora nu mai este necesară",
+                "c) instanţa pate dispune încetarea executării unora dintre obligaţiile pe care le-a impus, când apreciază că menţinerea acestora nu mai este necesară."
+            ],
+            "answer": [
+                0,
+                1
+            ]
+        },
+        {
+            "question": "Faţă de minorul care, la data săvârşirii infracţiunii, avea vârsta cuprinsă între 14 şi 18 ani:",
+            "options": [
+              "a) se ia o măsură educativă neprivativă de libertate",
+              "b) se poate lua o măsură educativă privativă de libertate dacă a mai săvârşit o infracţiune, pentru care i s-a aplicat o măsură educativă pivativă de libertate a cărei executare a început înainte de comiterea infracţiunii pentru care este judecat",
+              "c) se poate lua o măsură educativă privativă de libertate atunci când pedeapsa prevăzută de lege pentru infracţiunea săvârşită este închisoarea de 7 ani sau mai mare ori detenţiunea pe viaţă."
+            ],
+            "answer": [0, 2]
+          },
+          {
+            "question": "Măsura internării într-un centru educativ se dispune:",
+            "options": [
+              "a) pe timp determinat, dar până la împlinirea vârstei de 18 ani",
+              "b) între 1 şi 3 ani",
+              "c) se poate prelungi la data când minorul devine major pe o durată de cel mult 2 ani, dacă aceasta este necesară, pentru realizarea scopului internării."
+            ],
+            "answer": [1]
+          },
+          {
+            "question": "Minorul poate fi liberat condiţionat din centrul educativ, cu îndeplinirea condiţiilor legate, dacă a executat:",
+            "options": [
+              "a) cel puţin 6 luni de la data internării în centru",
+              "b) cel puţin 1 an de la data internării în centru",
+              "c) cel puţin jumătate din durata internării."
+            ],
+            "answer": [2]
+          },
+          {
+            "question": "În cazul în care minorul comite o infracţiune care se sancţionează numai cu pedeapsa amenzii, aceasta se va prescrie în termen de:",
+            "options": [
+              "a) 3 ani",
+              "b) un an şi 6 luni",
+              "c) între un an şi 6 luni şi 3 ani."
+            ],
+            "answer": [1]
+          },
+          {
+            "question": "Când minorul a comis o infracţiune de omor, aceasta se va prescrie în termen de:",
+            "options": [
+              "a) 15 ani",
+              "b) 15 ani reduşi la jumătate",
+              "c) nu se va prescrie niciodată."
+            ],
+            "answer": [2]
+          },
+          {
+            "question": "Faţă de un minor, care răspunde penal, instanţa poate dispune:",
+            "options": [
+            "suspendarea executării pedepsei sub supraveghere sau sub control",
+            "reţinerea",
+            "aplicarea unei pedepse neprivative de libertate."
+            ],
+            "answer": [1]
+            },
+            {
+            "question": "Pentru a putea aplica minorului o măsură educativă:",
+            "options": [
+            "este obligatoriu ca la data pronunţării hotărârii acesta să nu fi depăşit vârsta de 18 ani",
+            "este obligatoriu ca la data rămânerii definitive a hotărârii acesta să nu fi depăşit vârsta de 18 ani",
+            "este obligatoriu ca acesta să aibe între 14 şi 18 ani."
+            ],
+            "answer": [2]
+            },
+            {
+            "question": "În cazul în care inculpatul a săvârşit o infracţiune continuă, care s-a consumat când el avea 17 ani, dar s-a epuizat după ce împlinise vârsta de 18 ani:",
+            "options": [
+            "nu se poate aplica măsura educativă a internării într-un centru educativ",
+            "instanţa poate dispune suspendarea sub supraveghere a executării pedepsei",
+            "condamnarea pentru această infracţiune nu poate fi niciodată prim termen al unei recidive."
+            ],
+            "answer": [0, 1]
+            },
+            {
+            "question": "În vederea efectuării evaluării minorului:",
+            "options": [
+            "instanţa va solicita serviciului de probaţiune întocmirea unui referat care va cuprinde şi propuneri motivate referitoare la natura şi durata programelor de reintegrare socială pe care minorul ar trebui să le urmeze,",
+            "referatul de evaluare privind respectarea condiţiilor de executare a măsurii educative sau a obligaţiilor impuse se întocmeşte întotdeauna de către serviciul de probaţiune în toate cazurile în care instanţa dispune asupra măsurii educative ori asupra modificării sau încetării executării obligaţiilor impuse",
+            "în cazul schimbării regimului de executare, referatul de valuare va fi întocmit de către centrul educativ ori de detenţie."
+            ],
+            "answer": [0, 2]
+            },
+            {
+            "question": "Măsura educativă a consemnării la sfârşit de săptămână:",
+            "options": [
+            "constă în obligaţia minorului de a nu părăsi locuinţa în zilele de sâmbătă şi duminică, afară de cazul în care, în această perioadă, are obligaţia de a participa la anumite programe ori de a desfăşura anumite activităţi impuse de instanţă",
+            "supravegherea se face sub coordonarea părinţilor sau a serviciului de probaţiune",
+            "se dispune pe o durată cuprinsă între o lună şi 3 luni."
+            ],
+            "answer": [0, 2]
+            },
+            {
+            "question": "În cazul unui minor în vârstă de 17 ani care comite un omor asupra tatălui său, iar instanţa constată că a acţionat în condiţiile iresponsabilităţii datorate alienaţiei mintale:",
+            "options": [
+            "nu se poate aplica nicio măsură educativă",
+            "se poate aplica măsura educativă a internării într-un centru de detenţie",
+            "se poate aplica măsura de siguranţă a internării medicale."
+            ],
+            "answer": [0, 2]
+            },
+            {
+            "question": "Instanţa a reţinut că inculpata, minoră în vârstă de 17 ani, a săvârşit infracţiunea de rele tratamnete aplicate minorului, asupra fiului său în vârstă de un an, şi a dispus faţă de inculpată măsura internării într-un centru educare pe o durată de 2 ani. În acest caz:",
+            "options": [
+            "instanţa putea să aplice inculpatei şi pedeapsa accesorie a interzicerii drepturilor părinteşti pe durata internării",
+            "instanţa nu putea dispune internarea într-un centru educativ, deoarece prin căsătorie minorul dobândeşte capacitatea deplină de exerciţiu şi este supus regimului sancţionator prevăzut de legea penală pentru majori",
+            "instanţa nu a greşit atunci când a stabilit durata măsurii internării."
+            ],
+            "answer": [2]
+            },
+            {
+            "question": "În cazul săvârşirii, până la împlinirea duratei internării, a unei noi infracţiuni de către o persoană care nu a împlinit vârsta de 18 ani şi faţă de care s-a dispus înlocuirea măsurii internării într-un centru de detenţie cu măsura asistării zilnice, instanţa revine asupra înlocuirii şi dispune:",
+            "options": [
+            "executarea restului rămas din durata măsurii internării într-un centru de detenţie",
+            "prelungirea duratei acestei internări",
+            "prelungirea duratei acestei internări, fără a se depăşi maxima prevăzută de lege."
+            ],
+            "answer": [0, 2]
+            },
+            {
+            "question": "În caz de concurs de infracţiuni săvârşite în timpul minorităţii:",
+            "options": [
+            "se stabileşte şi se ia o singură măsură educativă pentru toate faptele",
+            "se stabileşte câte o măsură educativă pentru fiecare infracţiune concurentă şi se execută cea mai grea",
+            "se aplică numai o măsură educativă privativă de libertate."
+            ],
+            "answer": [0]
+            },
+            {
+            "question": "În cazul săvârşirii a două infracţiuni, dintre care una în timpul minorităţii şi una după majorat, pentru infracţiunea comisă în timpul minorităţii se ia o măsură educativă, iar pentru infracţiunea săvârşită după majorat se stabileşte o pedeapsă, după care:",
+            "options": [
+            "dacă măsura educativă este neprivativă de libertate, se execută numai pedeapsa",
+            "dacă măsura educativă este privativă de libertate, iar pedeapsa este închisoarea, se aplică pedeapsa închisorii, care se majorează cu o durată egală cu cel puţin jumătate din durata măsurii educative ori din restul rămas neexecutat din aceasta la data săvârşirii infracţiunii comise după majorat",
+            "dacă pedeapsa aplicată pentru infracţiunea săvârşită după majorat este detenţiunea pe viaţă, se execută numai această pedeapsă."
+            ],
+            "answer": [0, 2]
+            },
+            {
+            "question": "În cazul săvârşirii a două infracţiuni, dintre care una în timpul minorităţii şi una după majorat, pentru infracţiunea comisă în timpul minorităţii se ia o măsură educativă, iar pentru infracţiunea săvârşită după majorat se stabileşte o pedeapsă, după care:",
+            "options": [
+            "dacă măsura educativă este privativă de libertate, iar pedeapsa este închisoarea, se aplică pedeapsa închisorii, care se majorează cu o durată egală cu cel puţin o pătrime din durata măsurii educative ori din restul rămas neexecutat din aceasta la data săvârşirii infracţiunii comise după majorat",
+            "dacă măsura educativă este privativă de libertate, iar pedeapsa este amenda, se execută măsura educativă, a cărei durată se majorează cu cel mult 6 luni, fără a depăşi maximul prevăzut de lege pentru aceasta",
+            "măsura educativă se va aplica pe lângă pedeapsa principală."],
+            "answer": [0,1]
+            }
+    ]
+}

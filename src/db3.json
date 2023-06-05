@@ -1,0 +1,294 @@
+{
+    "questions": [
+        {
+            "question": "Limitele pedepsei complementare a interzicerii exercitării unor drepturi sunt:",
+            "options": [
+                "1-7 ani",
+                "1-5 ani",
+                "1-10 ani"
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Pedepsele accesorii pot fi aplicate:",
+            "options": [
+                "dacă pedeapsa principală este închisoarea de cel puţin 2 ani",
+                "dacă pedeapsa principală este închisoarea",
+                "dacă pedeapsa principală aplicată este detenţiunea pe viaţă",
+                "dacă pedeapsa principală este amenda"
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Pedeapsa complementară a interzicerii exercitării unor drepturi se poate executa:",
+            "options": [
+                "în timpul executării pedepsei principale",
+                "după amnistierea faptei",
+                "după executarea pedepsei principale sau considerarea ei ca executată"
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "Pedeapsa complementară a degradării militare constă în:",
+            "options": [
+                "pierderea gradului şi a dreptului de a purta uniformă",
+                "pierderea dreptului de a purta uniformă pe timp de 5 ani",
+                "pierderea gradului şi a dreptului de a purta uniformă pe timpul executării pedepsei principale"
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "Degradarea militară se poate aplica:",
+            "options": [
+                "pentru infracţiunile comise cu intenţie, dacă pedeapsa principală prevăzută de lege este închisoarea între 5 şi 15 ani",
+                "pe o perioadă de la 1 la 5 ani",
+                "militarilor rezervişti sau în retragere"
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Pedeapsa accesorie se aplică de drept:",
+            "options": [
+                "când s-a dispus suspendarea condiţionată a executării pedepsei",
+                "când instanţa a aplicat pedeapsa amenzii",
+                "când instanţa a aplicat pedeapsa detenţiunii pe viaţă",
+                "când instanţa a aplicat pedeapsa închisorii"
+            ],
+            "answer": [
+                2,
+                3
+            ]
+        },
+        {
+            "question": "Aplicarea pedepsei complementare a interzicerii exercitării unor drepturi prevăzută de lege pentru infracţiunea de luare de mită se aplică dacă pedeapsa principală aplicată este închisoarea de:",
+            "options": [
+                "indiferent de cuantumul ei",
+                "5 ani",
+                "minim 2 ani"
+            ],
+            "answer": [
+                0,
+                1
+            ]
+        },
+        {
+            "question": "Aplicarea pedepsei interzicerii exercitării unor drepturi este facultativă:",
+            "options": [
+                "când legea prevede această pedeapsă indiferent de durata pedepsei principale aplicată de instanţă",
+                "când legea prevede această pedeapsă cu condiţia ca pedeapsa principală aplicată de instanţă să fie închisoarea de cel puţin 2 ani",
+                "când legea nu prevede în mod expres şi aplicarea pedepsei complementare, dar instanţa constată că, faţă de natura şi gravitatea infracţiunii, împrejurările cauzei şi persoana infractorului, această pedeapsă este necesară"
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Aplicarea pedepsei complementare a interzicerii unor drepturi este facultativă întotdeauna când:",
+            "options": [
+                "instanța aplică inculpatului pedeapsa închisorii mai mică de 2 ani",
+                "instanța reține circumstanțe atenuante legale în cazul unei infracțiuni pentru care legea prevede obligativitatea aplicării pedepsei complementare",
+                "instanța dispunde suspendarea condiționată a executării pedepsei, iar infracţiunea este comisă din culpă"
+            ],
+            "answer": []
+        },
+        {
+            "question": "În cazul concursului de infracţiuni pedeapsa complementară a interzicerii exercitării unor drepturi:",
+            "options": [
+                "se aplică pe lângă pedeapsa rezultantă",
+                "se aplică doar pe lângă fiecare dintre pedepsele principale",
+                "se aplică pe lângă fiecare dintre pedepsele principale şi apoi pe lângă pedeapsa rezultantă"
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Pedeapsa complementară a degradării militare:",
+            "options": [
+                "nu îşi mai poate produce efectele dacă infracţiunea care a determinat condamnarea a fost amnistiată în timpul executării pedepsei principale",
+                "nu poate face obiectul unei graţieri individuale",
+                "se poate dispune şi pe lângă o pedeapsă principală de cel puţin 2 ani închisoare a cărei executare a fost suspendată sub supraveghere"
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Pedeapsa accesorie se aplică:",
+            "options": [
+                "şi condamnaţilor minori, dacă pe parcursul executării măsurii educative privative de libertate aceştia devin majori",
+                "pe lângă pedeapsa închisorii de cel puţin 15 zile",
+                "pe lângă pedeapsa detenţiunii pe viaţă"
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Interzicerea exercitării unor drepturi, ca pedeapsă complementară, se poate aplica pe o durată cuprinsă între:",
+            "options": [
+                "1-5 ani, limite care nu pot fi depăşite",
+                "1-5 ani, limite care pot fi depăşite, ca efect al circumstanţelor atenuante sau agravante",
+                "o durată prevăzută expres de C.pen."
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "Aplicarea pedepsei interzicerii unor drepturi este obligatorie:",
+            "options": [
+                "când legea prevede această pedeapsă, indiferent de limita de pedeapsă principală aplicată de instană",
+                "când legea prevede această pedeapsă, cu condiţia ca pedeapsa principală aplicată să fie închisoarea de cel puţin 2 ani",
+                "pentru infracţiunile comise cu intenţie directă calificată prin scop"
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "Aplicarea pedepsei interzicerii exercitării unor drepturi este facultativă:",
+            "options": [
+                "în cazul tuturor infracţiunilor comise din culpă",
+                "când nu este prevăzută de lege, dar instanţa consideră necesar că, faţă de natura şi gravitatea faptei şi persoana făptuitorului este necesară aplicarea acesteia, indiferent de natura pedepsei principale aplicate",
+                "când nu este prevăzută de lege, dar instanţa consideră necesar că, faţă de natura şi gravitatea faptei şi persoana făptuitorului este necesară aplicarea acesteia"
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "16. Pedeapsa complementară a interzicerii unor drepturi se poate executa:",
+            "options": [
+            "a) în timpul executării pedepsei principale",
+            "b) după executarea pedepsei principale",
+            "c) după graţierea totală sau a restului de pedeapsă",
+            "d) după prescripţia executării pedepsei."
+            ],
+            "answer": [0, 1, 2, 3]
+            },
+            {
+            "question": "17. Pedeapsa complementară a degradării militare se execută:",
+            "options": [
+            "a) la rămânerea definitivă a hotărârii de condamnare prin care a fost dispusă",
+            "b) după executarea pedepsei principale",
+            "c) la data liberării condiţionate din executarea pedepsei închisorii pe lângă care a fost dispusă."
+            ],
+            "answer": [0]
+            },
+            {
+            "question": "18. Degradarea militară se poate aplica:",
+            "options": [
+            "a) numai militarilor activi",
+            "b) pe o perioadă de la 1-5 ani",
+            "c) chiar şi militarilor rezervişti."
+            ],
+            "answer": [2]
+            },
+            {
+            "question": "19. Pedeapsa accesorie se aplică de drept:",
+            "options": [
+            "a) când instanţa a pronunţat pedeapsa detenţiunii pe viaţă",
+            "b) când instanţa a pronunţat pedeapsa închisorii",
+            "c) când s-a dispus suspendarea sub supraveghere a executării pedepsei."
+            ],
+            "answer": [0, 1]
+            },
+            {
+            "question": "20. Degradarea militară se aplică în mod obligatoriu condamnaţilor militari şi rezervişti:",
+            "options": [
+            "a) în cazul infracţiunilor grave ce au atras pedeapsa detenţiunii pe viaţă, indiferent de forma de vinovăţie cu care s-a comis infracţiunea",
+            "b) în cazul infracţiunilor ce au atras o pedeapsă mai mare de 10 ani închisoare",
+            "c) în cazul infracţiunilor care prevăd un minim general de 10 ani închisoare."
+            ],
+            "answer": [0, 1]
+            },
+            {
+            "question": "21. Degradarea militară este facultativă în cazul condamnaţilor militari şi rezervişti:",
+            "options": [
+            "a) când pedeapsa aplicată de instanţă este închisoarea de cel puţin 5 ani şi de cel mult 10 ani",
+            "b) când infracţiunea a fost săvârşită cu intenţie, iar instanţa a aplicat pedeapsa închisorii de 4 ani",
+            "c) în cazul infracţiunii de ucidere din culpă, când s-a aplicat pedeapsa închisorii de 7 ani."
+            ],
+            "answer": [0]
+            },
+            {
+            "question": "22. Constituie pedeapsă complementară a interzicerii unor drepturi:",
+            "options": [
+            "a) interzicerea unei funcţii sau profesii",
+            "b) interzicerea dreptului de a ocupa o funcţie sau de a exercita o profesie de natura aceleia de care s-a folosit condamnatul pentru săvârşirea infracţiunii",
+            "c) interzicerea unei funcţii datorită incapacităţii făptuitorului de a ocupa funcţia",
+            "d) expulzarea."
+            ],
+            "answer": [1, 3]
+            },
+            {
+            "question": "23. Pedeapsa accesorie se aplică:",
+            "options": [
+            "a) dacă pedeapsa principală este închisoarea",
+            "b) doar dacă pedeapsa principală este închisoarea",
+            "c) doar dacă pedeapsa principală este închisoarea mai mare de 2 ani."
+            ],
+            "answer": [0]
+            },
+            {
+            "question": "24. Măsura interzicerii de a se afla în anumite localităţi poate fi luată:",
+            "options": [
+            "a) numai dacă instanţa aplică pedeapsa închisorii",
+            "b) chiar dacă instanţa aplică pedeapsa amenzii, cu îndeplinirea celorlalte condiţii legale",
+            "c) numai dacă făptuitorul a mai fost condamnat anterior pentru alte infracţiuni."
+            ],
+            "answer": [1]
+            },
+            {
+            "question": "25. Măsura expulzării poate fi luată:",
+            "options": [
+            "a) faţă de o persoană având dublă cetăţenie turco-română",
+            "b) faţă de o persoană fără cetăţenie care are totuşi domiciliul în România",
+            "c) faţă de un cetăţean străin, chiar dacă se cunoaşte faptul că prin luarea acestei măsuri va fi supus la tortură în statul în care urmează a fi expulzat."
+            ],
+            "answer": []
+            },
+            {
+            "question": "26. Ca natură juridică, interzicerea de a se afla în anumite localităţi este:",
+            "options": [
+            "a) o pedeapsă accesorie",
+            "b) o măsură de siguranţă",
+            "c) o pedeapsă complementară."
+            ],
+            "answer": [2]
+            },
+            {
+            "question": "27. Pot fi expulzaţi:",
+            "options": [
+            "a) cetăţenii străini sau apatrizii care nu domiciliază în ţară şi care au comis infracţiuni pe teritoriul României",
+            "b) persoanele de la punctul a) care au săvârşit infracţiuni atât în ţară cât şi în afara ţării şi cărora li se aplică legea penală română",
+            "c) numai cetăţenii străini nu şi naţionalii."
+            ],
+            "answer": [0]
+            },
+            {
+            "question": "28. Interzicerea de a se afla în anumite localităţi se poate lua:",
+            "options": [
+            "a) excepţional şi în cazul comiterii doar a unei singure infracţiuni",
+            "b) în cazul pronunţării unei condamnări la pedeapsa închisorii dacă a mai fost condamnat şi pentru alte infracţiuni",
+            "c) numai în cazul infracţiunilor grave."
+            ],
+            "answer": [0]
+            }
+    ]
+}

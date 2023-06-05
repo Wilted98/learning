@@ -1,0 +1,478 @@
+{
+    "questions": [
+      {
+        "question": "Pentru a putea produce efecte, retragerea plângerii prealabile:",
+        "options": [
+          "a) trebuie să se facă faţă de toţi participanţii",
+          "b) este suficientă, dacă este făcută numai faţă de un participant",
+          "c) poate fi făcută şi numai de către una dintre persoanele vătămate prin aceeaşi faptă."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Împăcarea părţilor în cazurile prevăzute de lege:",
+        "options": [
+          "a) înlătură răspunderea penală şi stinge acţiunea civilă",
+          "b) nu stinge acţiunea civilă",
+          "c) înlătură doar executarea pedepsei."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "În cazul infracţiunilor pentru care punerea în mişcare a acţiunii penale este condiţionată de introducerea unei plângeri prealabile, iar acţiunea penală a fost pusă în mişcare din oficiu înlăturarea răspunderii penale se poate face:",
+        "options": [
+          "a) prin retragerea plângerii prealabile",
+          "b) atât prin retragerea plângerii prealabile cât şi prin împăcarea părţilor",
+          "c) prin împăcarea părţilor."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Amnistia se acordă de:",
+        "options": [
+          "a) Parlament",
+          "b) Guvern",
+          "c) Ministrul justiţiei",
+          "d) Preşedintele ţării."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Amnistia:",
+        "options": [
+          "a) poate înlătura caracterul penal al faptei",
+          "b) înlătură răspunderea penală",
+          "c) nu înlătură executarea pedepsei complementare."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Amnistia nu are efecte asupra:",
+        "options": [
+          "a) executării pedepsei principale",
+          "b) drepturilor persoanei vătămate prin infracţiune",
+          "c) executării pedepselor complementare."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Efectele amnistiei şi graţierii sunt:",
+        "options": [
+          "a) amândouă înlătură răspunderea penală",
+          "b) amândouă înlătură consecinţele condamnării",
+          "c) amândouă înlătură executarea pedepsei."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Atât amnistia cât şi graţierea:",
+        "options": [
+          "a) înlătură în toate cazurile executarea pedepsei complementare",
+          "b) nu au efecte asupra măsurilor de siguranţă",
+          "c) pot conduce la înlăturarea răspunderii penale."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Termenul de prescripţie a răspunderii penale începe să curgă în cazul infracţiunilor continuate:",
+        "options": [
+          "a) de la data comiterii primei acţiuni sau inacţiuni",
+          "b) de la data consumării infracţiunii",
+          "c) de la data comiterii ultimei acţiuni sau inacţiuni."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Prescripţia nu înlătură răspunderea penală în cazul infracţiunilor:",
+        "options": [
+          "a) de omor calificat şi lovituri sau vătămări cauzatoare de moarte",
+          "b) contra siguranţei naţionale",
+          "c) de genocid şi contra umanităţii."
+        ],
+        "answer": [0, 2]
+      },
+      {
+        "question": "Amnistia înlătură:",
+        "options": [
+        "a) efectul măsurilor de siguranţă",
+        "b) executarea pedepsei",
+        "c) caracterul penal al faptei",
+        "d) răspunderea penală"
+        ],
+        "answer": [1, 3]
+        },
+        {
+        "question": "Amenda încasată anterior intervenirii amnistiei:",
+        "options": [
+        "a) nu se restituie",
+        "b) se restituie",
+        "c) se restituie numai dacă prin actul de clemenţă se prevede astfel"
+        ],
+        "answer": [0]
+        },
+        {
+        "question": "Termenul de prescripţie a răspunderii penale, când legea prevede pentru infracţiunea comisă pedeapsa detenţiunii pe viaţă este de:",
+        "options": [
+        "a) 20 ani",
+        "b) 25 ani",
+        "c) 30 ani",
+        "d) 15 ani"
+        ],
+        "answer": [3]
+        },
+        {
+        "question": "Înlătură răspunderea penală:",
+        "options": [
+        "a) lipsa plângerii prealabile",
+        "b) împăcarea, dar numai în acele cazuri în care legea permite acest lucru",
+        "c) retragerea plângerii prealabile"
+        ],
+        "answer": [0, 1, 2]
+        },
+        {
+        "question": "Termenele de prescripţie a răspunderii penale încep să curgă:",
+        "options": [
+        "a) de la data sesizării sau autosesizării organelor judiciare",
+        "b) de la data comiterii faptei",
+        "c) de la data comiterii ultimei acţiuni/inacţiuni în cazul infracţiunii continuate"
+        ],
+        "answer": [1, 2]
+        },
+        {
+        "question": "Cursul prescripţiei răspunderii penale se întrerupe:",
+        "options": [
+        "a) în cazul unei percheziţii corporale",
+        "b) prin îndeplinirea oricărui act de procedură în cauză",
+        "c) şi faţă de participanţii la acea infracţiune, chiar dacă actul de întrerupere priveşte doar pe unul dintre ei"
+        ],
+        "answer": [0, 1, 2]
+        },
+        {
+        "question": "Condiţiile împăcării sunt:",
+        "options": [
+        "a) să intervină doar în cazurile prevăzute de lege",
+        "b) să intervină numai până la pronunţarea sentinţei în primă instanţă",
+        "c) să fie personală, totală şi necondiţionată"
+        ],
+        "answer": [0, 2]
+        },
+        {
+        "question": "Suspendarea cursului prescripţiei răspunderii penale intervine:",
+        "options": [
+        "a) când o împrejurare de neprevăzut ori de neînlăturat împiedică punerea mişcare a acţiunii penale",
+        "b) în cazurile şi condiţiile prevăzute în Codul de procedură penală",
+        "c) când se săvârşeşte o nouă infracţiune"
+        ],
+        "answer": [0]
+        },
+        {
+        "question": "În cazul vătămării mai multor persoane prin aceeaşi faptă pedepsită la plângerea prealabilă:",
+        "options": [
+        "a) plângerea produce efecte numai dacă este făcută de către toate persoanele",
+        "b) plângerea produce efecte şi dacă este făcută de către o singură persoană",
+        "c) împăcarea nu mai este posibilă odată depusă plângerea prealabilă"
+        ],
+        "answer": [1, 2]
+        },
+        {
+        "question": "În cazul săvârşirii faptei de către mai mulţi participanţi, înlăturarea răspunderii penale faţă de toţi se poate face prin:",
+        "options": [
+        "a) retragerea plângerii prealabile faţă de toţi participanţii",
+        "b) retragerea plângerii prealabile faţă de un participant",
+        "c) retragerea plângerii prealabile faţă de un participant şi împăcarea cu restul"
+        ],
+        "answer": [0, 2]
+        },
+        {
+        "question": "Retragerea plângerii prealabile când cel vătămat este o persoană fără capacitate de exercitiu, înlătură răspunderea penală dacă aceasta:",
+        "options": [
+        "a) este făcută personal",
+        "b) este făcută personal cu încuviinţarea reprezentatului legal",
+        "c) este făcută de reprezentantul legal"
+        ],
+        "answer": [2]
+        },
+        {
+        "question": "În cazul infracţiunilor pentru care acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate, retragerea acestei plângeri înlătură răspunderea penală pentru toţi dacă:",
+        "options": [
+        "a) este făcută faţă de un participant în cazul pluralităţii de infractori",
+        "b) este făcută faţă de toţi participanţii",
+        "c) este făcută de reprezentantul legal în cazul persoanei cu capacitate de exerciţiu restrânsă"
+        ],
+        "answer": [1]
+        },
+        {
+        "question": "Pentru a putea produce efecte, retragerea plângerii prealabile:",
+        "options": [
+        "a) trebuie să se facă faţă de toţi participanţii",
+        "b) este suficient dacă este făcută numai faţă de un participant",
+        "c) poate fi făcută şi numai de către una dintre persoanele vătămate prin aceeaşi faptă"
+        ],
+        "answer": [1]
+        },
+        {
+        "question": "Infracţiunile comise în ziua adoptării legii de amnistie:",
+        "options": [
+        "a) nu cad sub incidenţa acesteia",
+        "b) cad sub incidenţa acesteia",
+        "c) cad sub incidenţa acesteia dacă se prevede aceasta în actul de amnistie"
+        ],
+        "answer": [0]
+        },
+        {
+        "question": "Dreptul de a cere continuarea procesului penal, pentru a dovedi nevinovăţia în cazul intervenirii amnistiei:",
+        "options": [
+        "a) aparţine numai inculpatului sau suspectului",
+        "b) aparţine şi procurorului",
+        "c) aparţine inculpatului, soţului acestuia şi copiilor majori"
+        ],
+        "answer": [0]
+        },
+        {
+            "question": "Prescripţia nu înlătură răspunderea penală în cazul:",
+            "options": [
+              "infracţiunilor contra siguranţei naţionale",
+              "infracţiunilor contra umanităţii",
+              "infracţiunilor ce prevăd pedeapsa detenţiunii pe viaţă"
+            ],
+            "answer": [1]
+          },
+          {
+            "question": "Amnistia nu are efecte:",
+            "options": [
+              "asupra drepturilor civile ale persoanei vătămate",
+              "asupra măsurilor de siguranţă",
+              "asupra măsurilor educative"
+            ],
+            "answer": [0, 1]
+          },
+          {
+            "question": "Amnistia antecondamnatorie:",
+            "options": [
+              "împiedică dispunerea măsurilor de siguranță care se pot aplica doar pe lângă o pedeapsă",
+              "nu împiedică niciodată dispunerea măsurilor de siguranță, deoarece amnistia nu produce efecte asupra acestora",
+              "face să curgă termenul de reabilitare pentru infracțiunea respectivă de la data aplicării legii de amnistie"
+            ],
+            "answer": [0]
+          },
+          {
+            "question": "Amnistia nu are efecte:",
+            "options": [
+              "asupra pedepselor complementare",
+              "identice cu reabilitarea",
+              "asupra pedepsei amenzii deja încasate"
+            ],
+            "answer": [2]
+          },
+          {
+            "question": "Când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii mai mare de 20 ani, termenul de prescripţie a răspunderii penale este de:",
+            "options": [
+              "15 ani",
+              "20 ani",
+              "25 ani"
+            ],
+            "answer": [0]
+          },
+          {
+            "question": "Când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii mai mare de 10 ani, dar care nu depăşeşte 20 ani, termenul de prescripţie al răspunderii penale este:",
+            "options": [
+              "15 ani",
+              "12 ani",
+              "10 ani"
+            ],
+            "answer": [2]
+          },
+          {
+            "question": "Când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii mai mare de 5 ani, dar care nu depăşeşte 10 ani, termenul de prescripţie a răspunderii penale este de:",
+            "options": [
+              "5 ani",
+              "7 ani",
+              "8 ani"
+            ],
+            "answer": [2]
+          },
+          {
+            "question": "Când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii de 4 ani, termenul de prescripţie a răspunderii penale este de:",
+            "options": [
+              "5 ani",
+              "7 ani",
+              "4 ani"
+            ],
+            "answer": [0]
+          },
+          {
+            "question": "Înlătură răspunderea penală:",
+            "options": [
+              "lipsa plângerii prealabile şi amnistia",
+              "retragerea plângerii prealabile",
+              "împăcarea, în cazurile prevăzute de lege"
+            ],
+            "answer": [0, 1, 2]
+          },
+          {
+            "question": "Când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii de 1 an sau amenda, termenul de prescripţie a răspunderii penale este de:",
+            "options": [
+              "1 an",
+              "3 ani",
+              "2 ani"
+            ],
+            "answer": [1]
+          },
+          {
+            "question": "În cazul mai multor întreruperi a termenului de prescripţie, prescripţia răspunderii penale va interveni totuşi, dacă se depăşeşte termenul prevăzut de art. 154 C. pen., cu:",
+            "options": [
+              "un sfert",
+              "o treime",
+              "încă o dată"
+            ],
+            "answer": [2]
+          },
+          {
+            "question": "Termenele de prescripţie a răspunderii penale încep să curgă:",
+            "options": [
+              "de la data sesizării sau autosesizării organelor judiciare",
+              "de la data săvârşirii infracţiunii",
+              "de la data săvârşirii ultimei acţiuni/inacţiuni în cazul infracţiunii continue",
+              "de la data încetării acţiunii/inacţiunii în cazul infracţiunii continuate"
+            ],
+            "answer": [1]
+          },
+          {
+            "question": "Dacă, în termenul de prescripţie a răspunderii penale pentru o infracţiune din culpă, aceeaşi persoană comite o infracţiune de furt:",
+            "options": [
+              "se va întrerupe cursul prescripţiei răspunderii penale",
+              "va lua naştere un concurs de infracţiuni",
+              "va lua naştere o pluralitate intermediară"
+            ],
+            "answer": [1]
+          },
+          {
+            "question": "Amnistia înlătură:",
+            "options": [
+              "răspunderea penală",
+              "interdicţiile, incapacităţile, măsurile de siguranţă şi decăderile derivând din condamnare",
+              "obligaţiile civile faţă de victimă"
+            ],
+            "answer": [0]
+          },
+          {
+            "question": "Cursul termenului de prescripţie a răspunderii penale este suspendat:",
+            "options": [
+              "când există o dispoziţie legală ce împiedică punerea în mişcare a acţiunii penale sau continuarea procesului penal",
+              "când există o împrejurare de neprevăzut ori de neînlăturat ce împiedică punerea în mişcare a acţiunii penale sau continuarea procesului  penal",
+              "pe timpul unei epidemii."
+            ],
+            "answer": [0,1,2]
+          },
+          {
+            "question": "Condiţiile împăcării sunt:",
+            "options": [
+            "a) să intervină pentru cazurile prevăzute de lege",
+            "b) să fie personală, definitivă, totală, necondiţionată",
+            "c) să intervină numai până la pronunţarea sentinţei în primă instanţă."
+            ],
+            "answer": [0, 1]
+            },
+            {
+            "question": "Sunt cauze care înlătură răspunderea penală:",
+            "options": [
+            "a) amnistia şi cazul fortuit",
+            "b) graţierea",
+            "c) prescripţia."
+            ],
+            "answer": [2]
+            },
+            {
+            "question": "Sunt cauze care înlătură răspunderea penală:",
+            "options": [
+            "a) desistarea şi împiedicarea producerii rezultatului",
+            "b) retragerea plângerii prealabile",
+            "c) împăcarea."
+            ],
+            "answer": [1, 2]
+            },
+            {
+            "question": "Sunt cauze care înlătură răspunderea penală:",
+            "options": [
+            "a) lipsa plângerii prealabile",
+            "b) prescripţia executării pedepsei",
+            "c) retragerea plângerii prealabile."
+            ],
+            "answer": [0, 2]
+            },
+            {
+            "question": "Fapta pentru care punerea în mişcare a acţiunii penale este condiţionată de introducerea unei plângeri prealabile de către persoana vătămată săvârşită de mai multe persoane:",
+            "options": [
+            "a) atrage răspunderea penală a tuturor participanţilor la săvârşirea ei, chiar dacă plângerea s-a făcut sau se menţine numai cu privire la unul dintre participanţi",
+            "b) atrage răspunderea doar a participantului faţă de care partea vătămată nu şi-a retras plângerea",
+            "c) pentru a atrage răspunderea penală, plângerea prealabilă a părţii vătămate trebuie făcută faţă de toţi participanţii."
+            ],
+            "answer": [0, 1]
+            },
+            {
+            "question": "Cursul termenului de prescripţie a răspunderii penale poate fi întrerupt:",
+            "options": [
+            "a) prin citarea complicelui şi instigatorului la infracţiunea comisă",
+            "b) prin actul de punere în mişcare a acţiunii penale",
+            "c) prin percheziţia la domiciliu."
+            ],
+            "answer": [0, 1, 2]
+            },
+            {
+            "question": "Împăcarea este posibilă:",
+            "options": [
+            "a) numai la infracţiunile pentru care se prevede necesitatea formulării plângerii prealabile",
+            "b) în cazul infracţiunii de furt simplu",
+            "c) când persoana vătămată este o persoană lipsită de capacitate de exerciţiu sau cu capacitate restrânsă şi acţiunea penală a fost pusă în mişcare din oficiu."
+            ],
+            "answer": [1, 2]
+            },
+            {
+            "question": "Împăcarea:",
+            "options": [
+            "a) este personală, cu excepţia persoanelor fără capacitate de exerciţiu",
+            "b) poate fi realizată prin mandat special",
+            "c) poate fi exprimată numai până la citirea actului de sesizare",
+            "d) poate fi şi implicită."
+            ],
+            "answer": [0, 2, 3]
+            },
+            {
+            "question": "Efectele amnistiei se pot produce:",
+            "options": [
+            "a) numai in rem",
+            "b) in personam",
+            "c) in rem sau in personam."
+            ],
+            "answer": [0]
+            },
+            {
+            "question": "Lipsa nejustificată a părţii vătămate la două termene în faţa primei instanţe este considerată drept retragere a plângerii prealabile în cazul infracţiunilor de:",
+            "options": [
+            "a) ameninţare",
+            "b) violare de domiciliu",
+            "c) act sexual cu o minor."
+            ],
+            "answer": [0, 1]
+            },
+            {
+            "question": "În cazul infracţiunilor pentru care legea prevede necesitatea plângerii prealabile, retragerea acestei plângeri faţă de unul dintre făptuitori:",
+            "options": [
+            "a) are drept efect încetarea procesului penal cu privire la acesta",
+            "b) are drept efect încetarea procesului penal cu privire la toţi făptuitorii",
+            "c) nu are nici un efect în ceea ce-i priveşte pe făptuitori."
+            ],
+            "answer": [0]
+            },
+            {
+            "question": "Împăcarea produce efecte:",
+            "options": [
+            "a) numai în cazurile anume prevăzute de lege",
+            "b) numai în cazurile în care acţiunea penală a fost pornită ca urmare a plângerii prealabile",
+            "c) numai dacă intervine până la citirea actului de sesizare."
+            ],
+            "answer": [0, 2]
+            }
+    ]
+  }
+  

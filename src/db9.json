@@ -1,0 +1,399 @@
+{
+    "questions": [
+        {
+            "question": "1. Prescripţia executării pedepsei:",
+            "options": [
+                "a) înlătură executarea pedepsei interzicerii unor drepturi",
+                "b) nu înlătură executarea pedepsei interzicerii unor drepturi",
+                "c) înlătură executarea măsurii de siguranţă a internării medicale."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "2. Executarea pedepselor principale nu se prescrie când au fost pronunţate pentru infracţiunile:",
+            "options": [
+                "a) de omor calificat",
+                "b) contra umanităţii",
+                "c) contra capacităţii de luptă a forţelor armate."
+            ],
+            "answer": [
+                0,
+                1
+            ]
+        },
+        {
+            "question": "3. Graţierea este o cauză care înlătură:",
+            "options": [
+                "a) răspunderea penală",
+                "b) executarea pedepsei",
+                "c) consecinţele condamnării."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "4. Graţierea:",
+            "options": [
+                "a) nu are efecte asupra pedepselor complementare, afară de cazul când se dispue altfel prin actul de graţiere",
+                "b) înlătură executarea măsurilor educative privative de libertate",
+                "c) înlătură răspunderea penală."
+            ],
+            "answer": [
+                0,
+                1
+            ]
+        },
+        {
+            "question": "5. Graţierea are ca efect:",
+            "options": [
+                "a) înlăturarea executării măsurilor de siguranţă",
+                "b) înlăturarea executării pedepsei principale",
+                "c) înlăturarea executării măsurilor educative neprivative de libertate."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "6. Graţierea, ca act de clemenţă, se acordă de către:",
+            "options": [
+                "a) Guvern sau Parlament",
+                "b) Preşedintele României",
+                "c) ministrul justiţiei."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "7. Efectele amnistiei şi graţierii sunt:",
+            "options": [
+                "a) amândouă înlătură răspunderea penală",
+                "b) amândouă înlătură consecinţele condamnării",
+                "c) amândouă înlătură executarea pedepsei."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "8. Atât amnistia cât şi graţierea:",
+            "options": [
+                "a) înlătură în toate cazurile executarea pedepselor complementare",
+                "b) nu au efecte asupra măsurilor de siguranţă",
+                "c) sunt acte de clemenţă."
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "9. Termenul de prescripţie a executării pedepsei se suspendă:",
+            "options": [
+                "a) în cazurile şi condiţiile prevăzute în C.p.p.",
+                "b) când se săvârşeşte o nouă infracţiune",
+                "c) când începe executarea pedepsei."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "10. Graţierea nu produce efecte:",
+            "options": [
+                "a) asupra măsurilor de siguranţă",
+                "b) asupra tuturor măsurilor educative",
+                "c) asupra termenului de încercare prevăzut în cazul în care s-a acordat suspendarea condiţionată a executării pedepsei."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "11. Graţierea poate avea ca efect:",
+            "options": [
+                "a) comutarea pedepsei într-una mai uşoară",
+                "b) înlăturarea în tot sau în parte a executării pedepsei",
+                "c) asupra pedepsei complementare, dar numai când se dispune astfel prin actul de graţiere."
+            ],
+            "answer": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "question": "12. Preşedintele României poate acorda:",
+            "options": [
+                "a) graţierea colectivă",
+                "b) numai graţierea individuală, chiar şi a mai multor persoane individualizate",
+                "c) graţierea colectivă şi individuală."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "13. În cazul detenţiunii pe viaţă, termenul de prescripţie al executării pedepsei este de:",
+            "options": [
+                "a) 15 ani",
+                "b) 25 ani",
+                "c) 20 ani."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "14. Graţierea acordată îşi va poduce efectele:",
+            "options": [
+                "a) în timpul urmăririi penale",
+                "b) în timpul judecăţii",
+                "c) numai după ce hotărârea de condamnare a rămas definitivă."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "15. Executarea unei pedepse de 22 de ani închisoare se prescrie în:",
+            "options": [
+                "a) 30 de ani",
+                "b) 20 de ani",
+                "c) 25 de ani."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Termenul de prescripţie a executării pedepsei amenzii aplicate persoanei juridice se prescrie în:",
+            "options": [
+                "3 ani",
+                "5 ani",
+                "exact ca la persoana fizică."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Executarea măsurilor de siguranţă:",
+            "options": [
+                "se prescrie",
+                "nu se prescrie niciodată",
+                "acestea se prescriu numai dacă se prevede astfel prin actul de graţiere."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Legea de grațiere:",
+            "options": [
+                "produce aceleași efecte ca și amnistia antecondamnatorie dacă intervine în cursul procesului",
+                "se aplică asupra pedepsei rezultante în cazul unei pluralități de infracțiuni",
+                "produce efecte asupra participanților numai dacă săvârșirea faptei de către autor este anterioară datei prevăzute pentru aplicarea legii."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Prescripţia înlătură:",
+            "options": [
+                "executarea măsurilor de siguranţă",
+                "executarea măsurilor educative neprivative de libertate",
+                "executarea pedepselor principale şi a celor accesorii."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "În cazul unei condamnări la pedeapsa închisorii de 10 ani, aceasta se prescrie în:",
+            "options": [
+                "20 de ani",
+                "în 15 ani",
+                "în 5 ani plus jumate din durata pedepsei ce trebuie executată."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Graţierea colectivă poate fi acordată de:",
+            "options": [
+                "numai de către Parlament",
+                "şi de Guvern",
+                "Preşedintele României."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "Executarea pedepsei închisorii de 17 ani se prescrie în:",
+            "options": [
+                "25 de ani",
+                "20 de ani",
+                "30 de ani."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "În cazul unei condamnări la pedeapsa închisorii mai mică de 15 ani, termenul de prescripţie a executării pedepsei este de:",
+            "options": [
+                "3 ani plus durata pedepsei ce urma a fi executată, dar nu mai mult de 12 ani",
+                "5 ani plus durata pedepsei ce urma a fi executată, dar nu mai mult de 15 ani",
+                "5 ani plus durata pedepsei ce urma a fi executată, dar nu mai mult de 20 ani."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Executarea pedepsei amenzii pentru persoana fizică se prescrie în termen de:",
+            "options": [
+                "1 an",
+                "6 luni",
+                "3 ani."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Prescripţia nu înlătură executarea pedepsei aplicate în cazul infracţiunilor:",
+            "options": [
+                "contra securătăţii naţionale",
+                "de viol, care a avut ca urmare moartea victimei",
+                "de omor."
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Prescripţia înlătură:",
+            "options": [
+                "executarea pedepsei principale",
+                "executarea pedepsei accesorii",
+                "executarea măsurilor de siguranţă."
+            ],
+            "answer": [
+                0,
+                1
+            ]
+        },
+        {
+            "question": "Termenul de prescripţie a executării pedepsei se întrerupe:",
+            "options": [
+                "prin începerea executării pedepsei",
+                "prin săvârşirea din nou a unei infracţiuni",
+                "de la data sustragerii de la executare, după începerea executării pedepsei."
+            ],
+            "answer": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Graţierea:",
+            "options": [
+                "are efecte asupra măsurilor de siguranţă şi măsurilor educative",
+                "nu are efecte asupra măsurilor de siguranţă şi a măsurilor educative neprivative de libertate",
+                "nu are efecte asupra măsurilor de siguranţă şi măsurilor educative, afară de cazul când se dispune altfel prin actul de graţiere."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Executarea pedepseii închisorii, atunci când aceasta înlocuieşte pedeapsa detenţiunii pe viaţă, se prescrie în:",
+            "options": [
+                "30 de ani",
+                "25 de ani",
+                "20 de ani."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Termenele de prescripţie a răspunderii penale se reduc, pentru cei care, la data săvârşirii infracţiunii, erau minori:",
+            "options": [
+                "cu 1/2",
+                "cu 1/3",
+                "cu 1/4."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "Graţierea:",
+            "options": [
+                "are ca efect înlăturarea în tot sau în parte a executării pedepsei ori comutarea acesteia în alta mai uşoară",
+                "nu are efecte asupra pedepselor a căror executare este suspendată condiţionat",
+                "nu are efecte asupra pedepselor complementare, afară de cazul când se dispune altfel prin actul de graţiere."
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "Prescripţia specială:",
+            "options": [
+                "înlătură executarea pedepsei oricâte întreruperi ar interveni, dacă termenul de prescripţie prevăzut de lege este depăşit cu încă jumătate",
+                "înlătură răspunderea penală şi în cazul în care legea prevede pentru infracţiunea săvârşită doar pedeapsa amenzii",
+                "înlătură răspunderea penală în cazul tuturor infracţiunilor."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Prescripţia specială:",
+            "options": [
+                "înlătură executarea pedepsei, dacă termenul de prescripţie a executării pedepsei a fost depăşit cu încă odată, indiferent de numărul întreruperilor",
+                "nu produce efecte în cazul infracţiunilor contra umanităţii",
+                "nu se poate aplica în cazul minorilor."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "În cazul persoanei fizice, prescripţia executării pedepsei:",
+            "options": [
+                "înlătură executarea pedepsei complementare a interzicerii unor drepturi",
+                "determină încetarea executării pedepsei accesorii",
+                "înlătură executarea măsurilor de siguranţă care se pot dispune numai pe lângă o pedeapsă principală."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "În cazul unui partid politic, prescripţia executării pedepsei complementare a difuzării hotărârii de condamnare:",
+            "options": [
+                "nu poate interveni niciodată, prescripţia executării pedepsei având efecte doar asupra pedepsei principale",
+                "are un termen care, în ipoteza prescrierii executării pedepsei principale, curge în paralel cu termenul acelei prescripţii",
+                "are un termen care, în ipoteza prescrierii executării pedepsei principale, curge de la data împlinirii termenului acelei prescripţii."
+            ],
+            "answer": [
+                2
+            ]
+        }
+    ]
+}

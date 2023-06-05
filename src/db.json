@@ -1,0 +1,235 @@
+{
+    "questions": [
+      {
+        "question": "1. Răspunderea penală:",
+        "options": [
+          "a) reprezintă un ansamblu de drepturi şi obligaţii corelative ale subiectelor raportului juridic penal",
+          "b) se realizează în principal prin constrângerea exercitată de către stat faţă de infractor",
+          "c) are ca scop restabilirea ordinii de drept şi a resocializării infractorului."
+        ],
+        "answer": [
+          0,1,2
+        ]
+      },
+      {
+        "question": "2. Răspunderea penală:",
+        "options": [
+          "a) este o instituţie fundamentală a dreptului penal",
+          "b) este cea mai gravă formă de răspundere socială",
+          "c) conduce la aplicarea celor mai severe sancţiuni juridice."
+        ],
+        "answer": [
+         0,1,2
+        ]
+      },
+      {
+        "question": "3. Unicul temei al răspunderii penale îl reprezintă:",
+        "options": [
+          "a) săvârşirea numai a unei infracţiuni",
+          "b) săvârşirea unei fapte prevăzute de legea penală",
+          "c) săvârşirea unei infracţiuni, indiferent de periculozitatea acesteia şi de persoana făptuitorului."
+        ],
+        "answer": [
+          0,2
+        ]
+      },
+      {
+        "question": "4. Obiectul răspunderii penale îl constituie:",
+        "options": [
+          "a) aplicarea unei sancţiuni de către stat, prin intermediul organelor sale competente",
+          "b) aplicarea doar a unei pedepse de către stat",
+          "c) dreptul statului de a-i cere socoteală făptuitorului pentru fapta sa."
+        ],
+        "answer": [
+         0
+        ]
+      },
+      {
+        "question": "5. Particularităţile răspunderii penale se referă la:",
+        "options": [
+          "a) promptitudinea acesteia, ca o consecinţă firească a comiterii infracţiunii",
+          "b) fapta comisă, subiecte, conţinut şi obiect",
+          "c) imprescriptibilitatea acesteia în cazul unor infracţiuni deosebit de grave."
+        ],
+        "answer": [
+         1
+        ]
+      },
+      {
+        "question": "6. Subiectul activ al răspunderii penale îl reprezintă:",
+        "options": [
+          "a) persoana care a comis infracţiunea, în oricare dintre formele de participaţie",
+          "b) numai statul, prin intermediul organelor sale abilitate",
+          "c) persoana vătămată, în cazul în care acţiunea penală se pune în mişcare la plângerea prealabilă a acesteia."
+        ],
+        "answer": [
+         1
+        ]
+      },
+      {
+        "question": "7. Subiectul pasiv al răspunderii penale îl reprezintă:",
+        "options": [
+          "a) statul, deoarece acesta este şi principalul subiect pasiv al infracţiunii ca garant al apărării tuturor valorilor sociale",
+          "b) persoana fizică sau juridică care a comis infracţiunea, indiferent de forma de participaţie",
+          "c) orice persoană fizică ce a comis o faptă prevăzută de legea penală."
+        ],
+        "answer": [
+          1
+        ]
+      },
+      {
+        "question": "8. Conţinutul răspunderii penale este format din:",
+        "options": [
+          "a) obligaţia statului de a sancţiona pe făptuitor numai dacă vinovăţia sa a fost dovedită şi numai în limitele legii",
+          "b) dreptul infractorului de a răspunde şi de a fi sancţionat numai în limitele legii",
+          "c) dreptul statului de a trage la răspundere penală pe infractor şi obligaţia infratorului de a răspunde pentru fapta sa."
+        ],
+        "answer": [
+          0,1,2
+        ]
+      },
+      {
+        "question": "9. Obiectul răspunderii penale este format din:",
+        "options": [
+          "a) totalitatea drepturilor şi obligaţiilor subiectelor implicate în raportul juridic de conflict",
+          "b) aplicarea unei sancţiuni infractorului individualizată la periculozitatea faptei comise, la împrejurările în care a fost comisă aceasta şi la persoana făptuitorului.",
+          "c) stabilirea şi aplicarea unei măsuri educative minorului care a comis o infracţiune."
+        ],
+        "answer": [
+         1,2
+        ]
+      },
+      {
+        "question": "10. Principiile care guvernează instituţia răspunderii penale sunt:",
+        "options": [
+          "a) legalităţii, unicităţii, personalităţii, individualizării",
+          "b) umanismului şi celerităţii",
+          "c) imprescriptibilităţii."
+        ],
+        "answer": [
+          0,
+          1
+        ]
+      },
+      {
+        "question": "11. Principiul legalităţii răspunderii penale:",
+        "options": [
+          "a) datorită importanţei sale, acesta este consacrat expres în C.pen.",
+          "b) presupune ca apariţia, desfăşurarea şi soluţionarea raportului penal să aibă loc pe baza legii şi în strictă conformitate cu aceasta",
+          "c) presupune legalitatea incriminării şi legalitatea sancţiunilor de drept penal."
+        ],
+        "answer": [
+          1,
+          2
+        ]
+      },
+      {
+        "question": "12. Principiul infracţiunea – unic temei al răspunderii penale:",
+        "options": [
+          "a) este consacrat expres în C.pen.",
+          "b) nu este consacrat expres în C.pen.",
+          "c) are un caracter absolut."
+        ],
+        "answer": [
+          0,
+          2
+        ]
+      },
+      {
+        "question": "13. Principul umanismului răspunderii penale:",
+        "options": [
+          "a) constă în aceea că se adersează numai oamenilor",
+          "b) nu este prevăzut expres în C.pen., dar rezultă din modul în care legea penală este formulată şi aplicată",
+          "c) îşi găseşte expresie în condiţiile şi conţinutul constrângerii juridice, care prin natura dispoziţiilor legale şi conţinutul lor respiră acest umanism, în sensul că acestea nu umilesc sau degradează fiinţa umană."
+        ],
+        "answer": [
+          1,
+          2
+        ]
+      },
+      {
+        "question": "14. Principiul personalităţii răspunderii penale:",
+        "options": [
+          "a) este prevăzut  expres în Codul de procedură penală şi nu în Codul penal",
+          "b) reprezintă o garanţie a libertăţii persoanei",
+          "c) presupune că răspunderea penală revine numai persoanei care a săvârşit ori a participat la săvârşirea unei infracţiuni şi în oricare dintre formele de participaţie."
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "question": "15. Unicitatea răspunderii penale:",
+        "options": [
+          "a) presupune tragerea numai o singură dată la răspundere a persoanei",
+          "b) nu este afectată de judecarea persoanei în mai multe căi de atac",
+          "c) este prevăzută expres în C.pen."
+        ],
+        "answer": [
+          0,
+          1
+        ]
+      },
+      {
+        "question": "16. Principiul inevitabilităţii răspunderii penale:",
+        "options": [
+          "a) este realizat de principiul oficialităţii acţiunii penale",
+          "b) presupune că răspunderea penală nu poate fi niciodată înlăturată",
+          "c) apare în planul prevenţiei generale a dreptului penal."
+        ],
+        "answer": [
+          0
+        ]
+      },
+      {
+        "question": "17. Principul individualizării răspunderii penale:",
+        "options": [
+          "a) reprezintă o adaptare a răspunderii penale în funcţie de anumite criterii ce se referă la faptă şi făptuitor",
+          "b) cunoaşte două etape: legală şi judiciară",
+          "c) este absolut, în sensul că niciodată nu se întătură aplicarea acestui principiu."
+        ],
+        "answer": [
+          0,
+          2
+        ]
+      },
+      {
+        "question": "18. Răspunderea penală:",
+        "options": [
+          "a) este prescriptibilă",
+          "b) este imprescriptibilă",
+          "c) este imprescriptibilă în cazul infracţiunilor contra siguranţei statului şi persoanei."
+        ],
+        "answer": [
+          0
+        ]
+      },
+      {
+        "question": "19. Răspunderea penală mai poate înceta şi în următoarele situaţii:",
+        "options": [
+          "a) moartea persoanei care a săvârşit infracţiunea, dezincriminarea faptei",
+          "b) lipsa plângerii prealabile sau retragerea acesteia",
+          "c) împăcarea",
+          "d) amnistia, prescripţia."
+        ],
+        "answer": [
+          0,1,2,3
+        ]
+      },
+      {
+        "question": "20. „Non bis in idem“ semnifică:",
+        "options": [
+          "a) inevitabilitatea răspunderii penale",
+          "b) celeritatea răspunderii penale",
+          "c) unicitatea răspunderii penale",
+          "d) prescriptibilitatea răspunderii penale."
+        ],
+        "answer": [
+          2
+        ]
+      }
+    ]
+  }
+  

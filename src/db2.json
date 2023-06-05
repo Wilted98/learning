@@ -1,0 +1,157 @@
+{
+    "questions": [
+      {
+        "question": "Detenţiunea pe viaţă este o pedeapsă:",
+        "options": ["a) absolut determinată", "b) nedeterminată", "c) relativ determinată"],
+        "answer": [0]
+      },
+      {
+        "question": "Detenţiunea pe viaţă este pedeapsă unică în cazul:",
+        "options": ["a) infracţiunii de capitulare", "b) infracţiunii de genocid comis pe timp de război", "c) infracţiunilor de război."],
+        "answer": [1]
+      },
+      {
+        "question": "Detenţiunea pe viaţă nu se aplică:",
+        "options": ["a) aceluia care era grav bolnav la momentul pronunţării hotărârii de condamnare", "b) aceluia care la data comiterii faptei împlinise 60 de ani", "c) aceluia care la data pronunţării hotărârii de condamnare împlinise 65 de ani", "d) minorului."],
+        "answer": [2, 3]
+      },
+      {
+        "question": "Constituie pedeapse principale conform Codului penal:",
+        "options": ["a) detenţiunea pe viaţă", "b) interzicerea unor drepturi de la 1 la 5 ani", "c) internarea într-un centru de detenţie."],
+        "answer": [0]
+      },
+      {
+        "question": "Sunt sancţiuni penale:",
+        "options": ["a) pedepsele, indiferent de felul lor", "b) măsurile de siguranţă", "c) măsurile educative", "d) măsurile preventive."],
+        "answer": [0, 1, 2]
+      },
+      {
+        "question": "Executarea pedepselor privative de libertate în dreptul penal român se bazează pe un sistem:",
+        "options": ["a) celular", "b) progresiv şi regresiv", "c) de muncă obligatorie."],
+        "answer": [1]
+      },
+      {
+        "question": "Munca prestată de condamnat în închisoare:",
+        "options": ["a) este remunerată şi se consideră vechime în muncă", "b) nu este remunerată", "c) este remunerată, cu excepţia muncilor cu caracter gospodăresc, necesare locului de deţinere."],
+        "answer": [2]
+      },
+      {
+        "question": "Din retribuţia cuvenită pentru munca prestată, revine condamnatului:",
+        "options": ["a) 20%", "b) 25%", "c) 40%."],
+        "answer": [2]
+      },
+      {
+        "question": "Când legea prevede pedeapsa amenzii, fără a-i arăta limitele, alternativ cu pedeapsa închisorii de maxim 2 ani, minimul şi maximul numărului de zile amendă se încadrează între următoarele limite:",
+        "options": ["a) 60 - 180 de zile amendă", "b) 120 - 260 de zile amendă", "c) 120 -240 de zile amendă."],
+        "answer": [2]
+      },
+      {
+        "question": "Ori de câte ori legea prevede că o infracţiune se pedepseşte numai cu amenda fără a-i arăta limitele, minimul şi maximul numărului de zile amendă se încadrează între:",
+        "options": ["a) 80 - 180 de zile amendă", "b) 60 - 180 de zile amendă", "c) 60 -160 de zile amendă."],
+        "answer": [1]
+      },
+      {
+        "question": "Când legea prevede pedeapsa amenzii, fără a-i arăta limitele, alternativ cu pedeapsa închisorii mai mare de 2 ani, minimul şi maximul numărului de zile amendă se încadrează între:",
+        "options": ["a) 80 - 300 de zile amendă", "b) 180 - 300 de zile amendă", "c) 160 -300 de zile amendă."],
+        "answer": [1]
+      },
+      {
+        "question": "Închisoarea are ca limite generale:",
+        "options": ["a) 1 lună – 25 ani", "b) 15 zile – 25 ani", "c) 15 zile – 30 ani."],
+        "answer": [2]
+      },
+      {
+        "question": "Sunt pedepse principale pentru persoana fizică:",
+        "options": ["a) detenţiunea pe viaţă", "b) interzicerea unor drepturi de la 1 la 5 ani", "c) degradarea militară", "d) amenda de la 30 la 400 de zile."],
+        "answer": [0, 3]
+      },
+      {
+        "question": "Munca  în timpul executării pedepsei privative de libertate:",
+        "options": ["a) este obligatorie pentru toţi condamnaţii", "b) nu este obligatorie", "c) este obligatorie pentru condamnaţii apţi de muncă."],
+        "answer": [1]
+      },
+      {
+        "question": "Pedeapsa închisorii:",
+        "options": ["a) este adaptabilă şi revocabilă", "b) are ca scop prevenirea comiterii de noi infracţiuni", "c) se execută numai în penitenciare."],
+        "answer": [0, 1]
+      },
+      {
+        "question": "Instanţa de judecată stabilind că persoana condamnată se sustrage cu rea-credinţă de la executarea  pedepsei amenzii:",
+        "options": ["a) va putea dispune înlocuirea acesteia cu pedeapsa închisorii în limitele prevăzute pentru infracţiunea săvârşită, ţinând seama de partea din amendă care a fost achitată", "b) va dispune înlocuirea cu pedeapsa închisorii, putând dispune şi suspendarea sub supraveghere a executării pedepsei închisorii", "c) în acest caz, numărul zilelor-amendă neexecutate se înlocuieşte cu un număr corespunzător de zile cu închisoare."],
+        "answer": [2]
+      },
+      {
+        "question": "Înlocuirea pedepsei amenzii cu pedeapsa închisorii poate produce următoarele consecinţe:",
+        "options": [
+          "dacă amenda neexecutată a însoţit pedeapsa închisorii, numărul zilelor-amendă neexecutate se înlocuieşte cu un număr corespunzător de zile cu închisoare, care se adaugă la pedeapsa închisorii, pedeapsa astfel rezultată fiind considerată o singură pedeapsă",
+          "dacă persoana condamnată, cu rea-credinţă, nu execută pedeapsa amenzii, în tot sau în parte, numărul zilelor-amendă neexecutate se înlocuieşte cu un număr corespunzător de zile cu închisoare.",
+          "amenda astfel înlocuită nu va constitui antecendent penal."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "Pedeapsa:",
+        "options": [
+          "este o măsură de constrângere",
+          "este un mijloc de reeducare al condamnatului",
+          "se poate aplică şi de către organele de cercetare penală."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "În cazul în care un minor comite o infracţiune pentru care legea prevede detenţiunea pe viaţă:",
+        "options": [
+          "pedeapsa detenţiunii pe viaţă se va înlocui cu închisoarea",
+          "nu i se va aplica niciodată această sancţiune minorului, indiferent de gravitatea faptei comise",
+          "se va aplica o măsură educativă privativă de libertate."
+        ],
+        "answer": [1, 2]
+      },
+      {
+        "question": "În cazul în care cel condamnat la pedeapsa detenţiunii pe viaţă a împlinit vârsta de 65 de ani în timpul executării pedepsei, aceasta se poate înlocui cu:",
+        "options": [
+          "închisoarea pe timp de 25 de ani",
+          "liberarea condiţinată",
+          "închisoarea pe timp de 30 de ani."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Scopul pedepsei constă în:",
+        "options": [
+          "reeducarea condamnatului",
+          "prevenirea săvârşirii de noi infracţiuni",
+          "formarea unei atitudini corecte a infractorului faţă de muncă şi faţă de ordinea socială."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Pedeapsa detenţiunii pe viaţă nu este alternativă cu închisoarea în cazul:",
+        "options": [
+          "genocidului săvârşit în timp de război",
+          "tuturor infracţiunilor contra securităţii statului",
+          "omorului calificat prin cruzimi."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Pedeapsa detenţiunii pe viaţă nu se aplică:",
+        "options": [
+          "niciodată infractorului minor",
+          "în cazul în care subzistă circumstanţe atenuante",
+          "dacă infractorul la data pronunţării hotărârii de condamnare a împlinit 60 de ani."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "Pentru condamnatul care a împlinit vârsta de 65 de ani la data pronunţării hotărârii de condamnare la deţentiunea pe viaţă:",
+        "options": [
+          "se aplică pedeapsa închisorii în limita maximă specială prevăzută de lege",
+          "se aplică pedeapsa închisorii pe timp de 30 de ani şi pedeapsa complementară a interzicerii exercitării unor drepturi pe timp de 5 ani",
+          "această sancţiune se va executa efectiv, putându-se ulterior dispune liberarea condiţionată a condamnatului."
+        ],
+        "answer": [1]
+      }
+    ]
+}
+  

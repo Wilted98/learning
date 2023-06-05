@@ -1,0 +1,305 @@
+{
+    "questions": [
+      {
+        "question": "Persoana juridică va fi subiect activ al infracţiunii atunci când:",
+        "options": [
+          "a) infracţiunea a fost săvârşită în realizarea obiectului ei de activitate sau în interesul ori în numele persoanei juridice şi cu forma de vinovăţie prevăzută de legea penală",
+          "b) infracţiunea are legătură cu atribuţiile de serviciu ale societăţii comerciale ori instituţiei respective",
+          "c) se dovedeşte în sarcina conducerii unei instituţii ori societăţi că a existat un interes patrimonial",
+          "d) persoana juridică nu poate răspunde penal în nicio împrejurare."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "Care sunt persoanele juridice care nu răspund penal?",
+        "options": [
+          "a) societăţile comerciale",
+          "b) statul",
+          "c) autorităţile publice",
+          "d) instituţiile publice."
+        ],
+        "answer": [3]
+      },
+      {
+        "question": "Pedeapsa principală pentru persoana juridică este:",
+        "options": [
+          "a) numai amenda",
+          "b) dizolvarea",
+          "c) suspendarea activităţii."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Pedeapsa complementară pentru persoana juridică este:",
+        "options": [
+          "a) închiderea unor puncte de lucru pe o anumită perioadă",
+          "b) amenda",
+          "c) suspendarea activităţii pe perioadă nedeterminată."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Pedeapsa principală comună pentru persoana juridică şi persoana fizică este:",
+        "options": [
+          "a) închisoarea",
+          "b) numai amenda, care se poate plăti eşalonat în ambele situaţii",
+          "c) interzicerea de a participa la procedurile de achiziţii publice."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Pedeapsa complementară pentru persoana juridică:",
+        "options": [
+          "a) poate consta în închiderea unor puncte de lucru pe o anumită perioadă",
+          "b) nu se prescrie",
+          "c) se prescrie în acelaşi termen ca şi la persoana fizică."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Poate fi subiect activ al unei infracţiunii:",
+        "options": [
+          "a) o persoană juridică în cazul comiterii unei infracţiuni de viol",
+          "b) niciodată o persoană juridică în cazul comiterii unei infracţiuni de viol",
+          "c) statul."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Niciodată nu se poate angaja răspunderea penală pentru comiterea unei infracţiuni în cazul următoarelor persoane juridice:",
+        "options": [
+          "a) o instituţie publică",
+          "b) un penitenciar",
+          "c) o bancă comercială cu capital atât de stat şi privat."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Persoana juridică nu poate săvârşi în calitatea de subiect activ nemijlocit (autor) infracţiunea de:",
+        "options": [
+          "a) luare de mită",
+          "b) trădare",
+          "c) trafic de influenţă."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "Pentru ca o persoană juridică să răspundă penal nu este necesar ca:",
+        "options": [
+          "a) persoana fizică ce a comis sau a participat în orice fel la comiterea infracţiunii să fie identificată",
+          "b) infracţiunea să fie săvârşită în numele persoanei juridice",
+          "c) infracţiunea să fie săvârşită în realizarea obiectului de activitate al persoanei juridice."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Persoana juridică:",
+        "options": [
+          "a) poate comite infracţiunea cu orice formă de vinovăţie",
+          "b) nu poate săvârşi o infracţiune din culpă",
+          "c) săvârşeşte infracţiuni numai cu intenţie directă sau indirectă."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Forma de vinovăţie cu care o persoană juridică săvârşeşte o infracţiune:",
+        "options": [
+          "a) este întotdeauna aceeaşi cu cea a persoanei fizice care a comis infracţiunea",
+          "b) poate fi diferită de cea cu care persoana fizică a comis infracţiunea",
+          "c) poate fi culpa."
+        ],
+        "answer": [1, 2]
+      },
+      {
+        "question": "Cine beneficiază de o prezumţie absolută de nerăspundere penală?",
+        "options": [
+          "a) minoul sub 14 ani",
+          "b) statul, chiar şi în cazul infracţiunilor de genocid",
+          "c) instituţiile publice."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "Persoana juridică:",
+        "options": [
+          "a) poate comite o infracţiune doar în calitate de autor",
+          "b) nu exclude răspunderea penală a persoanei fizice care a contribuit la săvârşirea aceleiaşi fapte",
+          "c) are un sistem sancţionator la fel ca cel al persoanei fizice."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Dacă o persoană juridică şi directorul acesteia sunt trimişi în judecată:",
+        "options": [
+          "a) se poate reţine numai vinovăţia persoanei juridice şi o cauză de nepedepsire pentru persoana fizică",
+          "b) instanţa poate aplica o singură sancţiune",
+          "c) obligatoriu se va dispune suspendarea activităţii."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "Sunt adevărate următoarele afirmaţii:",
+        "options": [
+          "a) nu se poate reţine coautoratul în cazul persoanei juridice",
+          "b) ca şi în cazul persoanei fizice, nici în cazul persoanei juridice pedepsele complementare nu se prescriu",
+          "c) în cazul persoanei juridice se poate aplica o singură pedeapsă principală."
+        ],
+        "answer": [2]
+      },
+
+      {
+        "question": "17. Tentativa, în cazul persoanei juridice:",
+        "options": [
+          "a) se pedepseşte în aceleaşi limite ca în cazul persoanei fizice",
+          "b) se pedepseşte doar în limitele fixate de C.pen.",
+          "c) nu este reglementată."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "18. Scopul pedepsei pentru persoana juridică poate fi atins dacă:",
+        "options": [
+          "a) pedeapsa aplicată este orientată către maximul special al acesteia",
+          "b) pedeapsa principală este însoţită şi de o pedeapsă complementară",
+          "c) pedeapsa este corect individualizată."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "19. Pedeapsa complemntară a difuzării şi afişării hotărârii de condamnare a persoanei juridice se face pe cheltuiala:",
+        "options": [
+          "a) statului",
+          "b) atât a staului cât şi a persoanei juridice condamnate",
+          "c) persoanei juridice condamnate."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "20. Pedeapsa dizolvării se poate aplica persoanei juridice:",
+        "options": [
+          "a) dacă infracţinea comisă este intenţionată",
+          "b) tuturor persoanelor juridice care răspund penal",
+          "c) dacă persoana juridică a fost înfiinţată în scopul săvârşirii de infracţiuni."
+        ],
+        "answer": [0, 2]
+      },
+      {
+        "question": "21. De la aplicarea suspendării uneia dintre activităţile persoanei juridice sunt exceptate:",
+        "options": [
+          "a) autorităţile publice",
+          "b) partidele politice, sindicatele, patronatele, organizaţiile religioase şi ale minorităţilor naţionale care funcţionează potrivit legii",
+          "c) centrele medicale, asociaţiile sportive şi asociaţiile de vânători şi organele de poliţie comunitară."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "22. În cazul persoanei juridice, dacă există circumstanţe agravante, atunci:",
+        "options": [
+          "a) pedeapsa amenzii prevăzută de norma de incriminare încălcată va fi fi dublată",
+          "b) pedeapsa amenzii va fi completată în mod obligatoriu cu o pedeapsă complementară",
+          "c) se poate aplica amenda până la maximul special la care se mai poate adăugă cel mult o treime din acel maxim."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "23. În cazul persoanei juridice, tentativa se pedepseşte:",
+        "options": [
+          "a) cu amenda prevăzută de lege pentru infracţiunea consumată",
+          "b) pe acelaşi raţionament ca în cazul persoanei fizice",
+          "c) cu amendă cuprinsă între minimul special şi maximul special prevăzut de lege pentru infracţiunea consumată, reduse la jumătate."
+        ],
+        "answer": [2, 3]
+      },
+      {
+        "question": "24. În cazul în care o persoană juridică a comis o tentativă la o infracţiune, pentru sancţionarea acesteia se poate aplica:",
+        "options": [
+          "a) doar pedeapsa amenzii",
+          "b) pe lângă pedeapsa principală şi una sau mai multe pedepse complementare",
+          "c) pe lângă pedeapsa principală doar o singură pedeapsă complementară, deoarece tentativa este o stare de atenuare."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "25. În cazul în care o persoană juridică a comis o tentativă la o infracţiune, aplicarea pedepselor complementare:",
+        "options": [
+          "a) va fi facultativă",
+          "b) este obligatorie",
+          "c) pedeapsa afişări hotărârii de condamnare este  întotdeauna obligatorie când s-a comis o infracţiune de fraudă fiscală din bugetul Uniuni Europne."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "26. Persoanei juridice nu i se poate aplica niciodată:",
+        "options": [
+          "a) o măsură educativă",
+          "b) dispoziţiile privitoare la prescripţia răspunderii penale şi la reabilitare",
+          "c) o măsură de siguranţă."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "27. Amenda cea mai mare stabilită pentru o infracţiune, în caz de concurs de infracţiuni, săvârşit de persoana juridică:",
+        "options": [
+          "a) este obligatoriu sporită",
+          "b) poate fi sporită doar până la maximul ei special prevăzut de norma de incriminare",
+          "c) poate fi sporită până la maximul ei special, iar dacă acest maxim este neîndestulător se poate adăuga un spor de până la o treime din acel maxim."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "28. Dacă instanţa de judecată a aplicat, în caz de concurs de infracţiuni săvârşite de persoana juridică, amenda cea mai mare, stabilită pentru o infracţiune concurentă, fără a adăuga niciun spor:",
+        "options": [
+          "a) pedeapsa este legal aplicată",
+          "b) pedeapsa este nelegal stabilită",
+          "c) pedeapsa este nelegal stabilită, deoarece trebuia sporită."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "29. Sub aspectul laturii subiective, persoana juridică, ca subiect activ al unei infracţiuni:",
+        "options": [
+          "a) nu poate săvârşi o infracţiune din culpă",
+          "b) poate săvârşi o infracţiune cu praeterintenţie",
+          "c) săvârşeşte infracţiuni numai cu intenţie."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "30. În cazul în care, prin infracţiunea comisă persoana juridică a urmărit obţinerea unui folos patrimonial:",
+        "options": [
+          "a) la stabilirea amenzii se va tine seama de valoarea folosului patrimonial obţinut sau urmărit",
+          "b) limitele speciale ale zilelor-amendă prevăzute de lege pentru infracţiunea săvârşită se pot majora cu o treime, fără a se depăşi maximul general al amenzii",
+          "c) limitele speciale ale zilelor-amendă prevăzute de lege pentru infracţiunea săvârşită se pot majora cu o pătime, fără a se depăşi maximul general al amenzii."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "31. Persoanei juridice nu îi pot fi niciodată aplicate:",
+        "options": [
+          "a) pedepse accesorii",
+          "b) suspendarea sub supraveghere a executării pedepsei",
+          "c) dispoziţiile referitoare la graţiere sau amnistie."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "32. Măsurile preventive pentru persoana juridică sunt:",
+        "options": [
+          "a) interzicerea unor operaţiuni patrimoniale, susceptibile de a antrena diminuarea activului patrimonial sau insolvenţă persoanei juridice",
+          "b) interzicerea desfăşurării activităţilor de natura celor cu ocazia cărora a fost comisă infracţiunea.",
+          "c) confiscarea specială."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "33. Măsurile asiguratorii pentru persoana juridică sunt:",
+        "options": [
+          "a) interdicţia iniţierii suspendării procedurii de dizolvare sau lichidare a persoanei juridice",
+          "b) repararea pagubei produse prin infracţiune",
+          "c) garantarea executării pedepsei amenzii."
+        ],
+        "answer": [1, 2]
+      }
+    ]
+  }
+  

@@ -1,0 +1,376 @@
+{
+    "questions": [
+        {
+            "question": "Constituie circumstanţe atenuante legale:",
+            "options": [
+                "a) depăşirea limitelor legitimei apărări",
+                "b) conduita bună a infractorului înainte de comiterea infracţiunii",
+                "c) stăruinţa depusă de infractor pentru a înlătura rezultatul infracţiunii sau a repara paguba pricinuită."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "În cazul infracţiunilor contra siguranţei statului dacă se constată că există circumstanţe atenuante:",
+            "options": [
+                "a) pedeapsa închisorii poate fi redusă cu cel mult jumătate din limitele speciale",
+                "b) limitele speciale se reduc cu cel mult o treime din limitele speciale",
+                "c) pedeapsa închisorii poate fi redusă până la o treime din minimul special."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Când există circumstanţe atenuante pedeapsa complementară a interzicerii exercitării unor drepturi prevăzute de lege pentru infracţiunea comisă:",
+            "options": [
+                "a) nu poate fi înlăturată",
+                "b) poate fi înlăturată",
+                "c) legea nu face nicio precizare în acest sens."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Constituie circumstanţe agravante legale cu caracter general:",
+            "options": [
+                "a) comiterea faptei de către trei sau mai multe persoane împreună",
+                "b) împrejurarea că infractorul se găsea în stare de beţie în momentul comiterii infracţiunii de ultraj",
+                "c) comiterea infracţiunii prin violenţe asupra membrilor familiei."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "Constituie circumstanţe agravante legale cu caracter general:",
+            "options": [
+                "a) comiterea infracţiunii din motive josnice",
+                "b) săvârşirea faptei în stare de beţie fortuită incompletă",
+                "c) comiterea infracţiunii profitând de starea de calamitate."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Circumstanţele reale:",
+            "options": [
+                "a) nu se răsfrâng asupra participanţilor, dacă nu le-au prevăzut, deşi aveau obligaţia să le prevadă",
+                "b) se răsfrâng asupra participanţilor",
+                "c) se răsfrâng asupra participanţilor dacă le-au cunoscut."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Pentru inculpatul condamnat pentru tentativa la infracţiunea de omor cu reţinerea circumstanţei atenuate a provocării:",
+            "options": [
+                "a) aplicarea pedepsei complementare a interzicerii execitării unor drepturi prevăzută de lege pentru infracţiunea de omor nu poate fi înlăturată",
+                "b) aplicarea pedepsei complementare a interzicerii exercitării unor drepturi prevăzute de lege pentru infracţiunea de omor este înlăturată, deoarece tentativa este o stare obligatorie de atenuare",
+                "c) aplicarea pedepsei complementare a interzicerii unor drepturi este obligatorie, deoarece norma de incriminare o prevede în mod expres."
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "Sunt circumstanţe atenuante:",
+            "options": [
+                "a) tentativa",
+                "b) excesul justificat",
+                "c) depăşirea limitelor stării de necesitate",
+                "d) excesul scuzabil."
+            ],
+            "answer": [
+                2,
+                3
+            ]
+        },
+        {
+            "question": "Pot constitui circumstanţe atenuante:",
+            "options": [
+                "a) excesul justificat",
+                "b) depăşirea limitelor stării de necesitate",
+                "c) stăruinţa depusă de infractor pentru a înlătura rezultatul infracţiunii sau pentru a repara paguba pricinuită",
+                "d) desistarea."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Este legală aplicarea unei pedepse de 10 închisoare autorului unei infracţiuni pentru care legea prevede pedeapsa închisorii de la 2 la 7 ani, dacă instanţa:",
+            "options": [
+                "a) fără a reţine alte cauze de agravare, revocă liberarea condiţionată din executarea unei pedepse anterioare, constatând în existenţa unui rest rămas neexecutat din aceasta de 802 zile",
+                "b) reţine pentru respectiva infracţiune starea de recidivă postexecutorie",
+                "c) reţine pentru respectiva infracţiune doar starea de provocare în concurs cu o circumstanţă agravantă generală."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "În cazul în care există circumstanţe atenuante, pedeapsa principală:",
+            "options": [
+                "a) se reduce la minimul special",
+                "b) se poate reduce sub minimul special",
+                "c) se poate reduce cu o pătrime."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Sunt circumstanţe atenuante legale:",
+            "options": [
+                "a) excesul justificat",
+                "b) provocarea",
+                "c) conduita bună a infractorului înainte de comiterea infracţiunii",
+                "d) excesul scuzabil."
+            ],
+            "answer": [
+                1,
+                3
+            ]
+        },
+        {
+            "question": "Constituie circumstanţă agravantă cu caracter personal:",
+            "options": [
+                "a) comiterea infracţiunii de către un infractor major dacă aceasta a fost comisă împreună cu un minor",
+                "b) comiterea infracţiunii din motive josnice",
+                "c) recidiva",
+                "d) săvârşirea infracţiunii în stare de intoxicaţie voluntară cu alcool sau cu alte substanţe psihoactive, când a fost provocată în vederea comiterii infracţiunii."
+            ],
+            "answer": [
+                3
+            ]
+        },
+        {
+            "question": "Constituie circumstanţă agravantă legală, cu caracter general:",
+            "options": [
+                "a) comiterea faptei de două sau mai multe persoane împreună",
+                "b) comiterea infracţiunii în timpul nopţii",
+                "c) comiterea infracţiunii de către o persoană care a profitat de situaţia prilejuită de o calamitate."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Circumstanţele atenuante şi agravante reale produc efecte:",
+            "options": [
+                "a) numai dacă au fost cunoscute de făptuitor",
+                "b) chiar dacă nu au fost cunoscute de făptuitor",
+                "c) numai faţă de persoana ce a săvârşit o infracţiune."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Dacă se săvârşeşte în formă consumată o infracţiune pentru care legea prevede o pedeapsă cu închisoarea de la 1 la 12 ani, iar instanţa reţine o circumstanţă agravantă legală generală, pedeapsa maximă ce se poate aplica în concret inculpatului persoană fizică va fi de:",
+            "options": [
+                "a) 12 ani închisoare",
+                "b) 14 ani închisoare",
+                "c) 16 ani închisoare."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Constitue circumstanţe atenuante legale generale:",
+            "options": [
+                "a) stăruinţa depusă de infractor pentru a înlătura rezultatul infracţiunii sau a repara paguba pricinuită",
+                "b) săvârşirea infracţiunii sub influenţa unei puternice tulburări determinate de o provocare din partea persoanei vătămate, produsă prin atingerea gravă a demnităţii",
+                "c) săvârşirea infracţiunii sub influenţa unei puternice tulburări determinate de o provocare din partea persoanei vătămate, produsă prin violenţă."
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Circumstanţele atenuante judiciare:",
+            "options": [
+                "a) nu pot produce efecte asupra pedepsei complementare a interzicerii unor drepturi",
+                "b) determină coborârea facultativă a pedepsei sub minimul special atunci când vin în concurs cu o circumstanţă agravantă generală",
+                "c) sunt expres şi limitativ prevăzute de art. 75 Cod penal."
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Când reţine numai circumstanţe atenuante:",
+            "options": [
+                "a) instanţa reduce sau schimbă pedeapsa principală, în mod obligatoriu, diferenţiat, în funcţie de felul şi cuantumul acesteia, conform regulilor stabilite de legiuitor",
+                "b) rămâne la latitudinea instanţei reducerea sau schimbarea pedepsei principale conform regulilor stabilite de legiuitor",
+                "c) instanţa coboară întotdeauna pedeapsa principală sub minimul special."
+            ],
+            "answer": [
+                0
+            ]
+        },
+        {
+            "question": "Nu constituie circumstanţă atenuantă:",
+            "options": [
+                "a) depăşirea limitelor legitimei apărări",
+                "b) provocarea comisă verbal",
+                "c) minoritatea făptuitorului."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "În caz de concurs între circumstanţele atenuante şi circumstanţele agravante, coborârea pedepsei sub minimul special:",
+            "options": [
+                "a) este obligatorie",
+                "b) nu este obligatorie",
+                "c) este obligatorie în cazul în care una dintre infracţiuni este săvârşită din culpă."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Când, pentru infracţiunea săvârşită, legea prevede pedeapsa detenţiunii pe viaţă, dacă există circumstanţe atenuante, se aplică pedeapsa închisorii între:",
+            "options": [
+                "a) 15-25 ani",
+                "b) 10-25 ani",
+                "c) 10-20 ani."
+            ],
+            "answer": [
+                2
+            ]
+        },
+        {
+            "question": "Constitue circumstanţe agravante:",
+            "options": [
+                "a) săvârşirea faptei de 3 sau mai multe persoane",
+                "b) împrejurarea că infractorul se găsea în stare de beţie în momentul săvârşirii infracţiunii de purtare abuzivă",
+                "c) săvârşirea infracţiunii de către un infractor major, dacă aceasta a fost comisă împreună cu un minor",
+                "d) săvârşirea faptei prin acte de cruzime."
+            ],
+            "answer": [
+                2,
+                3
+            ]
+        },
+        {
+            "question": "Când există circumstanţe agravante, dacă maximul special al unei infracţiuni este neîndestulător, la acesta:",
+            "options": [
+                "a) se poate adăuga un spor de până la 5 ani închisoare în cazul infracţiunilor contra securităţii statului",
+                "b) se poate adăuga un spor de cel mult jumătate din maximul special, când pedeapsa este amenda",
+                "c) se poate adăuga un spor de până la 2 ani închisoare, dar care nu poate depăşi o treime din maximul special, când pedeapsa este închisoarea",
+                "d) instanţa poate să nu mai aplice nimic."
+            ],
+            "answer": [
+                2,
+                3
+            ]
+        },
+        {
+            "question": "Constitue circumstanţe agravante:",
+            "options": [
+                "a) săvârşirea infracţiunii prin metode sau mijloace care prezintă pericol public",
+                "b) săvârşirea infracţiunii din motive josnice",
+                "c) săvârşirea faptei de trei persoane împreună, dintre care unul are vâsta de 13 ani",
+                "d) săvârşirea infracţiunii prin violenţe asupra membrilor familiei."
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "În cazul în care există circumstanţe atenuante:",
+            "options": [
+                "a) pedeapsa principală se reduce în mod obligatoriu",
+                "b) prin reţinerea şi aplicarea efectelor circumstanţelor atenuante niciodată nu se poate schimba natura pedepsei prevăzute de lege, ci doar limitele acesteia",
+                "c) se poate dispune suspendarea sub supraveghere a executării pedepsei."
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "Circumstanţele atenuante judiciare pot fi reţinute:",
+            "options": [
+                "a) numai când se dispune pedeapsa închisorii cu executarea într-un loc de detenţie",
+                "b) când se dispune suspendarea sub supraveghere a executării pedepsei",
+                "c) când se aplică o pedeapsă cu amenda."
+            ],
+            "answer": [
+                1,
+                2
+            ]
+        },
+        {
+            "question": "În cazul coexistenţei unei circumstanţe atenuante legale cu o circumstanţă atenuantă judiciară:",
+            "options": [
+                "a) pedeapsa nu se reduce succesiv",
+                "b) pedeapsa se va reduce succesiv, corespunzător celor două categorii de circumstanţe atenuante",
+                "c) reducerea pedepsei sub minimul special nu este obligatorie."
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "Circumstanţele reale:",
+            "options": [
+                "a) se răsfrâng asupra participanţilor, indiferent",
+                "b) se răsfrâng asupra participanţilor, dacă le-au cunoscut",
+                "c) nu se răsfrâng asupra participanţilor, dacă nu le-au prevăzut, deşi aveau obligaţia să le prevadă."
+            ],
+            "answer": [
+                1
+            ]
+        },
+        {
+            "question": "Împrejurarea pe care infractorul nu a cunoscut-o în momentul săvârşirii infracţiunii:",
+            "options": [
+                "a) nu constituie circumstanţă agravantă",
+                "b) constituie circumstanţă agravantă",
+                "c) constituie circumstanţă atenuantă, chiar dacă făptuitorul nu a cunoscut-o în momentul comiterii faptei."
+            ],
+            "answer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "Sunt stări de agravare a pedepsei:",
+            "options": [
+                "a) concursul de infracţiuni",
+                "b) recidiva",
+                "c) infracţiunea continuă."
+            ],
+            "answer": [
+                0,
+                1
+            ]
+        },
+        {
+            "question": "Circumstanţele reale atenuante îşi produc efecte:",
+            "options": [
+                "a) numai faţă de persoanele de care sunt legate",
+                "b) faţă de făptuitorii care le-au cunoscut sau le-au prevăzut",
+                "c) faţă de toţi făptuitorii, indiferent."
+            ],
+            "answer": [
+                1
+            ]
+        }
+    ]
+}

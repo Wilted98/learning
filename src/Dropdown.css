@@ -1,0 +1,35 @@
+/* CSS for the dropdown component */
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-button {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    cursor: pointer;
+  }
+  
+  .dropdown-list {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    display: none;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dropdown-list li {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .dropdown-list li:hover {
+    background-color: #f5f5f5;
+  }
+  

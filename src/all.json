@@ -1,0 +1,3536 @@
+{
+    "questions": [
+      {
+        "question": "1. Răspunderea penală:",
+        "options": [
+          "a) reprezintă un ansamblu de drepturi şi obligaţii corelative ale subiectelor raportului juridic penal",
+          "b) se realizează în principal prin constrângerea exercitată de către stat faţă de infractor",
+          "c) are ca scop restabilirea ordinii de drept şi a resocializării infractorului."
+        ],
+        "answer": [
+          0,1,2
+        ]
+      },
+      {
+        "question": "2. Răspunderea penală:",
+        "options": [
+          "a) este o instituţie fundamentală a dreptului penal",
+          "b) este cea mai gravă formă de răspundere socială",
+          "c) conduce la aplicarea celor mai severe sancţiuni juridice."
+        ],
+        "answer": [
+         0,1,2
+        ]
+      },
+      {
+        "question": "3. Unicul temei al răspunderii penale îl reprezintă:",
+        "options": [
+          "a) săvârşirea numai a unei infracţiuni",
+          "b) săvârşirea unei fapte prevăzute de legea penală",
+          "c) săvârşirea unei infracţiuni, indiferent de periculozitatea acesteia şi de persoana făptuitorului."
+        ],
+        "answer": [
+          0,2
+        ]
+      },
+      {
+        "question": "4. Obiectul răspunderii penale îl constituie:",
+        "options": [
+          "a) aplicarea unei sancţiuni de către stat, prin intermediul organelor sale competente",
+          "b) aplicarea doar a unei pedepse de către stat",
+          "c) dreptul statului de a-i cere socoteală făptuitorului pentru fapta sa."
+        ],
+        "answer": [
+         0
+        ]
+      },
+      {
+        "question": "5. Particularităţile răspunderii penale se referă la:",
+        "options": [
+          "a) promptitudinea acesteia, ca o consecinţă firească a comiterii infracţiunii",
+          "b) fapta comisă, subiecte, conţinut şi obiect",
+          "c) imprescriptibilitatea acesteia în cazul unor infracţiuni deosebit de grave."
+        ],
+        "answer": [
+         1
+        ]
+      },
+      {
+        "question": "6. Subiectul activ al răspunderii penale îl reprezintă:",
+        "options": [
+          "a) persoana care a comis infracţiunea, în oricare dintre formele de participaţie",
+          "b) numai statul, prin intermediul organelor sale abilitate",
+          "c) persoana vătămată, în cazul în care acţiunea penală se pune în mişcare la plângerea prealabilă a acesteia."
+        ],
+        "answer": [
+         1
+        ]
+      },
+      {
+        "question": "7. Subiectul pasiv al răspunderii penale îl reprezintă:",
+        "options": [
+          "a) statul, deoarece acesta este şi principalul subiect pasiv al infracţiunii ca garant al apărării tuturor valorilor sociale",
+          "b) persoana fizică sau juridică care a comis infracţiunea, indiferent de forma de participaţie",
+          "c) orice persoană fizică ce a comis o faptă prevăzută de legea penală."
+        ],
+        "answer": [
+          1
+        ]
+      },
+      {
+        "question": "8. Conţinutul răspunderii penale este format din:",
+        "options": [
+          "a) obligaţia statului de a sancţiona pe făptuitor numai dacă vinovăţia sa a fost dovedită şi numai în limitele legii",
+          "b) dreptul infractorului de a răspunde şi de a fi sancţionat numai în limitele legii",
+          "c) dreptul statului de a trage la răspundere penală pe infractor şi obligaţia infratorului de a răspunde pentru fapta sa."
+        ],
+        "answer": [
+          0,1,2
+        ]
+      },
+      {
+        "question": "9. Obiectul răspunderii penale este format din:",
+        "options": [
+          "a) totalitatea drepturilor şi obligaţiilor subiectelor implicate în raportul juridic de conflict",
+          "b) aplicarea unei sancţiuni infractorului individualizată la periculozitatea faptei comise, la împrejurările în care a fost comisă aceasta şi la persoana făptuitorului.",
+          "c) stabilirea şi aplicarea unei măsuri educative minorului care a comis o infracţiune."
+        ],
+        "answer": [
+         1,2
+        ]
+      },
+      {
+        "question": "10. Principiile care guvernează instituţia răspunderii penale sunt:",
+        "options": [
+          "a) legalităţii, unicităţii, personalităţii, individualizării",
+          "b) umanismului şi celerităţii",
+          "c) imprescriptibilităţii."
+        ],
+        "answer": [
+          0,
+          1
+        ]
+      },
+      {
+        "question": "11. Principiul legalităţii răspunderii penale:",
+        "options": [
+          "a) datorită importanţei sale, acesta este consacrat expres în C.pen.",
+          "b) presupune ca apariţia, desfăşurarea şi soluţionarea raportului penal să aibă loc pe baza legii şi în strictă conformitate cu aceasta",
+          "c) presupune legalitatea incriminării şi legalitatea sancţiunilor de drept penal."
+        ],
+        "answer": [
+          1,
+          2
+        ]
+      },
+      {
+        "question": "12. Principiul infracţiunea – unic temei al răspunderii penale:",
+        "options": [
+          "a) este consacrat expres în C.pen.",
+          "b) nu este consacrat expres în C.pen.",
+          "c) are un caracter absolut."
+        ],
+        "answer": [
+          0,
+          2
+        ]
+      },
+      {
+        "question": "13. Principul umanismului răspunderii penale:",
+        "options": [
+          "a) constă în aceea că se adersează numai oamenilor",
+          "b) nu este prevăzut expres în C.pen., dar rezultă din modul în care legea penală este formulată şi aplicată",
+          "c) îşi găseşte expresie în condiţiile şi conţinutul constrângerii juridice, care prin natura dispoziţiilor legale şi conţinutul lor respiră acest umanism, în sensul că acestea nu umilesc sau degradează fiinţa umană."
+        ],
+        "answer": [
+          1,
+          2
+        ]
+      },
+      {
+        "question": "14. Principiul personalităţii răspunderii penale:",
+        "options": [
+          "a) este prevăzut  expres în Codul de procedură penală şi nu în Codul penal",
+          "b) reprezintă o garanţie a libertăţii persoanei",
+          "c) presupune că răspunderea penală revine numai persoanei care a săvârşit ori a participat la săvârşirea unei infracţiuni şi în oricare dintre formele de participaţie."
+        ],
+        "answer": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "question": "15. Unicitatea răspunderii penale:",
+        "options": [
+          "a) presupune tragerea numai o singură dată la răspundere a persoanei",
+          "b) nu este afectată de judecarea persoanei în mai multe căi de atac",
+          "c) este prevăzută expres în C.pen."
+        ],
+        "answer": [
+          0,
+          1
+        ]
+      },
+      {
+        "question": "16. Principiul inevitabilităţii răspunderii penale:",
+        "options": [
+          "a) este realizat de principiul oficialităţii acţiunii penale",
+          "b) presupune că răspunderea penală nu poate fi niciodată înlăturată",
+          "c) apare în planul prevenţiei generale a dreptului penal."
+        ],
+        "answer": [
+          0
+        ]
+      },
+      {
+        "question": "17. Principul individualizării răspunderii penale:",
+        "options": [
+          "a) reprezintă o adaptare a răspunderii penale în funcţie de anumite criterii ce se referă la faptă şi făptuitor",
+          "b) cunoaşte două etape: legală şi judiciară",
+          "c) este absolut, în sensul că niciodată nu se întătură aplicarea acestui principiu."
+        ],
+        "answer": [
+          0,
+          2
+        ]
+      },
+      {
+        "question": "18. Răspunderea penală:",
+        "options": [
+          "a) este prescriptibilă",
+          "b) este imprescriptibilă",
+          "c) este imprescriptibilă în cazul infracţiunilor contra siguranţei statului şi persoanei."
+        ],
+        "answer": [
+          0
+        ]
+      },
+      {
+        "question": "19. Răspunderea penală mai poate înceta şi în următoarele situaţii:",
+        "options": [
+          "a) moartea persoanei care a săvârşit infracţiunea, dezincriminarea faptei",
+          "b) lipsa plângerii prealabile sau retragerea acesteia",
+          "c) împăcarea",
+          "d) amnistia, prescripţia."
+        ],
+        "answer": [
+          0,1,2,3
+        ]
+      },
+      {
+        "question": "20. „Non bis in idem“ semnifică:",
+        "options": [
+          "a) inevitabilitatea răspunderii penale",
+          "b) celeritatea răspunderii penale",
+          "c) unicitatea răspunderii penale",
+          "d) prescriptibilitatea răspunderii penale."
+        ],
+        "answer": [
+          2
+        ]
+      },
+      {
+        "question": "Pentru a putea produce efecte, retragerea plângerii prealabile:",
+        "options": [
+          "a) trebuie să se facă faţă de toţi participanţii",
+          "b) este suficientă, dacă este făcută numai faţă de un participant",
+          "c) poate fi făcută şi numai de către una dintre persoanele vătămate prin aceeaşi faptă."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Împăcarea părţilor în cazurile prevăzute de lege:",
+        "options": [
+          "a) înlătură răspunderea penală şi stinge acţiunea civilă",
+          "b) nu stinge acţiunea civilă",
+          "c) înlătură doar executarea pedepsei."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "În cazul infracţiunilor pentru care punerea în mişcare a acţiunii penale este condiţionată de introducerea unei plângeri prealabile, iar acţiunea penală a fost pusă în mişcare din oficiu înlăturarea răspunderii penale se poate face:",
+        "options": [
+          "a) prin retragerea plângerii prealabile",
+          "b) atât prin retragerea plângerii prealabile cât şi prin împăcarea părţilor",
+          "c) prin împăcarea părţilor."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Amnistia se acordă de:",
+        "options": [
+          "a) Parlament",
+          "b) Guvern",
+          "c) Ministrul justiţiei",
+          "d) Preşedintele ţării."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Amnistia:",
+        "options": [
+          "a) poate înlătura caracterul penal al faptei",
+          "b) înlătură răspunderea penală",
+          "c) nu înlătură executarea pedepsei complementare."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Amnistia nu are efecte asupra:",
+        "options": [
+          "a) executării pedepsei principale",
+          "b) drepturilor persoanei vătămate prin infracţiune",
+          "c) executării pedepselor complementare."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Efectele amnistiei şi graţierii sunt:",
+        "options": [
+          "a) amândouă înlătură răspunderea penală",
+          "b) amândouă înlătură consecinţele condamnării",
+          "c) amândouă înlătură executarea pedepsei."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Atât amnistia cât şi graţierea:",
+        "options": [
+          "a) înlătură în toate cazurile executarea pedepsei complementare",
+          "b) nu au efecte asupra măsurilor de siguranţă",
+          "c) pot conduce la înlăturarea răspunderii penale."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Termenul de prescripţie a răspunderii penale începe să curgă în cazul infracţiunilor continuate:",
+        "options": [
+          "a) de la data comiterii primei acţiuni sau inacţiuni",
+          "b) de la data consumării infracţiunii",
+          "c) de la data comiterii ultimei acţiuni sau inacţiuni."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Prescripţia nu înlătură răspunderea penală în cazul infracţiunilor:",
+        "options": [
+          "a) de omor calificat şi lovituri sau vătămări cauzatoare de moarte",
+          "b) contra siguranţei naţionale",
+          "c) de genocid şi contra umanităţii."
+        ],
+        "answer": [0, 2]
+      },
+      {
+        "question": "Amnistia înlătură:",
+        "options": [
+        "a) efectul măsurilor de siguranţă",
+        "b) executarea pedepsei",
+        "c) caracterul penal al faptei",
+        "d) răspunderea penală"
+        ],
+        "answer": [1, 3]
+        },
+        {
+        "question": "Amenda încasată anterior intervenirii amnistiei:",
+        "options": [
+        "a) nu se restituie",
+        "b) se restituie",
+        "c) se restituie numai dacă prin actul de clemenţă se prevede astfel"
+        ],
+        "answer": [0]
+        },
+        {
+        "question": "Termenul de prescripţie a răspunderii penale, când legea prevede pentru infracţiunea comisă pedeapsa detenţiunii pe viaţă este de:",
+        "options": [
+        "a) 20 ani",
+        "b) 25 ani",
+        "c) 30 ani",
+        "d) 15 ani"
+        ],
+        "answer": [3]
+        },
+        {
+        "question": "Înlătură răspunderea penală:",
+        "options": [
+        "a) lipsa plângerii prealabile",
+        "b) împăcarea, dar numai în acele cazuri în care legea permite acest lucru",
+        "c) retragerea plângerii prealabile"
+        ],
+        "answer": [0, 1, 2]
+        },
+        {
+        "question": "Termenele de prescripţie a răspunderii penale încep să curgă:",
+        "options": [
+        "a) de la data sesizării sau autosesizării organelor judiciare",
+        "b) de la data comiterii faptei",
+        "c) de la data comiterii ultimei acţiuni/inacţiuni în cazul infracţiunii continuate"
+        ],
+        "answer": [1, 2]
+        },
+        {
+        "question": "Cursul prescripţiei răspunderii penale se întrerupe:",
+        "options": [
+        "a) în cazul unei percheziţii corporale",
+        "b) prin îndeplinirea oricărui act de procedură în cauză",
+        "c) şi faţă de participanţii la acea infracţiune, chiar dacă actul de întrerupere priveşte doar pe unul dintre ei"
+        ],
+        "answer": [0, 1, 2]
+        },
+        {
+        "question": "Condiţiile împăcării sunt:",
+        "options": [
+        "a) să intervină doar în cazurile prevăzute de lege",
+        "b) să intervină numai până la pronunţarea sentinţei în primă instanţă",
+        "c) să fie personală, totală şi necondiţionată"
+        ],
+        "answer": [0, 2]
+        },
+        {
+        "question": "Suspendarea cursului prescripţiei răspunderii penale intervine:",
+        "options": [
+        "a) când o împrejurare de neprevăzut ori de neînlăturat împiedică punerea mişcare a acţiunii penale",
+        "b) în cazurile şi condiţiile prevăzute în Codul de procedură penală",
+        "c) când se săvârşeşte o nouă infracţiune"
+        ],
+        "answer": [0]
+        },
+        {
+        "question": "În cazul vătămării mai multor persoane prin aceeaşi faptă pedepsită la plângerea prealabilă:",
+        "options": [
+        "a) plângerea produce efecte numai dacă este făcută de către toate persoanele",
+        "b) plângerea produce efecte şi dacă este făcută de către o singură persoană",
+        "c) împăcarea nu mai este posibilă odată depusă plângerea prealabilă"
+        ],
+        "answer": [1, 2]
+        },
+        {
+        "question": "În cazul săvârşirii faptei de către mai mulţi participanţi, înlăturarea răspunderii penale faţă de toţi se poate face prin:",
+        "options": [
+        "a) retragerea plângerii prealabile faţă de toţi participanţii",
+        "b) retragerea plângerii prealabile faţă de un participant",
+        "c) retragerea plângerii prealabile faţă de un participant şi împăcarea cu restul"
+        ],
+        "answer": [0, 2]
+        },
+        {
+        "question": "Retragerea plângerii prealabile când cel vătămat este o persoană fără capacitate de exercitiu, înlătură răspunderea penală dacă aceasta:",
+        "options": [
+        "a) este făcută personal",
+        "b) este făcută personal cu încuviinţarea reprezentatului legal",
+        "c) este făcută de reprezentantul legal"
+        ],
+        "answer": [2]
+        },
+        {
+        "question": "În cazul infracţiunilor pentru care acţiunea penală se pune în mişcare la plângerea prealabilă a persoanei vătămate, retragerea acestei plângeri înlătură răspunderea penală pentru toţi dacă:",
+        "options": [
+        "a) este făcută faţă de un participant în cazul pluralităţii de infractori",
+        "b) este făcută faţă de toţi participanţii",
+        "c) este făcută de reprezentantul legal în cazul persoanei cu capacitate de exerciţiu restrânsă"
+        ],
+        "answer": [1]
+        },
+        {
+        "question": "Pentru a putea produce efecte, retragerea plângerii prealabile:",
+        "options": [
+        "a) trebuie să se facă faţă de toţi participanţii",
+        "b) este suficient dacă este făcută numai faţă de un participant",
+        "c) poate fi făcută şi numai de către una dintre persoanele vătămate prin aceeaşi faptă"
+        ],
+        "answer": [1]
+        },
+        {
+        "question": "Infracţiunile comise în ziua adoptării legii de amnistie:",
+        "options": [
+        "a) nu cad sub incidenţa acesteia",
+        "b) cad sub incidenţa acesteia",
+        "c) cad sub incidenţa acesteia dacă se prevede aceasta în actul de amnistie"
+        ],
+        "answer": [0]
+        },
+        {
+        "question": "Dreptul de a cere continuarea procesului penal, pentru a dovedi nevinovăţia în cazul intervenirii amnistiei:",
+        "options": [
+        "a) aparţine numai inculpatului sau suspectului",
+        "b) aparţine şi procurorului",
+        "c) aparţine inculpatului, soţului acestuia şi copiilor majori"
+        ],
+        "answer": [0]
+        },
+        {
+            "question": "Prescripţia nu înlătură răspunderea penală în cazul:",
+            "options": [
+              "infracţiunilor contra siguranţei naţionale",
+              "infracţiunilor contra umanităţii",
+              "infracţiunilor ce prevăd pedeapsa detenţiunii pe viaţă"
+            ],
+            "answer": [1]
+          },
+          {
+            "question": "Amnistia nu are efecte:",
+            "options": [
+              "asupra drepturilor civile ale persoanei vătămate",
+              "asupra măsurilor de siguranţă",
+              "asupra măsurilor educative"
+            ],
+            "answer": [0, 1]
+          },
+          {
+            "question": "Amnistia antecondamnatorie:",
+            "options": [
+              "împiedică dispunerea măsurilor de siguranță care se pot aplica doar pe lângă o pedeapsă",
+              "nu împiedică niciodată dispunerea măsurilor de siguranță, deoarece amnistia nu produce efecte asupra acestora",
+              "face să curgă termenul de reabilitare pentru infracțiunea respectivă de la data aplicării legii de amnistie"
+            ],
+            "answer": [0]
+          },
+          {
+            "question": "Amnistia nu are efecte:",
+            "options": [
+              "asupra pedepselor complementare",
+              "identice cu reabilitarea",
+              "asupra pedepsei amenzii deja încasate"
+            ],
+            "answer": [2]
+          },
+          {
+            "question": "Când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii mai mare de 20 ani, termenul de prescripţie a răspunderii penale este de:",
+            "options": [
+              "15 ani",
+              "20 ani",
+              "25 ani"
+            ],
+            "answer": [0]
+          },
+          {
+            "question": "Când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii mai mare de 10 ani, dar care nu depăşeşte 20 ani, termenul de prescripţie al răspunderii penale este:",
+            "options": [
+              "15 ani",
+              "12 ani",
+              "10 ani"
+            ],
+            "answer": [2]
+          },
+          {
+            "question": "Când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii mai mare de 5 ani, dar care nu depăşeşte 10 ani, termenul de prescripţie a răspunderii penale este de:",
+            "options": [
+              "5 ani",
+              "7 ani",
+              "8 ani"
+            ],
+            "answer": [2]
+          },
+          {
+            "question": "Când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii de 4 ani, termenul de prescripţie a răspunderii penale este de:",
+            "options": [
+              "5 ani",
+              "7 ani",
+              "4 ani"
+            ],
+            "answer": [0]
+          },
+          {
+            "question": "Înlătură răspunderea penală:",
+            "options": [
+              "lipsa plângerii prealabile şi amnistia",
+              "retragerea plângerii prealabile",
+              "împăcarea, în cazurile prevăzute de lege"
+            ],
+            "answer": [0, 1, 2]
+          },
+          {
+            "question": "Când legea prevede pentru infracţiunea săvârşită pedeapsa închisorii de 1 an sau amenda, termenul de prescripţie a răspunderii penale este de:",
+            "options": [
+              "1 an",
+              "3 ani",
+              "2 ani"
+            ],
+            "answer": [1]
+          },
+          {
+            "question": "În cazul mai multor întreruperi a termenului de prescripţie, prescripţia răspunderii penale va interveni totuşi, dacă se depăşeşte termenul prevăzut de art. 154 C. pen., cu:",
+            "options": [
+              "un sfert",
+              "o treime",
+              "încă o dată"
+            ],
+            "answer": [2]
+          },
+          {
+            "question": "Termenele de prescripţie a răspunderii penale încep să curgă:",
+            "options": [
+              "de la data sesizării sau autosesizării organelor judiciare",
+              "de la data săvârşirii infracţiunii",
+              "de la data săvârşirii ultimei acţiuni/inacţiuni în cazul infracţiunii continue",
+              "de la data încetării acţiunii/inacţiunii în cazul infracţiunii continuate"
+            ],
+            "answer": [1]
+          },
+          {
+            "question": "Dacă, în termenul de prescripţie a răspunderii penale pentru o infracţiune din culpă, aceeaşi persoană comite o infracţiune de furt:",
+            "options": [
+              "se va întrerupe cursul prescripţiei răspunderii penale",
+              "va lua naştere un concurs de infracţiuni",
+              "va lua naştere o pluralitate intermediară"
+            ],
+            "answer": [1]
+          },
+          {
+            "question": "Amnistia înlătură:",
+            "options": [
+              "răspunderea penală",
+              "interdicţiile, incapacităţile, măsurile de siguranţă şi decăderile derivând din condamnare",
+              "obligaţiile civile faţă de victimă"
+            ],
+            "answer": [0]
+          },
+          {
+            "question": "Cursul termenului de prescripţie a răspunderii penale este suspendat:",
+            "options": [
+              "când există o dispoziţie legală ce împiedică punerea în mişcare a acţiunii penale sau continuarea procesului penal",
+              "când există o împrejurare de neprevăzut ori de neînlăturat ce împiedică punerea în mişcare a acţiunii penale sau continuarea procesului  penal",
+              "pe timpul unei epidemii."
+            ],
+            "answer": [0,1,2]
+          },
+          {
+            "question": "Condiţiile împăcării sunt:",
+            "options": [
+            "a) să intervină pentru cazurile prevăzute de lege",
+            "b) să fie personală, definitivă, totală, necondiţionată",
+            "c) să intervină numai până la pronunţarea sentinţei în primă instanţă."
+            ],
+            "answer": [0, 1]
+            },
+            {
+            "question": "Sunt cauze care înlătură răspunderea penală:",
+            "options": [
+            "a) amnistia şi cazul fortuit",
+            "b) graţierea",
+            "c) prescripţia."
+            ],
+            "answer": [2]
+            },
+            {
+            "question": "Sunt cauze care înlătură răspunderea penală:",
+            "options": [
+            "a) desistarea şi împiedicarea producerii rezultatului",
+            "b) retragerea plângerii prealabile",
+            "c) împăcarea."
+            ],
+            "answer": [1, 2]
+            },
+            {
+            "question": "Sunt cauze care înlătură răspunderea penală:",
+            "options": [
+            "a) lipsa plângerii prealabile",
+            "b) prescripţia executării pedepsei",
+            "c) retragerea plângerii prealabile."
+            ],
+            "answer": [0, 2]
+            },
+            {
+            "question": "Fapta pentru care punerea în mişcare a acţiunii penale este condiţionată de introducerea unei plângeri prealabile de către persoana vătămată săvârşită de mai multe persoane:",
+            "options": [
+            "a) atrage răspunderea penală a tuturor participanţilor la săvârşirea ei, chiar dacă plângerea s-a făcut sau se menţine numai cu privire la unul dintre participanţi",
+            "b) atrage răspunderea doar a participantului faţă de care partea vătămată nu şi-a retras plângerea",
+            "c) pentru a atrage răspunderea penală, plângerea prealabilă a părţii vătămate trebuie făcută faţă de toţi participanţii."
+            ],
+            "answer": [0, 1]
+            },
+            {
+            "question": "Cursul termenului de prescripţie a răspunderii penale poate fi întrerupt:",
+            "options": [
+            "a) prin citarea complicelui şi instigatorului la infracţiunea comisă",
+            "b) prin actul de punere în mişcare a acţiunii penale",
+            "c) prin percheziţia la domiciliu."
+            ],
+            "answer": [0, 1, 2]
+            },
+            {
+            "question": "Împăcarea este posibilă:",
+            "options": [
+            "a) numai la infracţiunile pentru care se prevede necesitatea formulării plângerii prealabile",
+            "b) în cazul infracţiunii de furt simplu",
+            "c) când persoana vătămată este o persoană lipsită de capacitate de exerciţiu sau cu capacitate restrânsă şi acţiunea penală a fost pusă în mişcare din oficiu."
+            ],
+            "answer": [1, 2]
+            },
+            {
+            "question": "Împăcarea:",
+            "options": [
+            "a) este personală, cu excepţia persoanelor fără capacitate de exerciţiu",
+            "b) poate fi realizată prin mandat special",
+            "c) poate fi exprimată numai până la citirea actului de sesizare",
+            "d) poate fi şi implicită."
+            ],
+            "answer": [0, 2, 3]
+            },
+            {
+            "question": "Efectele amnistiei se pot produce:",
+            "options": [
+            "a) numai in rem",
+            "b) in personam",
+            "c) in rem sau in personam."
+            ],
+            "answer": [0]
+            },
+            {
+            "question": "Lipsa nejustificată a părţii vătămate la două termene în faţa primei instanţe este considerată drept retragere a plângerii prealabile în cazul infracţiunilor de:",
+            "options": [
+            "a) ameninţare",
+            "b) violare de domiciliu",
+            "c) act sexual cu o minor."
+            ],
+            "answer": [0, 1]
+            },
+            {
+            "question": "În cazul infracţiunilor pentru care legea prevede necesitatea plângerii prealabile, retragerea acestei plângeri faţă de unul dintre făptuitori:",
+            "options": [
+            "a) are drept efect încetarea procesului penal cu privire la acesta",
+            "b) are drept efect încetarea procesului penal cu privire la toţi făptuitorii",
+            "c) nu are nici un efect în ceea ce-i priveşte pe făptuitori."
+            ],
+            "answer": [0]
+            },
+            {
+            "question": "Împăcarea produce efecte:",
+            "options": [
+            "a) numai în cazurile anume prevăzute de lege",
+            "b) numai în cazurile în care acţiunea penală a fost pornită ca urmare a plângerii prealabile",
+            "c) numai dacă intervine până la citirea actului de sesizare."
+            ],
+            "answer": [0, 2]
+            },
+            {
+              "question": "Detenţiunea pe viaţă este o pedeapsă:",
+              "options": ["a) absolut determinată", "b) nedeterminată", "c) relativ determinată"],
+              "answer": [0]
+            },
+            {
+              "question": "Detenţiunea pe viaţă este pedeapsă unică în cazul:",
+              "options": ["a) infracţiunii de capitulare", "b) infracţiunii de genocid comis pe timp de război", "c) infracţiunilor de război."],
+              "answer": [1]
+            },
+            {
+              "question": "Detenţiunea pe viaţă nu se aplică:",
+              "options": ["a) aceluia care era grav bolnav la momentul pronunţării hotărârii de condamnare", "b) aceluia care la data comiterii faptei împlinise 60 de ani", "c) aceluia care la data pronunţării hotărârii de condamnare împlinise 65 de ani", "d) minorului."],
+              "answer": [2, 3]
+            },
+            {
+              "question": "Constituie pedeapse principale conform Codului penal:",
+              "options": ["a) detenţiunea pe viaţă", "b) interzicerea unor drepturi de la 1 la 5 ani", "c) internarea într-un centru de detenţie."],
+              "answer": [0]
+            },
+            {
+              "question": "Sunt sancţiuni penale:",
+              "options": ["a) pedepsele, indiferent de felul lor", "b) măsurile de siguranţă", "c) măsurile educative", "d) măsurile preventive."],
+              "answer": [0, 1, 2]
+            },
+            {
+              "question": "Executarea pedepselor privative de libertate în dreptul penal român se bazează pe un sistem:",
+              "options": ["a) celular", "b) progresiv şi regresiv", "c) de muncă obligatorie."],
+              "answer": [1]
+            },
+            {
+              "question": "Munca prestată de condamnat în închisoare:",
+              "options": ["a) este remunerată şi se consideră vechime în muncă", "b) nu este remunerată", "c) este remunerată, cu excepţia muncilor cu caracter gospodăresc, necesare locului de deţinere."],
+              "answer": [2]
+            },
+            {
+              "question": "Din retribuţia cuvenită pentru munca prestată, revine condamnatului:",
+              "options": ["a) 20%", "b) 25%", "c) 40%."],
+              "answer": [2]
+            },
+            {
+              "question": "Când legea prevede pedeapsa amenzii, fără a-i arăta limitele, alternativ cu pedeapsa închisorii de maxim 2 ani, minimul şi maximul numărului de zile amendă se încadrează între următoarele limite:",
+              "options": ["a) 60 - 180 de zile amendă", "b) 120 - 260 de zile amendă", "c) 120 -240 de zile amendă."],
+              "answer": [2]
+            },
+            {
+              "question": "Ori de câte ori legea prevede că o infracţiune se pedepseşte numai cu amenda fără a-i arăta limitele, minimul şi maximul numărului de zile amendă se încadrează între:",
+              "options": ["a) 80 - 180 de zile amendă", "b) 60 - 180 de zile amendă", "c) 60 -160 de zile amendă."],
+              "answer": [1]
+            },
+            {
+              "question": "Când legea prevede pedeapsa amenzii, fără a-i arăta limitele, alternativ cu pedeapsa închisorii mai mare de 2 ani, minimul şi maximul numărului de zile amendă se încadrează între:",
+              "options": ["a) 80 - 300 de zile amendă", "b) 180 - 300 de zile amendă", "c) 160 -300 de zile amendă."],
+              "answer": [1]
+            },
+            {
+              "question": "Închisoarea are ca limite generale:",
+              "options": ["a) 1 lună – 25 ani", "b) 15 zile – 25 ani", "c) 15 zile – 30 ani."],
+              "answer": [2]
+            },
+            {
+              "question": "Sunt pedepse principale pentru persoana fizică:",
+              "options": ["a) detenţiunea pe viaţă", "b) interzicerea unor drepturi de la 1 la 5 ani", "c) degradarea militară", "d) amenda de la 30 la 400 de zile."],
+              "answer": [0, 3]
+            },
+            {
+              "question": "Munca  în timpul executării pedepsei privative de libertate:",
+              "options": ["a) este obligatorie pentru toţi condamnaţii", "b) nu este obligatorie", "c) este obligatorie pentru condamnaţii apţi de muncă."],
+              "answer": [1]
+            },
+            {
+              "question": "Pedeapsa închisorii:",
+              "options": ["a) este adaptabilă şi revocabilă", "b) are ca scop prevenirea comiterii de noi infracţiuni", "c) se execută numai în penitenciare."],
+              "answer": [0, 1]
+            },
+            {
+              "question": "Instanţa de judecată stabilind că persoana condamnată se sustrage cu rea-credinţă de la executarea  pedepsei amenzii:",
+              "options": ["a) va putea dispune înlocuirea acesteia cu pedeapsa închisorii în limitele prevăzute pentru infracţiunea săvârşită, ţinând seama de partea din amendă care a fost achitată", "b) va dispune înlocuirea cu pedeapsa închisorii, putând dispune şi suspendarea sub supraveghere a executării pedepsei închisorii", "c) în acest caz, numărul zilelor-amendă neexecutate se înlocuieşte cu un număr corespunzător de zile cu închisoare."],
+              "answer": [2]
+            },
+            {
+              "question": "Înlocuirea pedepsei amenzii cu pedeapsa închisorii poate produce următoarele consecinţe:",
+              "options": [
+                "dacă amenda neexecutată a însoţit pedeapsa închisorii, numărul zilelor-amendă neexecutate se înlocuieşte cu un număr corespunzător de zile cu închisoare, care se adaugă la pedeapsa închisorii, pedeapsa astfel rezultată fiind considerată o singură pedeapsă",
+                "dacă persoana condamnată, cu rea-credinţă, nu execută pedeapsa amenzii, în tot sau în parte, numărul zilelor-amendă neexecutate se înlocuieşte cu un număr corespunzător de zile cu închisoare.",
+                "amenda astfel înlocuită nu va constitui antecendent penal."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "Pedeapsa:",
+              "options": [
+                "este o măsură de constrângere",
+                "este un mijloc de reeducare al condamnatului",
+                "se poate aplică şi de către organele de cercetare penală."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "În cazul în care un minor comite o infracţiune pentru care legea prevede detenţiunea pe viaţă:",
+              "options": [
+                "pedeapsa detenţiunii pe viaţă se va înlocui cu închisoarea",
+                "nu i se va aplica niciodată această sancţiune minorului, indiferent de gravitatea faptei comise",
+                "se va aplica o măsură educativă privativă de libertate."
+              ],
+              "answer": [1, 2]
+            },
+            {
+              "question": "În cazul în care cel condamnat la pedeapsa detenţiunii pe viaţă a împlinit vârsta de 65 de ani în timpul executării pedepsei, aceasta se poate înlocui cu:",
+              "options": [
+                "închisoarea pe timp de 25 de ani",
+                "liberarea condiţinată",
+                "închisoarea pe timp de 30 de ani."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "Scopul pedepsei constă în:",
+              "options": [
+                "reeducarea condamnatului",
+                "prevenirea săvârşirii de noi infracţiuni",
+                "formarea unei atitudini corecte a infractorului faţă de muncă şi faţă de ordinea socială."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "Pedeapsa detenţiunii pe viaţă nu este alternativă cu închisoarea în cazul:",
+              "options": [
+                "genocidului săvârşit în timp de război",
+                "tuturor infracţiunilor contra securităţii statului",
+                "omorului calificat prin cruzimi."
+              ],
+              "answer": [0]
+            },
+            {
+              "question": "Pedeapsa detenţiunii pe viaţă nu se aplică:",
+              "options": [
+                "niciodată infractorului minor",
+                "în cazul în care subzistă circumstanţe atenuante",
+                "dacă infractorul la data pronunţării hotărârii de condamnare a împlinit 60 de ani."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "Pentru condamnatul care a împlinit vârsta de 65 de ani la data pronunţării hotărârii de condamnare la deţentiunea pe viaţă:",
+              "options": [
+                "se aplică pedeapsa închisorii în limita maximă specială prevăzută de lege",
+                "se aplică pedeapsa închisorii pe timp de 30 de ani şi pedeapsa complementară a interzicerii exercitării unor drepturi pe timp de 5 ani",
+                "această sancţiune se va executa efectiv, putându-se ulterior dispune liberarea condiţionată a condamnatului."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "Limitele pedepsei complementare a interzicerii exercitării unor drepturi sunt:",
+              "options": [
+                  "1-7 ani",
+                  "1-5 ani",
+                  "1-10 ani"
+              ],
+              "answer": [
+                  1
+              ]
+          },
+          {
+              "question": "Pedepsele accesorii pot fi aplicate:",
+              "options": [
+                  "dacă pedeapsa principală este închisoarea de cel puţin 2 ani",
+                  "dacă pedeapsa principală este închisoarea",
+                  "dacă pedeapsa principală aplicată este detenţiunea pe viaţă",
+                  "dacă pedeapsa principală este amenda"
+              ],
+              "answer": [
+                  1,
+                  2
+              ]
+          },
+          {
+              "question": "Pedeapsa complementară a interzicerii exercitării unor drepturi se poate executa:",
+              "options": [
+                  "în timpul executării pedepsei principale",
+                  "după amnistierea faptei",
+                  "după executarea pedepsei principale sau considerarea ei ca executată"
+              ],
+              "answer": [
+                  0,
+                  2
+              ]
+          },
+          {
+              "question": "Pedeapsa complementară a degradării militare constă în:",
+              "options": [
+                  "pierderea gradului şi a dreptului de a purta uniformă",
+                  "pierderea dreptului de a purta uniformă pe timp de 5 ani",
+                  "pierderea gradului şi a dreptului de a purta uniformă pe timpul executării pedepsei principale"
+              ],
+              "answer": [
+                  0
+              ]
+          },
+          {
+              "question": "Degradarea militară se poate aplica:",
+              "options": [
+                  "pentru infracţiunile comise cu intenţie, dacă pedeapsa principală prevăzută de lege este închisoarea între 5 şi 15 ani",
+                  "pe o perioadă de la 1 la 5 ani",
+                  "militarilor rezervişti sau în retragere"
+              ],
+              "answer": [
+                  2
+              ]
+          },
+          {
+              "question": "Pedeapsa accesorie se aplică de drept:",
+              "options": [
+                  "când s-a dispus suspendarea condiţionată a executării pedepsei",
+                  "când instanţa a aplicat pedeapsa amenzii",
+                  "când instanţa a aplicat pedeapsa detenţiunii pe viaţă",
+                  "când instanţa a aplicat pedeapsa închisorii"
+              ],
+              "answer": [
+                  2,
+                  3
+              ]
+          },
+          {
+              "question": "Aplicarea pedepsei complementare a interzicerii exercitării unor drepturi prevăzută de lege pentru infracţiunea de luare de mită se aplică dacă pedeapsa principală aplicată este închisoarea de:",
+              "options": [
+                  "indiferent de cuantumul ei",
+                  "5 ani",
+                  "minim 2 ani"
+              ],
+              "answer": [
+                  0,
+                  1
+              ]
+          },
+          {
+              "question": "Aplicarea pedepsei interzicerii exercitării unor drepturi este facultativă:",
+              "options": [
+                  "când legea prevede această pedeapsă indiferent de durata pedepsei principale aplicată de instanţă",
+                  "când legea prevede această pedeapsă cu condiţia ca pedeapsa principală aplicată de instanţă să fie închisoarea de cel puţin 2 ani",
+                  "când legea nu prevede în mod expres şi aplicarea pedepsei complementare, dar instanţa constată că, faţă de natura şi gravitatea infracţiunii, împrejurările cauzei şi persoana infractorului, această pedeapsă este necesară"
+              ],
+              "answer": [
+                  2
+              ]
+          },
+          {
+              "question": "Aplicarea pedepsei complementare a interzicerii unor drepturi este facultativă întotdeauna când:",
+              "options": [
+                  "instanța aplică inculpatului pedeapsa închisorii mai mică de 2 ani",
+                  "instanța reține circumstanțe atenuante legale în cazul unei infracțiuni pentru care legea prevede obligativitatea aplicării pedepsei complementare",
+                  "instanța dispunde suspendarea condiționată a executării pedepsei, iar infracţiunea este comisă din culpă"
+              ],
+              "answer": []
+          },
+          {
+              "question": "În cazul concursului de infracţiuni pedeapsa complementară a interzicerii exercitării unor drepturi:",
+              "options": [
+                  "se aplică pe lângă pedeapsa rezultantă",
+                  "se aplică doar pe lângă fiecare dintre pedepsele principale",
+                  "se aplică pe lângă fiecare dintre pedepsele principale şi apoi pe lângă pedeapsa rezultantă"
+              ],
+              "answer": [
+                  2
+              ]
+          },
+          {
+              "question": "Pedeapsa complementară a degradării militare:",
+              "options": [
+                  "nu îşi mai poate produce efectele dacă infracţiunea care a determinat condamnarea a fost amnistiată în timpul executării pedepsei principale",
+                  "nu poate face obiectul unei graţieri individuale",
+                  "se poate dispune şi pe lângă o pedeapsă principală de cel puţin 2 ani închisoare a cărei executare a fost suspendată sub supraveghere"
+              ],
+              "answer": [
+                  1
+              ]
+          },
+          {
+              "question": "Pedeapsa accesorie se aplică:",
+              "options": [
+                  "şi condamnaţilor minori, dacă pe parcursul executării măsurii educative privative de libertate aceştia devin majori",
+                  "pe lângă pedeapsa închisorii de cel puţin 15 zile",
+                  "pe lângă pedeapsa detenţiunii pe viaţă"
+              ],
+              "answer": [
+                  1,
+                  2
+              ]
+          },
+          {
+              "question": "Interzicerea exercitării unor drepturi, ca pedeapsă complementară, se poate aplica pe o durată cuprinsă între:",
+              "options": [
+                  "1-5 ani, limite care nu pot fi depăşite",
+                  "1-5 ani, limite care pot fi depăşite, ca efect al circumstanţelor atenuante sau agravante",
+                  "o durată prevăzută expres de C.pen."
+              ],
+              "answer": [
+                  0,
+                  2
+              ]
+          },
+          {
+              "question": "Aplicarea pedepsei interzicerii unor drepturi este obligatorie:",
+              "options": [
+                  "când legea prevede această pedeapsă, indiferent de limita de pedeapsă principală aplicată de instană",
+                  "când legea prevede această pedeapsă, cu condiţia ca pedeapsa principală aplicată să fie închisoarea de cel puţin 2 ani",
+                  "pentru infracţiunile comise cu intenţie directă calificată prin scop"
+              ],
+              "answer": [
+                  0
+              ]
+          },
+          {
+              "question": "Aplicarea pedepsei interzicerii exercitării unor drepturi este facultativă:",
+              "options": [
+                  "în cazul tuturor infracţiunilor comise din culpă",
+                  "când nu este prevăzută de lege, dar instanţa consideră necesar că, faţă de natura şi gravitatea faptei şi persoana făptuitorului este necesară aplicarea acesteia, indiferent de natura pedepsei principale aplicate",
+                  "când nu este prevăzută de lege, dar instanţa consideră necesar că, faţă de natura şi gravitatea faptei şi persoana făptuitorului este necesară aplicarea acesteia"
+              ],
+              "answer": [
+                  2
+              ]
+          },
+          {
+              "question": "16. Pedeapsa complementară a interzicerii unor drepturi se poate executa:",
+              "options": [
+              "a) în timpul executării pedepsei principale",
+              "b) după executarea pedepsei principale",
+              "c) după graţierea totală sau a restului de pedeapsă",
+              "d) după prescripţia executării pedepsei."
+              ],
+              "answer": [0, 1, 2, 3]
+              },
+              {
+              "question": "17. Pedeapsa complementară a degradării militare se execută:",
+              "options": [
+              "a) la rămânerea definitivă a hotărârii de condamnare prin care a fost dispusă",
+              "b) după executarea pedepsei principale",
+              "c) la data liberării condiţionate din executarea pedepsei închisorii pe lângă care a fost dispusă."
+              ],
+              "answer": [0]
+              },
+              {
+              "question": "18. Degradarea militară se poate aplica:",
+              "options": [
+              "a) numai militarilor activi",
+              "b) pe o perioadă de la 1-5 ani",
+              "c) chiar şi militarilor rezervişti."
+              ],
+              "answer": [2]
+              },
+              {
+              "question": "19. Pedeapsa accesorie se aplică de drept:",
+              "options": [
+              "a) când instanţa a pronunţat pedeapsa detenţiunii pe viaţă",
+              "b) când instanţa a pronunţat pedeapsa închisorii",
+              "c) când s-a dispus suspendarea sub supraveghere a executării pedepsei."
+              ],
+              "answer": [0, 1]
+              },
+              {
+              "question": "20. Degradarea militară se aplică în mod obligatoriu condamnaţilor militari şi rezervişti:",
+              "options": [
+              "a) în cazul infracţiunilor grave ce au atras pedeapsa detenţiunii pe viaţă, indiferent de forma de vinovăţie cu care s-a comis infracţiunea",
+              "b) în cazul infracţiunilor ce au atras o pedeapsă mai mare de 10 ani închisoare",
+              "c) în cazul infracţiunilor care prevăd un minim general de 10 ani închisoare."
+              ],
+              "answer": [0, 1]
+              },
+              {
+              "question": "21. Degradarea militară este facultativă în cazul condamnaţilor militari şi rezervişti:",
+              "options": [
+              "a) când pedeapsa aplicată de instanţă este închisoarea de cel puţin 5 ani şi de cel mult 10 ani",
+              "b) când infracţiunea a fost săvârşită cu intenţie, iar instanţa a aplicat pedeapsa închisorii de 4 ani",
+              "c) în cazul infracţiunii de ucidere din culpă, când s-a aplicat pedeapsa închisorii de 7 ani."
+              ],
+              "answer": [0]
+              },
+              {
+              "question": "22. Constituie pedeapsă complementară a interzicerii unor drepturi:",
+              "options": [
+              "a) interzicerea unei funcţii sau profesii",
+              "b) interzicerea dreptului de a ocupa o funcţie sau de a exercita o profesie de natura aceleia de care s-a folosit condamnatul pentru săvârşirea infracţiunii",
+              "c) interzicerea unei funcţii datorită incapacităţii făptuitorului de a ocupa funcţia",
+              "d) expulzarea."
+              ],
+              "answer": [1, 3]
+              },
+              {
+              "question": "23. Pedeapsa accesorie se aplică:",
+              "options": [
+              "a) dacă pedeapsa principală este închisoarea",
+              "b) doar dacă pedeapsa principală este închisoarea",
+              "c) doar dacă pedeapsa principală este închisoarea mai mare de 2 ani."
+              ],
+              "answer": [0]
+              },
+              {
+              "question": "24. Măsura interzicerii de a se afla în anumite localităţi poate fi luată:",
+              "options": [
+              "a) numai dacă instanţa aplică pedeapsa închisorii",
+              "b) chiar dacă instanţa aplică pedeapsa amenzii, cu îndeplinirea celorlalte condiţii legale",
+              "c) numai dacă făptuitorul a mai fost condamnat anterior pentru alte infracţiuni."
+              ],
+              "answer": [1]
+              },
+              {
+              "question": "25. Măsura expulzării poate fi luată:",
+              "options": [
+              "a) faţă de o persoană având dublă cetăţenie turco-română",
+              "b) faţă de o persoană fără cetăţenie care are totuşi domiciliul în România",
+              "c) faţă de un cetăţean străin, chiar dacă se cunoaşte faptul că prin luarea acestei măsuri va fi supus la tortură în statul în care urmează a fi expulzat."
+              ],
+              "answer": []
+              },
+              {
+              "question": "26. Ca natură juridică, interzicerea de a se afla în anumite localităţi este:",
+              "options": [
+              "a) o pedeapsă accesorie",
+              "b) o măsură de siguranţă",
+              "c) o pedeapsă complementară."
+              ],
+              "answer": [2]
+              },
+              {
+              "question": "27. Pot fi expulzaţi:",
+              "options": [
+              "a) cetăţenii străini sau apatrizii care nu domiciliază în ţară şi care au comis infracţiuni pe teritoriul României",
+              "b) persoanele de la punctul a) care au săvârşit infracţiuni atât în ţară cât şi în afara ţării şi cărora li se aplică legea penală română",
+              "c) numai cetăţenii străini nu şi naţionalii."
+              ],
+              "answer": [0]
+              },
+              {
+              "question": "28. Interzicerea de a se afla în anumite localităţi se poate lua:",
+              "options": [
+              "a) excepţional şi în cazul comiterii doar a unei singure infracţiuni",
+              "b) în cazul pronunţării unei condamnări la pedeapsa închisorii dacă a mai fost condamnat şi pentru alte infracţiuni",
+              "c) numai în cazul infracţiunilor grave."
+              ],
+              "answer": [0]
+              },
+              {
+                "question": "Persoana juridică va fi subiect activ al infracţiunii atunci când:",
+                "options": [
+                  "a) infracţiunea a fost săvârşită în realizarea obiectului ei de activitate sau în interesul ori în numele persoanei juridice şi cu forma de vinovăţie prevăzută de legea penală",
+                  "b) infracţiunea are legătură cu atribuţiile de serviciu ale societăţii comerciale ori instituţiei respective",
+                  "c) se dovedeşte în sarcina conducerii unei instituţii ori societăţi că a existat un interes patrimonial",
+                  "d) persoana juridică nu poate răspunde penal în nicio împrejurare."
+                ],
+                "answer": [0, 1]
+              },
+              {
+                "question": "Care sunt persoanele juridice care nu răspund penal?",
+                "options": [
+                  "a) societăţile comerciale",
+                  "b) statul",
+                  "c) autorităţile publice",
+                  "d) instituţiile publice."
+                ],
+                "answer": [3]
+              },
+              {
+                "question": "Pedeapsa principală pentru persoana juridică este:",
+                "options": [
+                  "a) numai amenda",
+                  "b) dizolvarea",
+                  "c) suspendarea activităţii."
+                ],
+                "answer": [0]
+              },
+              {
+                "question": "Pedeapsa complementară pentru persoana juridică este:",
+                "options": [
+                  "a) închiderea unor puncte de lucru pe o anumită perioadă",
+                  "b) amenda",
+                  "c) suspendarea activităţii pe perioadă nedeterminată."
+                ],
+                "answer": [0]
+              },
+              {
+                "question": "Pedeapsa principală comună pentru persoana juridică şi persoana fizică este:",
+                "options": [
+                  "a) închisoarea",
+                  "b) numai amenda, care se poate plăti eşalonat în ambele situaţii",
+                  "c) interzicerea de a participa la procedurile de achiziţii publice."
+                ],
+                "answer": [1]
+              },
+              {
+                "question": "Pedeapsa complementară pentru persoana juridică:",
+                "options": [
+                  "a) poate consta în închiderea unor puncte de lucru pe o anumită perioadă",
+                  "b) nu se prescrie",
+                  "c) se prescrie în acelaşi termen ca şi la persoana fizică."
+                ],
+                "answer": [0]
+              },
+              {
+                "question": "Poate fi subiect activ al unei infracţiunii:",
+                "options": [
+                  "a) o persoană juridică în cazul comiterii unei infracţiuni de viol",
+                  "b) niciodată o persoană juridică în cazul comiterii unei infracţiuni de viol",
+                  "c) statul."
+                ],
+                "answer": [0]
+              },
+              {
+                "question": "Niciodată nu se poate angaja răspunderea penală pentru comiterea unei infracţiuni în cazul următoarelor persoane juridice:",
+                "options": [
+                  "a) o instituţie publică",
+                  "b) un penitenciar",
+                  "c) o bancă comercială cu capital atât de stat şi privat."
+                ],
+                "answer": [1]
+              },
+              {
+                "question": "Persoana juridică nu poate săvârşi în calitatea de subiect activ nemijlocit (autor) infracţiunea de:",
+                "options": [
+                  "a) luare de mită",
+                  "b) trădare",
+                  "c) trafic de influenţă."
+                ],
+                "answer": [0, 1]
+              },
+              {
+                "question": "Pentru ca o persoană juridică să răspundă penal nu este necesar ca:",
+                "options": [
+                  "a) persoana fizică ce a comis sau a participat în orice fel la comiterea infracţiunii să fie identificată",
+                  "b) infracţiunea să fie săvârşită în numele persoanei juridice",
+                  "c) infracţiunea să fie săvârşită în realizarea obiectului de activitate al persoanei juridice."
+                ],
+                "answer": [0]
+              },
+              {
+                "question": "Persoana juridică:",
+                "options": [
+                  "a) poate comite infracţiunea cu orice formă de vinovăţie",
+                  "b) nu poate săvârşi o infracţiune din culpă",
+                  "c) săvârşeşte infracţiuni numai cu intenţie directă sau indirectă."
+                ],
+                "answer": [0]
+              },
+              {
+                "question": "Forma de vinovăţie cu care o persoană juridică săvârşeşte o infracţiune:",
+                "options": [
+                  "a) este întotdeauna aceeaşi cu cea a persoanei fizice care a comis infracţiunea",
+                  "b) poate fi diferită de cea cu care persoana fizică a comis infracţiunea",
+                  "c) poate fi culpa."
+                ],
+                "answer": [1, 2]
+              },
+              {
+                "question": "Cine beneficiază de o prezumţie absolută de nerăspundere penală?",
+                "options": [
+                  "a) minoul sub 14 ani",
+                  "b) statul, chiar şi în cazul infracţiunilor de genocid",
+                  "c) instituţiile publice."
+                ],
+                "answer": [0, 1]
+              },
+              {
+                "question": "Persoana juridică:",
+                "options": [
+                  "a) poate comite o infracţiune doar în calitate de autor",
+                  "b) nu exclude răspunderea penală a persoanei fizice care a contribuit la săvârşirea aceleiaşi fapte",
+                  "c) are un sistem sancţionator la fel ca cel al persoanei fizice."
+                ],
+                "answer": [1]
+              },
+              {
+                "question": "Dacă o persoană juridică şi directorul acesteia sunt trimişi în judecată:",
+                "options": [
+                  "a) se poate reţine numai vinovăţia persoanei juridice şi o cauză de nepedepsire pentru persoana fizică",
+                  "b) instanţa poate aplica o singură sancţiune",
+                  "c) obligatoriu se va dispune suspendarea activităţii."
+                ],
+                "answer": [0, 1]
+              },
+              {
+                "question": "Sunt adevărate următoarele afirmaţii:",
+                "options": [
+                  "a) nu se poate reţine coautoratul în cazul persoanei juridice",
+                  "b) ca şi în cazul persoanei fizice, nici în cazul persoanei juridice pedepsele complementare nu se prescriu",
+                  "c) în cazul persoanei juridice se poate aplica o singură pedeapsă principală."
+                ],
+                "answer": [2]
+              },
+        
+              {
+                "question": "17. Tentativa, în cazul persoanei juridice:",
+                "options": [
+                  "a) se pedepseşte în aceleaşi limite ca în cazul persoanei fizice",
+                  "b) se pedepseşte doar în limitele fixate de C.pen.",
+                  "c) nu este reglementată."
+                ],
+                "answer": [1]
+              },
+              {
+                "question": "18. Scopul pedepsei pentru persoana juridică poate fi atins dacă:",
+                "options": [
+                  "a) pedeapsa aplicată este orientată către maximul special al acesteia",
+                  "b) pedeapsa principală este însoţită şi de o pedeapsă complementară",
+                  "c) pedeapsa este corect individualizată."
+                ],
+                "answer": [2]
+              },
+              {
+                "question": "19. Pedeapsa complemntară a difuzării şi afişării hotărârii de condamnare a persoanei juridice se face pe cheltuiala:",
+                "options": [
+                  "a) statului",
+                  "b) atât a staului cât şi a persoanei juridice condamnate",
+                  "c) persoanei juridice condamnate."
+                ],
+                "answer": [2]
+              },
+              {
+                "question": "20. Pedeapsa dizolvării se poate aplica persoanei juridice:",
+                "options": [
+                  "a) dacă infracţinea comisă este intenţionată",
+                  "b) tuturor persoanelor juridice care răspund penal",
+                  "c) dacă persoana juridică a fost înfiinţată în scopul săvârşirii de infracţiuni."
+                ],
+                "answer": [0, 2]
+              },
+              {
+                "question": "21. De la aplicarea suspendării uneia dintre activităţile persoanei juridice sunt exceptate:",
+                "options": [
+                  "a) autorităţile publice",
+                  "b) partidele politice, sindicatele, patronatele, organizaţiile religioase şi ale minorităţilor naţionale care funcţionează potrivit legii",
+                  "c) centrele medicale, asociaţiile sportive şi asociaţiile de vânători şi organele de poliţie comunitară."
+                ],
+                "answer": [1]
+              },
+              {
+                "question": "22. În cazul persoanei juridice, dacă există circumstanţe agravante, atunci:",
+                "options": [
+                  "a) pedeapsa amenzii prevăzută de norma de incriminare încălcată va fi fi dublată",
+                  "b) pedeapsa amenzii va fi completată în mod obligatoriu cu o pedeapsă complementară",
+                  "c) se poate aplica amenda până la maximul special la care se mai poate adăugă cel mult o treime din acel maxim."
+                ],
+                "answer": [2]
+              },
+              {
+                "question": "23. În cazul persoanei juridice, tentativa se pedepseşte:",
+                "options": [
+                  "a) cu amenda prevăzută de lege pentru infracţiunea consumată",
+                  "b) pe acelaşi raţionament ca în cazul persoanei fizice",
+                  "c) cu amendă cuprinsă între minimul special şi maximul special prevăzut de lege pentru infracţiunea consumată, reduse la jumătate."
+                ],
+                "answer": [2, 3]
+              },
+              {
+                "question": "24. În cazul în care o persoană juridică a comis o tentativă la o infracţiune, pentru sancţionarea acesteia se poate aplica:",
+                "options": [
+                  "a) doar pedeapsa amenzii",
+                  "b) pe lângă pedeapsa principală şi una sau mai multe pedepse complementare",
+                  "c) pe lângă pedeapsa principală doar o singură pedeapsă complementară, deoarece tentativa este o stare de atenuare."
+                ],
+                "answer": [1]
+              },
+              {
+                "question": "25. În cazul în care o persoană juridică a comis o tentativă la o infracţiune, aplicarea pedepselor complementare:",
+                "options": [
+                  "a) va fi facultativă",
+                  "b) este obligatorie",
+                  "c) pedeapsa afişări hotărârii de condamnare este  întotdeauna obligatorie când s-a comis o infracţiune de fraudă fiscală din bugetul Uniuni Europne."
+                ],
+                "answer": [0]
+              },
+              {
+                "question": "26. Persoanei juridice nu i se poate aplica niciodată:",
+                "options": [
+                  "a) o măsură educativă",
+                  "b) dispoziţiile privitoare la prescripţia răspunderii penale şi la reabilitare",
+                  "c) o măsură de siguranţă."
+                ],
+                "answer": [0]
+              },
+              {
+                "question": "27. Amenda cea mai mare stabilită pentru o infracţiune, în caz de concurs de infracţiuni, săvârşit de persoana juridică:",
+                "options": [
+                  "a) este obligatoriu sporită",
+                  "b) poate fi sporită doar până la maximul ei special prevăzut de norma de incriminare",
+                  "c) poate fi sporită până la maximul ei special, iar dacă acest maxim este neîndestulător se poate adăuga un spor de până la o treime din acel maxim."
+                ],
+                "answer": [2]
+              },
+              {
+                "question": "28. Dacă instanţa de judecată a aplicat, în caz de concurs de infracţiuni săvârşite de persoana juridică, amenda cea mai mare, stabilită pentru o infracţiune concurentă, fără a adăuga niciun spor:",
+                "options": [
+                  "a) pedeapsa este legal aplicată",
+                  "b) pedeapsa este nelegal stabilită",
+                  "c) pedeapsa este nelegal stabilită, deoarece trebuia sporită."
+                ],
+                "answer": [0]
+              },
+              {
+                "question": "29. Sub aspectul laturii subiective, persoana juridică, ca subiect activ al unei infracţiuni:",
+                "options": [
+                  "a) nu poate săvârşi o infracţiune din culpă",
+                  "b) poate săvârşi o infracţiune cu praeterintenţie",
+                  "c) săvârşeşte infracţiuni numai cu intenţie."
+                ],
+                "answer": [1]
+              },
+              {
+                "question": "30. În cazul în care, prin infracţiunea comisă persoana juridică a urmărit obţinerea unui folos patrimonial:",
+                "options": [
+                  "a) la stabilirea amenzii se va tine seama de valoarea folosului patrimonial obţinut sau urmărit",
+                  "b) limitele speciale ale zilelor-amendă prevăzute de lege pentru infracţiunea săvârşită se pot majora cu o treime, fără a se depăşi maximul general al amenzii",
+                  "c) limitele speciale ale zilelor-amendă prevăzute de lege pentru infracţiunea săvârşită se pot majora cu o pătime, fără a se depăşi maximul general al amenzii."
+                ],
+                "answer": [0, 1]
+              },
+              {
+                "question": "31. Persoanei juridice nu îi pot fi niciodată aplicate:",
+                "options": [
+                  "a) pedepse accesorii",
+                  "b) suspendarea sub supraveghere a executării pedepsei",
+                  "c) dispoziţiile referitoare la graţiere sau amnistie."
+                ],
+                "answer": [0, 1]
+              },
+              {
+                "question": "32. Măsurile preventive pentru persoana juridică sunt:",
+                "options": [
+                  "a) interzicerea unor operaţiuni patrimoniale, susceptibile de a antrena diminuarea activului patrimonial sau insolvenţă persoanei juridice",
+                  "b) interzicerea desfăşurării activităţilor de natura celor cu ocazia cărora a fost comisă infracţiunea.",
+                  "c) confiscarea specială."
+                ],
+                "answer": [0, 1]
+              },
+              {
+                "question": "33. Măsurile asiguratorii pentru persoana juridică sunt:",
+                "options": [
+                  "a) interdicţia iniţierii suspendării procedurii de dizolvare sau lichidare a persoanei juridice",
+                  "b) repararea pagubei produse prin infracţiune",
+                  "c) garantarea executării pedepsei amenzii."
+                ],
+                "answer": [1, 2]
+              },
+              {
+                "question": "Constituie circumstanţe atenuante legale:",
+                "options": [
+                    "a) depăşirea limitelor legitimei apărări",
+                    "b) conduita bună a infractorului înainte de comiterea infracţiunii",
+                    "c) stăruinţa depusă de infractor pentru a înlătura rezultatul infracţiunii sau a repara paguba pricinuită."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "În cazul infracţiunilor contra siguranţei statului dacă se constată că există circumstanţe atenuante:",
+                "options": [
+                    "a) pedeapsa închisorii poate fi redusă cu cel mult jumătate din limitele speciale",
+                    "b) limitele speciale se reduc cu cel mult o treime din limitele speciale",
+                    "c) pedeapsa închisorii poate fi redusă până la o treime din minimul special."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Când există circumstanţe atenuante pedeapsa complementară a interzicerii exercitării unor drepturi prevăzute de lege pentru infracţiunea comisă:",
+                "options": [
+                    "a) nu poate fi înlăturată",
+                    "b) poate fi înlăturată",
+                    "c) legea nu face nicio precizare în acest sens."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "Constituie circumstanţe agravante legale cu caracter general:",
+                "options": [
+                    "a) comiterea faptei de către trei sau mai multe persoane împreună",
+                    "b) împrejurarea că infractorul se găsea în stare de beţie în momentul comiterii infracţiunii de ultraj",
+                    "c) comiterea infracţiunii prin violenţe asupra membrilor familiei."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "Constituie circumstanţe agravante legale cu caracter general:",
+                "options": [
+                    "a) comiterea infracţiunii din motive josnice",
+                    "b) săvârşirea faptei în stare de beţie fortuită incompletă",
+                    "c) comiterea infracţiunii profitând de starea de calamitate."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "Circumstanţele reale:",
+                "options": [
+                    "a) nu se răsfrâng asupra participanţilor, dacă nu le-au prevăzut, deşi aveau obligaţia să le prevadă",
+                    "b) se răsfrâng asupra participanţilor",
+                    "c) se răsfrâng asupra participanţilor dacă le-au cunoscut."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "Pentru inculpatul condamnat pentru tentativa la infracţiunea de omor cu reţinerea circumstanţei atenuate a provocării:",
+                "options": [
+                    "a) aplicarea pedepsei complementare a interzicerii execitării unor drepturi prevăzută de lege pentru infracţiunea de omor nu poate fi înlăturată",
+                    "b) aplicarea pedepsei complementare a interzicerii exercitării unor drepturi prevăzute de lege pentru infracţiunea de omor este înlăturată, deoarece tentativa este o stare obligatorie de atenuare",
+                    "c) aplicarea pedepsei complementare a interzicerii unor drepturi este obligatorie, deoarece norma de incriminare o prevede în mod expres."
+                ],
+                "answer": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "question": "Sunt circumstanţe atenuante:",
+                "options": [
+                    "a) tentativa",
+                    "b) excesul justificat",
+                    "c) depăşirea limitelor stării de necesitate",
+                    "d) excesul scuzabil."
+                ],
+                "answer": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "question": "Pot constitui circumstanţe atenuante:",
+                "options": [
+                    "a) excesul justificat",
+                    "b) depăşirea limitelor stării de necesitate",
+                    "c) stăruinţa depusă de infractor pentru a înlătura rezultatul infracţiunii sau pentru a repara paguba pricinuită",
+                    "d) desistarea."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "Este legală aplicarea unei pedepse de 10 închisoare autorului unei infracţiuni pentru care legea prevede pedeapsa închisorii de la 2 la 7 ani, dacă instanţa:",
+                "options": [
+                    "a) fără a reţine alte cauze de agravare, revocă liberarea condiţionată din executarea unei pedepse anterioare, constatând în existenţa unui rest rămas neexecutat din aceasta de 802 zile",
+                    "b) reţine pentru respectiva infracţiune starea de recidivă postexecutorie",
+                    "c) reţine pentru respectiva infracţiune doar starea de provocare în concurs cu o circumstanţă agravantă generală."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "În cazul în care există circumstanţe atenuante, pedeapsa principală:",
+                "options": [
+                    "a) se reduce la minimul special",
+                    "b) se poate reduce sub minimul special",
+                    "c) se poate reduce cu o pătrime."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Sunt circumstanţe atenuante legale:",
+                "options": [
+                    "a) excesul justificat",
+                    "b) provocarea",
+                    "c) conduita bună a infractorului înainte de comiterea infracţiunii",
+                    "d) excesul scuzabil."
+                ],
+                "answer": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "question": "Constituie circumstanţă agravantă cu caracter personal:",
+                "options": [
+                    "a) comiterea infracţiunii de către un infractor major dacă aceasta a fost comisă împreună cu un minor",
+                    "b) comiterea infracţiunii din motive josnice",
+                    "c) recidiva",
+                    "d) săvârşirea infracţiunii în stare de intoxicaţie voluntară cu alcool sau cu alte substanţe psihoactive, când a fost provocată în vederea comiterii infracţiunii."
+                ],
+                "answer": [
+                    3
+                ]
+            },
+            {
+                "question": "Constituie circumstanţă agravantă legală, cu caracter general:",
+                "options": [
+                    "a) comiterea faptei de două sau mai multe persoane împreună",
+                    "b) comiterea infracţiunii în timpul nopţii",
+                    "c) comiterea infracţiunii de către o persoană care a profitat de situaţia prilejuită de o calamitate."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "Circumstanţele atenuante şi agravante reale produc efecte:",
+                "options": [
+                    "a) numai dacă au fost cunoscute de făptuitor",
+                    "b) chiar dacă nu au fost cunoscute de făptuitor",
+                    "c) numai faţă de persoana ce a săvârşit o infracţiune."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "Dacă se săvârşeşte în formă consumată o infracţiune pentru care legea prevede o pedeapsă cu închisoarea de la 1 la 12 ani, iar instanţa reţine o circumstanţă agravantă legală generală, pedeapsa maximă ce se poate aplica în concret inculpatului persoană fizică va fi de:",
+                "options": [
+                    "a) 12 ani închisoare",
+                    "b) 14 ani închisoare",
+                    "c) 16 ani închisoare."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Constitue circumstanţe atenuante legale generale:",
+                "options": [
+                    "a) stăruinţa depusă de infractor pentru a înlătura rezultatul infracţiunii sau a repara paguba pricinuită",
+                    "b) săvârşirea infracţiunii sub influenţa unei puternice tulburări determinate de o provocare din partea persoanei vătămate, produsă prin atingerea gravă a demnităţii",
+                    "c) săvârşirea infracţiunii sub influenţa unei puternice tulburări determinate de o provocare din partea persoanei vătămate, produsă prin violenţă."
+                ],
+                "answer": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "Circumstanţele atenuante judiciare:",
+                "options": [
+                    "a) nu pot produce efecte asupra pedepsei complementare a interzicerii unor drepturi",
+                    "b) determină coborârea facultativă a pedepsei sub minimul special atunci când vin în concurs cu o circumstanţă agravantă generală",
+                    "c) sunt expres şi limitativ prevăzute de art. 75 Cod penal."
+                ],
+                "answer": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "Când reţine numai circumstanţe atenuante:",
+                "options": [
+                    "a) instanţa reduce sau schimbă pedeapsa principală, în mod obligatoriu, diferenţiat, în funcţie de felul şi cuantumul acesteia, conform regulilor stabilite de legiuitor",
+                    "b) rămâne la latitudinea instanţei reducerea sau schimbarea pedepsei principale conform regulilor stabilite de legiuitor",
+                    "c) instanţa coboară întotdeauna pedeapsa principală sub minimul special."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "Nu constituie circumstanţă atenuantă:",
+                "options": [
+                    "a) depăşirea limitelor legitimei apărări",
+                    "b) provocarea comisă verbal",
+                    "c) minoritatea făptuitorului."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "În caz de concurs între circumstanţele atenuante şi circumstanţele agravante, coborârea pedepsei sub minimul special:",
+                "options": [
+                    "a) este obligatorie",
+                    "b) nu este obligatorie",
+                    "c) este obligatorie în cazul în care una dintre infracţiuni este săvârşită din culpă."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Când, pentru infracţiunea săvârşită, legea prevede pedeapsa detenţiunii pe viaţă, dacă există circumstanţe atenuante, se aplică pedeapsa închisorii între:",
+                "options": [
+                    "a) 15-25 ani",
+                    "b) 10-25 ani",
+                    "c) 10-20 ani."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "Constitue circumstanţe agravante:",
+                "options": [
+                    "a) săvârşirea faptei de 3 sau mai multe persoane",
+                    "b) împrejurarea că infractorul se găsea în stare de beţie în momentul săvârşirii infracţiunii de purtare abuzivă",
+                    "c) săvârşirea infracţiunii de către un infractor major, dacă aceasta a fost comisă împreună cu un minor",
+                    "d) săvârşirea faptei prin acte de cruzime."
+                ],
+                "answer": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "question": "Când există circumstanţe agravante, dacă maximul special al unei infracţiuni este neîndestulător, la acesta:",
+                "options": [
+                    "a) se poate adăuga un spor de până la 5 ani închisoare în cazul infracţiunilor contra securităţii statului",
+                    "b) se poate adăuga un spor de cel mult jumătate din maximul special, când pedeapsa este amenda",
+                    "c) se poate adăuga un spor de până la 2 ani închisoare, dar care nu poate depăşi o treime din maximul special, când pedeapsa este închisoarea",
+                    "d) instanţa poate să nu mai aplice nimic."
+                ],
+                "answer": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "question": "Constitue circumstanţe agravante:",
+                "options": [
+                    "a) săvârşirea infracţiunii prin metode sau mijloace care prezintă pericol public",
+                    "b) săvârşirea infracţiunii din motive josnice",
+                    "c) săvârşirea faptei de trei persoane împreună, dintre care unul are vâsta de 13 ani",
+                    "d) săvârşirea infracţiunii prin violenţe asupra membrilor familiei."
+                ],
+                "answer": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "question": "În cazul în care există circumstanţe atenuante:",
+                "options": [
+                    "a) pedeapsa principală se reduce în mod obligatoriu",
+                    "b) prin reţinerea şi aplicarea efectelor circumstanţelor atenuante niciodată nu se poate schimba natura pedepsei prevăzute de lege, ci doar limitele acesteia",
+                    "c) se poate dispune suspendarea sub supraveghere a executării pedepsei."
+                ],
+                "answer": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "question": "Circumstanţele atenuante judiciare pot fi reţinute:",
+                "options": [
+                    "a) numai când se dispune pedeapsa închisorii cu executarea într-un loc de detenţie",
+                    "b) când se dispune suspendarea sub supraveghere a executării pedepsei",
+                    "c) când se aplică o pedeapsă cu amenda."
+                ],
+                "answer": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "În cazul coexistenţei unei circumstanţe atenuante legale cu o circumstanţă atenuantă judiciară:",
+                "options": [
+                    "a) pedeapsa nu se reduce succesiv",
+                    "b) pedeapsa se va reduce succesiv, corespunzător celor două categorii de circumstanţe atenuante",
+                    "c) reducerea pedepsei sub minimul special nu este obligatorie."
+                ],
+                "answer": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "question": "Circumstanţele reale:",
+                "options": [
+                    "a) se răsfrâng asupra participanţilor, indiferent",
+                    "b) se răsfrâng asupra participanţilor, dacă le-au cunoscut",
+                    "c) nu se răsfrâng asupra participanţilor, dacă nu le-au prevăzut, deşi aveau obligaţia să le prevadă."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Împrejurarea pe care infractorul nu a cunoscut-o în momentul săvârşirii infracţiunii:",
+                "options": [
+                    "a) nu constituie circumstanţă agravantă",
+                    "b) constituie circumstanţă agravantă",
+                    "c) constituie circumstanţă atenuantă, chiar dacă făptuitorul nu a cunoscut-o în momentul comiterii faptei."
+                ],
+                "answer": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "question": "Sunt stări de agravare a pedepsei:",
+                "options": [
+                    "a) concursul de infracţiuni",
+                    "b) recidiva",
+                    "c) infracţiunea continuă."
+                ],
+                "answer": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "question": "Circumstanţele reale atenuante îşi produc efecte:",
+                "options": [
+                    "a) numai faţă de persoanele de care sunt legate",
+                    "b) faţă de făptuitorii care le-au cunoscut sau le-au prevăzut",
+                    "c) faţă de toţi făptuitorii, indiferent."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+              "question": "1. Suspendarea sub supraveghere a executării pedepsei se poate dispune, printre altele dacă cel condamnat:",
+              "options": [
+                "a) nu a mai fost anterior condamnat la pedeapsa închisorii mai mare de 2 ani",
+                "b) nu are vârsta de pensionare, pentru a putea munci",
+                "c) nu a mai fost anterior condamnat la pedeapsa închisorii mai mare de 1 an"
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "2. Termenul de încercare în cazul suspendării sub supraveghere a executării pedepsei este:",
+              "options": [
+                "a) de un an în cazul pedepsei amenzii",
+                "b) de maxim 3 ani în cazul pedepsei închisorii",
+                "c) de minim 2 ani"
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "3. Termenul de încercare în cazul suspendării sub supraveghere a executării pedepsei se socoteşte:",
+              "options": [
+                "a) de la data pronunţării hotărârii",
+                "b) de la data când hotărârea a rămas definitivă",
+                "c) de la data când a solicitat condamnatul",
+                "d) de la o dată prevăzută în hotărâre"
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "4. Instanţa poate dispune suspendarea sub supraveghere a executării pedepsei:",
+              "options": [
+                "a) dacă pedeapsa aplicată este închisoarea de cel mult 3 ani, chiar şi în cazul concursului de infracţiuni",
+                "b) dacă paguba prin infracţiune este reparată integral până la pronunţarea hotărârii",
+                "c) dacă se apreciază că scopul pedepsei poate fi atins chiar fără executarea acesteia"
+              ],
+              "answer": [0, 2]
+            },
+            {
+              "question": "5. Revocarea suspendării sub supraveghere a executării pedepsei este facultativă:",
+              "options": [
+                "a) dacă în termenul de încercare se comite o infracţiune de o mică gravitate",
+                "b) dacă în termenul de încercare se comite o infracţiune din culpă, indiferent de forma sa",
+                "c) dacă infracţiunea comisă în termenul de încercare este descoperită ulterior împlinirii acestuia"
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "6. Anularea suspendării sub supraveghere a executării pedepsei intervine când se descoperă că cel condamnat mai săvârşise anterior suspendării:",
+              "options": [
+                "a) numai o infracţiune intenţionată",
+                "b) atât o infracţiune intenţionată cât şi din culpă",
+                "c) o infracţiune, indiferent de forma de vinovăţie cu care a fost comisă"
+              ],
+              "answer": [1, 2]
+            },
+            {
+              "question": "7. Revocarea suspendării sub supraveghere a executării pedepsei în cazul neexecutării obligaţiilor civile stabilite de instanţă:",
+              "options": [
+                "a) este obligatorie, când condamnatul a avut posibilitatea de a executa aceste obligaţii, dar nu a dorit acest lucru",
+                "b) este facultativă",
+                "c) este obligatorie, chiar dacă cel condamnat nu a avut putinţa de a îndeplini aceste obligaţii"
+              ],
+              "answer": [0]
+            },
+            {
+              "question": "8. Suspendarea executării pedepsei sub supraveghere se poate dispune, cu îndeplinirea şi a celorlalte condiţii:",
+              "options": [
+                "a) dacă pedeapsa aplicată este amenda",
+                "b) dacă infractorul nu a mai fost anterior condamnat la pedeapsa închisorii mai mare de 1 an",
+                "c) pedeapsa prevăzută de lege pentru infracţiunea comisă este de maxim 3 ani"
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "9. Suspendarea executării pedepsei sub supraveghere se poate dispune în cazul concursului de infracţiuni dacă pedeapsa aplicată este închisoarea de cel mult:",
+              "options": [
+                "a) 3 ani",
+                "b) 2 ani",
+                "c) 4 ani"
+              ],
+              "answer": [0]
+            },
+            {
+              "question": "10. Termenul de încercare al suspendării executării pedepsei sub supraveghere:",
+              "options": [
+                "a) este cuprins între 2 şi 4 ani, ce va fi stabilit de instanţă",
+                "b) nu poate fi niciodată mai mic decât pedeapsa aplicată",
+                "c) poate fi prelungit, dacă instanţa consideră necesar acest lucru, dar să nu depăşească durata dispusă iniţial"
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "11. Suspendarea sub supraveghere a executării pedepsei:",
+              "options": [
+                "a) este o măsură de individualizare legală a pedepsei",
+                "b) este o măsură de individualizare judecătorească a executării pedepsei",
+                "c) atrage şi suspendarea măsurilor de siguranţă"
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "12. Suspendarea sub supraveghere a executării pedepsei:",
+              "options": [
+                "a) nu poate fi dispusă cu privire la o pedeapsă rezultantă constând în 2 ani închisoare și 10.000 lei amendă, aplicată pentru un concurs de infracțiuni",
+                "b) poate fi dispusă de către instanță în cazul infracțiunii de abandon de familie, chiar dacă nu se îndeplinesc condiţiile de la art. 100 C.pen.",
+                "c) nu poate fi dispusă cu privire la o pedeapsă ce constituie al doilea termen al unei recidive postexecutorii"
+              ],
+              "answer": [1, 2]
+            },
+            {
+              "question": "13. X, major, a fost condamnat la o pedeapsă de 9 luni închisoare cu suspendarea sub supraveghere a executării. Ulterior, în termenul de încercare al suspendării, a fost descoperită o altă infracţiune intenţionată comisă de X, pentru care instanţa îi stabileşte pedeapsa închisorii de 2 ani. În acest caz, executarea pedepsei ce se va aplica pentru pluralitatea de infracţiuni:",
+              "options": [
+                "a) poate fi suspendată sub supraveghere, indiferent de momentul comiterii infracţiunii descoperite ulterior",
+                "b) nu poate în nici un caz să fie suspendată",
+                "c) nu poate fi suspendată sub supraveghere dacă infracţiunea descoperită ulterior s-a comis după dispunerea primei suspendări"
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "14. Suspendarea sub supraveghere a executării pedepsei este condiţionată de lipsa unei condamnări anterioare:",
+              "options": [
+                "a) la pedeapsa amenzii",
+                "b) la pedeapsa închisorii",
+                "c) la pedeapsa închisorii mai mare de 1 an, afară de cazul când condamnarea intră în vreunul din cazurile prevăzute de art. 42 C.pen."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "15. Suspendarea sub supraveghere a executării pedepsei nu poate fi dispusă:",
+              "options": [
+                "a) în cazul infracţiunilor intenţionate, pentru care legea prevede pedeapsa închisorii mai mare de 15 ani",
+                "b) în cazul infracţiunii de tortură",
+                "c) în cazul infracţiunii de viol",
+                "d) în cazul infracţiunii de vătămare corporală"
+              ],
+              "answer": []
+            },
+            {
+              "question": "16. Suspendarea sub supraveghere şi liberarea condiţionată din executarea pedepsei:",
+              "options": [
+                "a) trebuie motivată numai când legea prevede",
+                "b) trebuie motivată întotdeauna",
+                "c) nu trebuie motivată niciodată"
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "17. Revocarea suspendării sub supraveghere a executării pedepsei poate fi dispusă:",
+              "options": [
+                "a) dacă cel condamnat, în termenul de încercare, a săvârşit o faptă prevăzută de legea penală",
+                "b) dacă cel condamnat, în termenul de încercare, a săvârşit o faptă care îl face nevrednic de a beneficia de măsura de suspendare",
+                "c) dacă cel condamnat, în termenul de încercare, a săvârşit o faptă prevăzută de legea penală şi care îl face nevrednic de a beneficia de măsura de suspendare"
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "18. Instanţa poate dispune suspendarea sub supraveghere a executării pedepsei dacă există:",
+              "options": [
+                "a) probabilitatea mică de săvârşire a altor infracţiuni, în viitor, de către cel condamnat",
+                "b) certitudinea că scopul pedepsei poate fi atins şi fără executarea acesteia",
+                "c) probabilitatea că scopul pedepsei poate fi atins fără executarea acesteia",
+                "d) certitudinea că scopul pedepsei nu poate fi atins decât prin executarea acesteia"
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "19. Suspendarea sub supraveghere a executării pedepsei se poate dispune în cazul infracţiunii de evaziune fiscală:",
+              "options": [
+                "a) dacă s-au reparat integral pagubele pricinuite prin săvârşirea infracţiunii",
+                "b) dacă este atins scopul pedepsei, prin alte măsuri, fără executarea acesteia",
+                "c) dacă persoana condamnată nu a mai fost anterior condamnată la pedeapsa închisorii"
+              ],
+              "answer": [0, 2]
+            },
+            {
+              "question": "20. Suspendarea sub supraveghere a executării pedepsei poate fi dispusă:",
+              "options": [
+                "a) în cazul unei pedepse închisorii de 2 ani, pentru care s-a întrunit condiţia privind lipsa condamnărilor anterioare",
+                "b) în cazul unei pedepse închisorii de 1 an, chiar dacă s-a întrunit condiţia privind lipsa condamnărilor anterioare",
+                "c) în cazul unei pedepse închisorii de 1 an, numai dacă nu există condiţia privind lipsa condamnărilor anterioare"
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "17. Inculpatul a fost trimis în judecată pentru săvârşirea infracţiunii de abandon de familie prevăzută de art. 378 alin. 1 lit. c C.pen. În cursul judecăţii în primă instanţă inculpatul a plătit integral pensia de întreţinere restantă. Instanţa l-a condamnat pe inculpat la o pedeapsă de un an închisoare şi a dispus, în temeiul art. 378 alin. 5 C.pen., revocarea suspendării sub supraveghere a executării pedepsei de 6 luni închisoare aplicată inculpatului în antecedenţă, prin hotărâre definitivă, tot pentru infracţiunea de abandon de familie, urmând ca acesta să execute pedepsele în întregime şi alăturat, în regim de detenţie. Hotărârea instanţei este:",
+              "options": [
+                "a) legală, întrucât revocarea suspendării sub supraveghere a executării pedepsei se dispune independent de plata pensiei de întreţinere restante, în condiţiile în care inculpatul a săvârşit o nouă infracţiune în cursul termenului de încercare",
+                "b) nelegală, întrucât suspendarea sub supraveghere a executării pedepsei era obligatorie în cauză conform art. 378 alin. 5 C.pen.",
+                "c) legală, întrucât revocarea este întotdeauna obligatorie când se comite o infracţiune intenţionată."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "18. Suspendarea sub supraveghere a executării pedepsei nu are efect:",
+              "options": [
+                "a) asupra măsurilor de siguranţă",
+                "b) asupra obligaţiilor civile prevăzute în hotărârea de condamnare",
+                "c) asupra pedepsei accesorii."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "19. Anularea suspendării executării pedepsei sub supraveghere nu are loc dacă:",
+              "options": [
+                "a) infracţiunea care ar fi putut atrage anularea a fost descoperită după expirarea termenului de încercare",
+                "b) pedeapsa aplicată pentru infracţiunea săvârşită anterior a fost amenda penală",
+                "c) inculpatrul a mai săvârşit o infracţiune înainte de rămânerea definitivă a hotărârii de condamnare cu suspendarea sub supraveghere a executării pedepsei."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "20. Suspendarea sub supraveghere a executării pedepsei se dispune:",
+              "options": [
+                "a) la cererea condamnatului",
+                "b) numai la cererea procurorului",
+                "c) şi din oficiu."
+              ],
+              "answer": [0, 2]
+            },
+            {
+              "question": "21. Atrage aplicarea unui tratament sancţionator constând în cumulul aritmetic:",
+              "options": [
+                "a) revocarea suspendării sub supraveghere a executării pedepsei ca urmare a comiterii unei infracţiuni din culpă în termenul de încercare",
+                "b) evadarea din arestul preventiv, în măsura în care se pronunţă o condamnare pentru infracţiunea care a atras arestarea preventivă",
+                "c) revocarea liberării condiţionate ca urmare a comiterii unei infracţiuni intenţionate pe durata supravegherii şi dacă sunt îndeplinite condiţiile de la recidiva postcondamnatorie."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "22. Termenul de încercare în cazul acordării suspendării sub supraveghere curge de la:",
+              "options": [
+                "a) pronunţarea hotărârii cu suspendarea condiţionată",
+                "b) data când hotărârea prin care s-a pronunţat suspendarea a rămas definitivă",
+                "c) data când s-a întors dovada de comunicare a hotărârii."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "23. Revocarea suspendării executării pedepsei nu are loc:",
+              "options": [
+                "a) dacă infracţiunea săvârşită în termenul de încercare a fost descoperită după expirarea acestui termen",
+                "b) când cel condamnat dovedeşte că nu a avut putinţa de a îndeplini obligaţiile civile din hotărâre",
+                "c) dacă condamnarea definitivă pentru o infracţiune săvârşită în termenul de încercare a intervenit după împlinirea termenului de încercare."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "24. Anularea suspendării sub supraveghere a executării pedepsei poate interveni dacă:",
+              "options": [
+                "a) condamnatul a săvârşit o infracţiune mai înainte de rămânerea definitivă a hotărârii de condamnare cu suspendare sub supraveghere",
+                "b) condamnatul a săvârşit o infracţiune mai înainte de pronunţarea hotărârii de condamnare cu suspendare, iar pentru această infracţiune s-a aplicat pedeapsa închisorii, chiar după expirarea termenului de încercare",
+                "c) infracţiunea ce ar atrage anularea este descoperită chiar după împlinirea termenului de încercare."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "25. Dacă cel condamnat cu executarea pedepsei sub supraveghere nu îndeplineşte măsurile de supraveghere prevăzute de lege ori obligaţiile stabilite de instanţă:",
+              "options": [
+                "a) se poate prelungi termenul de încercare",
+                "b) nu se poate prelungi niciodată termenul de încercare",
+                "c) se poate prelungi termenul de încercare cu cel mult jumătate din durata pedepsei pronunţată."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "26. Revocarea suspendării sub supraveghere a executării pedepsei este facultativă:",
+              "options": [
+                "a) când, în termenul de încercare, condamnatul nu a îndeplinit obligaţiile civile stabilite prin hotărâre judecătorească şi nu a dovedit neputinţă de a îndeplini acele obligaţii",
+                "b) când infracţiunea ulterioară este săvârşită din culpă",
+                "c) când infracţiunea ulterioară este săvârşită în termenul de încercare, dar este descoperită după expirarea acestuia."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "27. În cazul anulării suspendării executării pedepsei şi când se întrunesc condiţiile concursului de infracţiuni, iar pedeapsa rezultată este de cel mult 2 ani, instanţa poate dispune suspendarea condiţionată, termenul de suspendare calculându-se:",
+              "options": [
+                "a) de la data rămânerii definitive a hotărârii de condamnare pentru concursul de infracţiuni",
+                "b) de la data pronunţării hotărârii de condamnare pentru concursul de infracţiuni",
+                "c) de la data rămânerii definitive a hotărârii prin care s-a pronunţat anterior suspendarea condiţionată a pedepsei."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "28. Poate interveni anularea suspendării sub supraveghere a executării unei pedepse aplicate printr-o hotărâre definitivă în cazul:",
+              "options": [
+                "a) comiterii unei noi infracţiuni, în formă continuată, care s-a consumat înainte de dispunerea suspendării şi s-a epuizat în termenul de încercare",
+                "b) în care se descoperă, în cursul termenului de încercare, o infracţiune concurentă cu cea care a atras aplicarea pedepsei cu suspendarea executării",
+                "c) în care pedeapsa cu privire la care s-a dispus suspendarea constituia al doilea termen al unei recidive postcondamnatorii, dar acest fapt a fost descoperit doar în cursul termenului de încercare."
+              ],
+              "answer": [1, 2]
+            },
+            {
+              "question": "29. Inculpatul X este condamnat la o pedeapsă de 2 ani închisoare cu suspendarea sub supraveghere a executării pedepsei pe un termen de încercare de 4 ani. În cauză se deduce durata reţinerii şi a arestării preventive de la 2 februarie 2006 la 2 august 2006. În interiorul termenului de încercare inculpatul săvârşeşte cu intenţie o nouă infracţiune, pentru care instanţa îi aplică pedeapsa închisorii de 3 ani. În această situaţie instanţa va dispune:",
+              "options": [
+                "a) revocarea suspendării sub supraveghere a pedepsei de 2 ani închisoare, cumularea artimetică a acestei pedepse cu pedeapsa aplicată în cauză, urmând ca ulterior, din pedeapsa rezultată de 5 ani închisoare să deducă detenţia de la 2 februarie 2006 la 2 august 2006",
+                "b) revocarea suspendării condiţionate privind restul rămas de executat din pedeapsa de 2 ani închisoare, (urmare a deducerii detenţiei de la 2 februarie 2006 la 2 august 2006), şi cumularea acestui rest cu pedeapsa de 3 ani aplicată în cauză",
+                "c) contopirea pedepsei aplicată anterior cu pedeapsa aplicată în cauză, urmând ca, din pedeapsa rezultantă să fie dedusă detenţia de la 2 februarie 2006 la 2 august 2006."
+              ],
+              "answer": [0]
+            },
+            {
+              "question": "30. În cursul termenului de încercare al suspendării sub supraveghere a executării unei pedepse cu închisoarea se descoperă o altă infracţine intenţionată, comisă anterior pronunţării hotărârii prin care s-a aplicat suspendarea. Dacă pentru infracţiunea nou descoperită instanţa stabileşte pedeapsa amenzii:",
+              "options": [
+                "a) se va revoca suspendarea executării primei pedepse",
+                "b) se va menţine suspendarea executării primei pedepse",
+                "c) se va anula suspendarea executării primei pedepse."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "31. Suspendarea sub supraveghere a executării pedepsei:",
+              "options": [
+                "a) exclude posibilitatea unei graţieri individuale ulterioare a pedepsei suspendate",
+                "b) se revocă dacă, până la expirarea termenului de încercare, condamnatul nu a îndeplinit obligaţiile civile stabilite prin hotărârea de condamnare, afară de cazul când cel condamnat dovedeşte că nu a avut putinţa de a îndeplini acele obligaţii",
+                "c) atrage şi suspendarea obligaţiilor civile prevăzute în hotărârea de condamnare."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "32. În cazul revocării suspendării sub supraveghere:",
+              "options": [
+                "a) pedeapsa stabilită pentru infracţiunea săvârşită în cursul termenului de încercare şi pedeapsa a cărei executare a fost suspendată se contopesc, putându-se acorda un spor de până la 2 ani",
+                "b) pedeapsa stabilită pentru infracţiunea săvârşită în cursul termenului de încercare şi pedeapsa a cărei executare a fost suspendată se contopesc, fără a se mai putea acorda vreun spor",
+                "c) pedeapsa stabilită pentru infracţiunea săvârşită în cursul termenului de încercare şi pedeapsa a cărei executare a fost suspendată condiţionat se cumulează, dacă se îndeplinesc condiţiile pentru recidivă."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "33. În durata executării pedepsei închisorii:",
+              "options": [
+                "a) se include ziua în care începe executarea pedepsei",
+                "b) se include ziua în care încetează executarea pedepsei",
+                "c) nu se include ziua în care încetează executarea pedepsei."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "34. Suspendarea sub supraveghere a executării pedepsei nu poate fi acordată:",
+              "options": [
+                "a) în cazul infractorilor minori",
+                "b) pentru o infracţiune sancţionată cu 4 ani de închisoare",
+                "c) în cazul infracţiunilor de omor."
+              ],
+              "answer": [0]
+            },
+            {
+              "question": "35. După acordarea liberării condiţionate unui condamnat la detenţiunea pe viaţă, pedeapsa se consideră executată dacă cel liberat nu a mai săvârşit o nouă infracţiune în termen de:",
+              "options": [
+                "a) 15 ani",
+                "b) 10 ani",
+                "c) 20 ani",
+                "d) tot restul vieţii."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "36. În cazul liberatului condiţionat, termenul de reabilitare curge de la data:",
+              "options": [
+                "a) acordării liberării condiţionate",
+                "b) împlinirii duratei pedepsei",
+                "c) împlinirii duratei pedepsei în calculul căruia nu intră şi zilele considerate ca executate pe baza muncii prestate."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "37. Eliberarea din închisoare a condamnatului mai înainte de termen este:",
+              "options": [
+                "a) libertate supravegheată",
+                "b) liberare sub control judiciar",
+                "c) liberare condiţionată",
+                "d) facultativă."
+              ],
+              "answer": [2, 3]
+            },
+            {
+              "question": "38. Condamnatul la pedeapsa detenţiunii pe viaţă trecut de 60 de ani poate fi liberat condiţionat după executarea efectivă a:",
+              "options": [
+                "a) 15 ani de detenţiune",
+                "b) 25 ani de detenţiune",
+                "c) 20 ani de detenţiune",
+                "d) unui număr de ani prevăzut expres în C.pen."
+              ],
+              "answer": [2, 3]
+            },
+            {
+              "question": "39. Pedeapsa principală aplicată unei persoane juridice:",
+              "options": [
+                "a) nu poate fi suspendată sub supraveghere",
+                "b) nu poate face obiectul unei graţieri individuale",
+                "c) poate fi înlocuită cu dizolvarea, în cazul în care persoana juridică se sustrage cu rea-credinţă de la executarea ei."
+              ],
+              "answer": [0]
+            },
+            {
+              "question": "40. În calculul fracţiunilor de pedeapsă prevăzută pentru liberarea condiţionată:",
+              "options": [
+                "a) nu se ţine seama de partea din durata pedepsei care poate fi considerată, potrivit legii, ca executată pe baza muncii prestate",
+                "b) se ţine seama de partea din durata pedepsei care poate fi considerată, potrivit legii, ca executată pe baza muncii prestate",
+                "c) intră şi durata în care condamnatul a fost internat datorită faptului că şi-a provocat singur leziuni interne."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "41. În cazul acordării liberării condiţionate, pedeapsa se consideră executată:",
+              "options": [
+                "a) din momentul pronunţării hotărârii",
+                "b) din momentul rămânerii definitive a hotărârii",
+                "c) dacă în intervalul de timp de la liberarea condiţionată şi până la împlinirea duratei pedepsei cel condamnat nu a săvârşit din nou o infracţiune."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "42. Revocarea liberării condiţionate este obligatorie când în intervalul de timp de la liberare şi până la împlinirea duratei pedepsei cel liberat a săvârşit:",
+              "options": [
+                "a) infracţiunea de ucidere din culpă",
+                "b) infracţiunea de omor",
+                "c) infacţiunea de furt simplu."
+              ],
+              "answer": [0, 1, 2]
+            },
+            {
+              "question": "43. În cazul în care s-a dispus revocarea liberării condiţionate:",
+              "options": [
+                "a) pedeapsa stabilită pentru infracţiunea săvârşită ulterior absoarbe restul de pedeapsă ce a mai rămas de executat din pedeapsa anterioară",
+                "b) pedeapsa stabilită pentru infracţiunea săvârşită ulterior se cumulează cu restul de pedeapsă ce a mai rămas de executat din pedeapsa anterioară",
+                "c) pedeapsa stabilită pentru infracţiunea săvârşită ulterior şi restul de pedeapsă ce a mai rămas de executat din pedeapsa anterioară, se contopesc, putându-se aplica un spor."
+              ],
+              "answer": [1, 2]
+            },
+            {
+              "question": "44. Dacă în intervalul de timp de la liberarea condiţionată şi până la împlinirea duratei pedepsei, cel liberat săvârşeşte o nouă infracţiune de omor, o infracţiune de furt şi o infracţiune din culpă, instanţa:",
+              "options": [
+                "a) aplică regulile concursului de infracţiuni pentru cele 3 infracţiuni săvârşite, iar pedeapsa rezultată o contopeşte cu restul de pedeapsă ce a mai rămas de executat din pedeapsa anterioară",
+                "b) revocă liberarea condiţionată şi cumulează pedepsa aplicată pentru cele 3 infracţiuni cu restul de pedeapsă rămas neexecutat din pedeapsa anterioară",
+                "c) revocă liberarea condiţionată în raport cu infracţiunea de omor, contopind pedeapsa aplicată pentru această infracţiune cu restul de pedeapsă rămas neexecutat din pedeapsa anterioară."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "45. Săvârşirea unei noi infracţiuni la 28 iulie 2004, de către cel liberat condiţionat la 23 august 2002, dintr-o pedeapsă de 7 ani închisoare a cărei executare a început la 3 mai 1997: ",
+              "options": [
+                "a) atrage revocarea obligatorie a liberării condiţionate",
+                "b) atrage revocarea facultativă a liberării condiţionate",
+                "c) nu atrage revocarea liberării condiţionate."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "Constituie măsuri de siguranţă:",
+              "options": [
+                "a) confiscarea specială",
+                "b) interzicerea de a se afla în anumite localităţi",
+                "c) interzicerea de a părăsi localitatea."
+              ],
+              "answer": [0]
+            },
+            {
+              "question": "Constituie măsuri de siguranţă:",
+              "options": [
+                "a) interzicerea de a se afla în anumite localităţi",
+                "b) interdicţia de a reveni în locuinţa familiei pe o perioadă determinată",
+                "c) confiscarea extinsă."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "Când persoana faţă de care s-a luat măsura de siguranţă a obligării la tratament medical nu se prezintă regulat la tratament, se poate dispune:",
+              "options": [
+                "a) arestarea preventivă",
+                "b) internarea medicală",
+                "c) internarea într-un centru de reeducare."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "În cazul bunurilor produse în scopul comiterii unei infracţiuni, care au fost ulterior folosite la săvârşirea acesteia:",
+              "options": [
+                "a) nu se poate dispune confiscarea în parte, prin echivalent, în considerarea faptului că valoarea bunului supus confiscării ar fi vădit disproporţionată faţă de natura şi gravitatea infracţiunii",
+                "b) confiscarea se dispune întotdeauna prin echivalent dacă bunurile nu aparţin autorului infracţiunii",
+                "c) se confiscă şi banii obţinuţi din exploatarea sau folosirea respectivelor bunuri ulterior comiterii infracţiunii la a cărei săvârşire au fost utilizate."
+              ],
+              "answer": [0]
+            },
+            {
+              "question": "Măsura de siguranță a interzicerii unei funcții sau profesii se aseamănă cu pedeapsa complementară a interzicerii unor drepturi ce are un conținut similar prin:",
+              "options": [
+                "a) momentul de la care operează interdicția",
+                "b) faptul că ambele se pot dispune numai pe lângă o pedeapsă cu închisoarea",
+                "c) durata minimă pe care trebuie să opereze interdicția."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "Măsura de siguranţă a obligării la tratament medical:",
+              "options": [
+                "a) poate fi luată în mod provizoriu de către procuror în cursul urmăririi penale",
+                "b) se poate executa şi în timpul executării pedepsei",
+                "c) poate fi luată numai de instanţă."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "Măsura de siguranţă a interzicerii unei funcţii sau profesii:",
+              "options": [
+                "a) poate fi luată pe o perioadă de maxim 3 ani",
+                "b) se poate dispune şi de către procuror",
+                "c) poate fi revocată, dar numai după trecerea unui termen de cel puțin un an, dacă se constată că temeiurile care au impus luarea ei au încetat."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "Măsura de siguranţă a interzicerii exercitării unei funcţii sau profesii:",
+              "options": [
+                "a) se dispune pe perioadă nedeterminată",
+                "b) poate fi revocată",
+                "c) se poate dispune doar dacă instanţa a stabilit pedeapsa închisorii de cel puţin un an pentru infracţiunea respectivă."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "Confiscarea specială a bunurilor a căror deţinere este interzisă de lege se poate lua:",
+              "options": [
+                "a) numai dacă infractorului i se aplică o pedeapsă",
+                "b) numai dacă făptuitorului nu i se aplică o pedeapsă",
+                "c) indiferent dacă făptuitorului i se aplică ori nu o pedeapsă."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "Obligarea la tratament medical se dispune pe o perioadă:",
+              "options": [
+                "a) nedeterminată, în toate cazurile",
+                "b) de minimum un an",
+                "c) de până la 5 ani."
+              ],
+              "answer": [0]
+            },
+            {
+              "question": "Sunt supuse confiscării speciale:",
+              "options": [
+                "a) bunurile produse prin fapta prevăzută de legea penală",
+                "b) bunurile dobândite prin comiterea infracţiunii, chiar dacă aparţin persoanei vătămate",
+                "c) bunurile a căror deţinere este interzisă de lege."
+              ],
+              "answer": [0, 2]
+            },
+            {
+              "question": "Sunt supuse confiscării speciale:",
+              "options": [
+                "a) bunurile care au fost date pentru a răsplăti pe infractor",
+                "b) bunurile care au fost destinate să servească la comiterea infracţiunii, chiar dacă nu sunt ale infractorului",
+                "c) dacă bunurile care au servit la comiterea infractiunii sunt ale infractorului."
+              ],
+              "answer": [0, 2]
+            },
+            {
+              "question": "Măsurile de siguranţă se pot lua:",
+              "options": [
+                "a) numai însoţind o pedeapsă",
+                "b) indiferent dacă făptuitorului i se aplică ori nu o pedeapsă",
+                "c) ca o consecinţă a răspunderii penale."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "Sunt supuse confiscării speciale:",
+              "options": [
+                "a) bunurile care au fost folosite în orice mod la săvârşirea unor infracţiuni prin presă",
+                "b) bunurile produse, modificate sau adaptate în scopul săvârşirii unor infracţiuni, chiar dacă nu au fost utilizate la comiterea acesteia",
+                "c) bunurile arătate la varianta b) dacă acele bunuri au fost utilizate la comiterea infracţiunii."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "Nu sunt măsuri de siguranţă:",
+              "options": [
+                "a) confiscarea specială",
+                "b) libertatea supravegheată",
+                "c) obligarea la tratament medical."
+              ],
+              "answer": [1]
+            },
+            {
+              "question": "Nu sunt supuse confiscării speciale:",
+              "options": [
+                "a) bunurile produse prin comiterea faptei prevăzute de legea penală",
+                "b) bunurile care au fost date pentru a răsplăti pe făptuitor",
+                "c) bunurile care au fost folosite în orice mod la comiterea unei infracţiuni prin presă."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "Măsura de siguranţă a internării medicale:",
+              "options": [
+                "a) se ia în mod obligatoriu faţă de o persoană bolnavă mintal ori toxicomană care a săvârşit o faptă prevăzută de legea penală şi care prezintă pericol pentru societate",
+                "b) se ia mod obligatoriu în cazul persoanei faţă de care s-a luat măsura obligării la tratament medical, dar nu s-a prezentat în mod regulat la tratament",
+                "c) se poate lua în cazul persoanei faţă de care s-a luat măsura obligării la tratament medical, dar care nu s-a prezentat în mod regulat la tratament."
+              ],
+              "answer": [2]
+            },
+            {
+              "question": "Sunt supuse confiscării speciale:",
+              "options": [
+                "a) bunurile dobândite prin săvârşirea faptei prevăzute de legea penală care servesc la despăgubirea victimei",
+                "b) bunurile care au fost date pentru a determina săvârşirea unei fapte prevăzute de legea penală",
+                "c) bunurile care au fost folosite în orice mod la săvârşirea unei infracţiuni dacă aparţinând altei persoane, aceasta nu cunoştea scopul folosirii lor."
+              ],
+              "answer": [0, 1]
+            },
+            {
+              "question": "Măsura de siguranţă privind obligarea la tratament medical se dispune:",
+              "options": [
+                "a) o perioadă nedeterminată",
+                "b) ) până la însănătoşirea persoanei aflate la tratament",
+                "c) până la executarea pedepsei."
+              ],
+              "answer": [0,1]
+            },
+            {
+              "question": "20. Caracterul măsurilor de siguranţă este unul:",
+              "options": [
+              "a) educativ şi preventiv",
+              "b) preventiv",
+              "c) de pedeapsă"
+              ],
+              "answer": [1]
+              },
+              {
+              "question": "21. La individualizarea măsurilor de siguranţă se au în vedere:",
+              "options": [
+              "a) criteriile generale prevăzute de lege",
+              "b) gravitatea stării de pericol şi posibilităţile de înlăturare a acesteia",
+              "c) mijloacele de prevenţie folosite de legiuitor"
+              ],
+              "answer": [1]
+              },
+              {
+              "question": "22. Măsura de siguranţă a internării medicale se ia împotriva persoanei care a săvârşit o faptă prevăzută de legea penală, fiind:",
+              "options": [
+              "a) bolnav mintal sau toxicoman",
+              "b) bolnav de o boală gravă, incurabilă",
+              "c) bolnav, datorită rănilor produse prin automutilare"
+              ],
+              "answer": [0]
+              },
+              {
+              "question": "23. O măsură de siguranţă:",
+              "options": [
+              "a) are caracter de sancţiune de drept penal",
+              "b) este imprescriptibilă",
+              "c) nu se poate aplica unui minor"
+              ],
+              "answer": [0, 1]
+              },
+              {
+              "question": "24. Sunt adevărate afirmaţiile:",
+              "options": [
+              "a) cheltuiala cu efectuarea tratamentului ca masură de siguranţă nu se face pe cheltuiala statului",
+              "b) confiscarea extinsă se poate dispune numai dacă făptuitorul este condamnat definitiv",
+              "c) ca limită, confiscarea nu poate depăşi valoarea bunurilor dobândite în perioada de 5 ani înainte şi, dacă este cazul, după momentul săvârşirii infracţiunii, care excedează nivelului veniturilor licite ale persoanei condamnate"
+              ],
+              "answer": [1, 2]
+              },
+              {
+                "question": "Faţă de minorul care răspunde penal:",
+                "options": [
+                    "a) se poate aplica o pedeapsă",
+                    "b) se poate aplica o pedeapsă, numai dacă se apreciază că luarea unei măsuri educative nu este suficientă pentru îndreptarea minorului",
+                    "c) se poate aplica numai o măsură educativă."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "Minorilor infractori li se pot aplica următoarele sancţiunii:",
+                "options": [
+                    "a) neprivative de libertate",
+                    "b) privative de libertate",
+                    "c) numai neprivative de libertate."
+                ],
+                "answer": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "question": "Este măsură educativă:",
+                "options": [
+                    "a) supravegherea",
+                    "b) suspendarea sub supraveghere",
+                    "c) internarea medicală."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "S-a reţinut în fapt că la data comiterii infracţiunii inculpatul era în vârstă de 17 ani şi 8 luni. Ce sancţiune de drept penal poate să pronunţe instanţa de judecată:",
+                "options": [
+                    "a) stagiul de formare civică",
+                    "b) internarea într-un centru educativ",
+                    "c) renunţarea la aplicarea pedepsei."
+                ],
+                "answer": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "question": "Internarea într-un centru educativ se ia pe o durată:",
+                "options": [
+                    "a) de maxim 2 ani",
+                    "b) de cel puţin 1 an",
+                    "c) nedeterminată."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Minorul care, anterior împlinirii vârstei de 14 ani, a aplicat victimei o lovitură care, din cauza complicaţiilor a condus la moartea acesteia, fapt survenit după împlinirea vârstei de 14 ani de către făptuitor:",
+                "options": [
+                    "a) îndeplineşte condiţiile legale ce ţin de vârsta pentru a răspunde penal",
+                    "b) nu îndeplineşte condiţiile legale ce ţin de vârsta pentru a răspunde penal",
+                    "c) îndeplineşte condiţiile legale ce ţin de vârsta pentru a răspunde penal, doar dacă se dovedeşte că a acţionat cu discernământ."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Sunt măsuri educative:",
+                "options": [
+                    "a) internarea medicală într-un centru educativ",
+                    "b) asistarea zilnică",
+                    "c) supravegherea."
+                ],
+                "answer": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "Stagiul de formare civică se dispune pe o perioadă de:",
+                "options": [
+                    "a) cel mult 16 săptămâni",
+                    "b) între o lună şi 4 luni",
+                    "c) de minim o lună."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "Internarea într-un centru educativ luată faţă de minor, se află în subordinea:",
+                "options": [
+                    "a) Ministerului Justiţiei",
+                    "b) Ministerului Tineretului",
+                    "c) Ministerului Public."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "Durata minimă a unei măsuri educative prevăzută de lege ce se poate aplica unui minor:",
+                "options": [
+                    "a) în general este prevăzută de lege, cu o singură excepţie",
+                    "b) este prevăzută de lege doar în cazul măsurilor educative privative de libertate",
+                    "c) este de o lună."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "Condamnările pronunţate pentru infracţiuni comise pe timpul minorităţii, dar executate pe timpul cât acesta a devenit major, nu atrag:",
+                "options": [
+                    "a) decăderi",
+                    "b) incapacităţi",
+                    "c) antecedente penale."
+                ],
+                "answer": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "question": "Pedepsele complementare:",
+                "options": [
+                    "a) nu se aplică niciodată minorului",
+                    "b) se aplică minorului, dar numai în cazul măsurilor educative privative de libertate",
+                    "c) se aplică atunci când legea prevede expres aceasta."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "Faţă de un minor instanţa poate dispune:",
+                "options": [
+                    "a) aplicarea unei pedepse de maxim 5 ani",
+                    "b) arestarea preventivă",
+                    "c) aplicarea unei măsuri de siguranţă cu caracter medical."
+                ],
+                "answer": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "Pe durata executării măsurilor educative neprivative de libertate, instanţa poate impune minorului:",
+                "options": [
+                    "a) numai una dintre obligaţiile prevăzute de lege",
+                    "b) să urmeze un curs de pregătire şcolară sau formare profesională",
+                    "c) să nu se afle în anumite locuri sau la anumite manifestări sportive, culturale ori la alte adunări publice, stabilite de instanţă."
+                ],
+                "answer": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "Dacă, pe parcursul supravegherii, au intervenit motive care justifică fie impunerea unor noi obligaţii, fie sporirea sau diminuarea condiţiilor de executare a celor existente:",
+                "options": [
+                    "a) instanţa dispune modificarea obligaţiilor în mod corespunzător, pentru a asigura persoanei supravegheate şanse mai mari de îndreptare",
+                    "b) instanţa dispune încetarea executării unora dintre obligaţiile pe care le-a impus, când apreciază că menţinerea acestora nu mai este necesară",
+                    "c) instanţa pate dispune încetarea executării unora dintre obligaţiile pe care le-a impus, când apreciază că menţinerea acestora nu mai este necesară."
+                ],
+                "answer": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "question": "Faţă de minorul care, la data săvârşirii infracţiunii, avea vârsta cuprinsă între 14 şi 18 ani:",
+                "options": [
+                  "a) se ia o măsură educativă neprivativă de libertate",
+                  "b) se poate lua o măsură educativă privativă de libertate dacă a mai săvârşit o infracţiune, pentru care i s-a aplicat o măsură educativă pivativă de libertate a cărei executare a început înainte de comiterea infracţiunii pentru care este judecat",
+                  "c) se poate lua o măsură educativă privativă de libertate atunci când pedeapsa prevăzută de lege pentru infracţiunea săvârşită este închisoarea de 7 ani sau mai mare ori detenţiunea pe viaţă."
+                ],
+                "answer": [0, 2]
+              },
+              {
+                "question": "Măsura internării într-un centru educativ se dispune:",
+                "options": [
+                  "a) pe timp determinat, dar până la împlinirea vârstei de 18 ani",
+                  "b) între 1 şi 3 ani",
+                  "c) se poate prelungi la data când minorul devine major pe o durată de cel mult 2 ani, dacă aceasta este necesară, pentru realizarea scopului internării."
+                ],
+                "answer": [1]
+              },
+              {
+                "question": "Minorul poate fi liberat condiţionat din centrul educativ, cu îndeplinirea condiţiilor legate, dacă a executat:",
+                "options": [
+                  "a) cel puţin 6 luni de la data internării în centru",
+                  "b) cel puţin 1 an de la data internării în centru",
+                  "c) cel puţin jumătate din durata internării."
+                ],
+                "answer": [2]
+              },
+              {
+                "question": "În cazul în care minorul comite o infracţiune care se sancţionează numai cu pedeapsa amenzii, aceasta se va prescrie în termen de:",
+                "options": [
+                  "a) 3 ani",
+                  "b) un an şi 6 luni",
+                  "c) între un an şi 6 luni şi 3 ani."
+                ],
+                "answer": [1]
+              },
+              {
+                "question": "Când minorul a comis o infracţiune de omor, aceasta se va prescrie în termen de:",
+                "options": [
+                  "a) 15 ani",
+                  "b) 15 ani reduşi la jumătate",
+                  "c) nu se va prescrie niciodată."
+                ],
+                "answer": [2]
+              },
+              {
+                "question": "Faţă de un minor, care răspunde penal, instanţa poate dispune:",
+                "options": [
+                "suspendarea executării pedepsei sub supraveghere sau sub control",
+                "reţinerea",
+                "aplicarea unei pedepse neprivative de libertate."
+                ],
+                "answer": [1]
+                },
+                {
+                "question": "Pentru a putea aplica minorului o măsură educativă:",
+                "options": [
+                "este obligatoriu ca la data pronunţării hotărârii acesta să nu fi depăşit vârsta de 18 ani",
+                "este obligatoriu ca la data rămânerii definitive a hotărârii acesta să nu fi depăşit vârsta de 18 ani",
+                "este obligatoriu ca acesta să aibe între 14 şi 18 ani."
+                ],
+                "answer": [2]
+                },
+                {
+                "question": "În cazul în care inculpatul a săvârşit o infracţiune continuă, care s-a consumat când el avea 17 ani, dar s-a epuizat după ce împlinise vârsta de 18 ani:",
+                "options": [
+                "nu se poate aplica măsura educativă a internării într-un centru educativ",
+                "instanţa poate dispune suspendarea sub supraveghere a executării pedepsei",
+                "condamnarea pentru această infracţiune nu poate fi niciodată prim termen al unei recidive."
+                ],
+                "answer": [0, 1]
+                },
+                {
+                "question": "În vederea efectuării evaluării minorului:",
+                "options": [
+                "instanţa va solicita serviciului de probaţiune întocmirea unui referat care va cuprinde şi propuneri motivate referitoare la natura şi durata programelor de reintegrare socială pe care minorul ar trebui să le urmeze,",
+                "referatul de evaluare privind respectarea condiţiilor de executare a măsurii educative sau a obligaţiilor impuse se întocmeşte întotdeauna de către serviciul de probaţiune în toate cazurile în care instanţa dispune asupra măsurii educative ori asupra modificării sau încetării executării obligaţiilor impuse",
+                "în cazul schimbării regimului de executare, referatul de valuare va fi întocmit de către centrul educativ ori de detenţie."
+                ],
+                "answer": [0, 2]
+                },
+                {
+                "question": "Măsura educativă a consemnării la sfârşit de săptămână:",
+                "options": [
+                "constă în obligaţia minorului de a nu părăsi locuinţa în zilele de sâmbătă şi duminică, afară de cazul în care, în această perioadă, are obligaţia de a participa la anumite programe ori de a desfăşura anumite activităţi impuse de instanţă",
+                "supravegherea se face sub coordonarea părinţilor sau a serviciului de probaţiune",
+                "se dispune pe o durată cuprinsă între o lună şi 3 luni."
+                ],
+                "answer": [0, 2]
+                },
+                {
+                "question": "În cazul unui minor în vârstă de 17 ani care comite un omor asupra tatălui său, iar instanţa constată că a acţionat în condiţiile iresponsabilităţii datorate alienaţiei mintale:",
+                "options": [
+                "nu se poate aplica nicio măsură educativă",
+                "se poate aplica măsura educativă a internării într-un centru de detenţie",
+                "se poate aplica măsura de siguranţă a internării medicale."
+                ],
+                "answer": [0, 2]
+                },
+                {
+                "question": "Instanţa a reţinut că inculpata, minoră în vârstă de 17 ani, a săvârşit infracţiunea de rele tratamnete aplicate minorului, asupra fiului său în vârstă de un an, şi a dispus faţă de inculpată măsura internării într-un centru educare pe o durată de 2 ani. În acest caz:",
+                "options": [
+                "instanţa putea să aplice inculpatei şi pedeapsa accesorie a interzicerii drepturilor părinteşti pe durata internării",
+                "instanţa nu putea dispune internarea într-un centru educativ, deoarece prin căsătorie minorul dobândeşte capacitatea deplină de exerciţiu şi este supus regimului sancţionator prevăzut de legea penală pentru majori",
+                "instanţa nu a greşit atunci când a stabilit durata măsurii internării."
+                ],
+                "answer": [2]
+                },
+                {
+                "question": "În cazul săvârşirii, până la împlinirea duratei internării, a unei noi infracţiuni de către o persoană care nu a împlinit vârsta de 18 ani şi faţă de care s-a dispus înlocuirea măsurii internării într-un centru de detenţie cu măsura asistării zilnice, instanţa revine asupra înlocuirii şi dispune:",
+                "options": [
+                "executarea restului rămas din durata măsurii internării într-un centru de detenţie",
+                "prelungirea duratei acestei internări",
+                "prelungirea duratei acestei internări, fără a se depăşi maxima prevăzută de lege."
+                ],
+                "answer": [0, 2]
+                },
+                {
+                "question": "În caz de concurs de infracţiuni săvârşite în timpul minorităţii:",
+                "options": [
+                "se stabileşte şi se ia o singură măsură educativă pentru toate faptele",
+                "se stabileşte câte o măsură educativă pentru fiecare infracţiune concurentă şi se execută cea mai grea",
+                "se aplică numai o măsură educativă privativă de libertate."
+                ],
+                "answer": [0]
+                },
+                {
+                "question": "În cazul săvârşirii a două infracţiuni, dintre care una în timpul minorităţii şi una după majorat, pentru infracţiunea comisă în timpul minorităţii se ia o măsură educativă, iar pentru infracţiunea săvârşită după majorat se stabileşte o pedeapsă, după care:",
+                "options": [
+                "dacă măsura educativă este neprivativă de libertate, se execută numai pedeapsa",
+                "dacă măsura educativă este privativă de libertate, iar pedeapsa este închisoarea, se aplică pedeapsa închisorii, care se majorează cu o durată egală cu cel puţin jumătate din durata măsurii educative ori din restul rămas neexecutat din aceasta la data săvârşirii infracţiunii comise după majorat",
+                "dacă pedeapsa aplicată pentru infracţiunea săvârşită după majorat este detenţiunea pe viaţă, se execută numai această pedeapsă."
+                ],
+                "answer": [0, 2]
+                },
+                {
+                "question": "În cazul săvârşirii a două infracţiuni, dintre care una în timpul minorităţii şi una după majorat, pentru infracţiunea comisă în timpul minorităţii se ia o măsură educativă, iar pentru infracţiunea săvârşită după majorat se stabileşte o pedeapsă, după care:",
+                "options": [
+                "dacă măsura educativă este privativă de libertate, iar pedeapsa este închisoarea, se aplică pedeapsa închisorii, care se majorează cu o durată egală cu cel puţin o pătrime din durata măsurii educative ori din restul rămas neexecutat din aceasta la data săvârşirii infracţiunii comise după majorat",
+                "dacă măsura educativă este privativă de libertate, iar pedeapsa este amenda, se execută măsura educativă, a cărei durată se majorează cu cel mult 6 luni, fără a depăşi maximul prevăzut de lege pentru aceasta",
+                "măsura educativă se va aplica pe lângă pedeapsa principală."],
+                "answer": [0,1]
+                },
+                {
+                  "question": "1. Prescripţia executării pedepsei:",
+                  "options": [
+                      "a) înlătură executarea pedepsei interzicerii unor drepturi",
+                      "b) nu înlătură executarea pedepsei interzicerii unor drepturi",
+                      "c) înlătură executarea măsurii de siguranţă a internării medicale."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "2. Executarea pedepselor principale nu se prescrie când au fost pronunţate pentru infracţiunile:",
+                  "options": [
+                      "a) de omor calificat",
+                      "b) contra umanităţii",
+                      "c) contra capacităţii de luptă a forţelor armate."
+                  ],
+                  "answer": [
+                      0,
+                      1
+                  ]
+              },
+              {
+                  "question": "3. Graţierea este o cauză care înlătură:",
+                  "options": [
+                      "a) răspunderea penală",
+                      "b) executarea pedepsei",
+                      "c) consecinţele condamnării."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "4. Graţierea:",
+                  "options": [
+                      "a) nu are efecte asupra pedepselor complementare, afară de cazul când se dispue altfel prin actul de graţiere",
+                      "b) înlătură executarea măsurilor educative privative de libertate",
+                      "c) înlătură răspunderea penală."
+                  ],
+                  "answer": [
+                      0,
+                      1
+                  ]
+              },
+              {
+                  "question": "5. Graţierea are ca efect:",
+                  "options": [
+                      "a) înlăturarea executării măsurilor de siguranţă",
+                      "b) înlăturarea executării pedepsei principale",
+                      "c) înlăturarea executării măsurilor educative neprivative de libertate."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "6. Graţierea, ca act de clemenţă, se acordă de către:",
+                  "options": [
+                      "a) Guvern sau Parlament",
+                      "b) Preşedintele României",
+                      "c) ministrul justiţiei."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "7. Efectele amnistiei şi graţierii sunt:",
+                  "options": [
+                      "a) amândouă înlătură răspunderea penală",
+                      "b) amândouă înlătură consecinţele condamnării",
+                      "c) amândouă înlătură executarea pedepsei."
+                  ],
+                  "answer": [
+                      2
+                  ]
+              },
+              {
+                  "question": "8. Atât amnistia cât şi graţierea:",
+                  "options": [
+                      "a) înlătură în toate cazurile executarea pedepselor complementare",
+                      "b) nu au efecte asupra măsurilor de siguranţă",
+                      "c) sunt acte de clemenţă."
+                  ],
+                  "answer": [
+                      1,
+                      2
+                  ]
+              },
+              {
+                  "question": "9. Termenul de prescripţie a executării pedepsei se suspendă:",
+                  "options": [
+                      "a) în cazurile şi condiţiile prevăzute în C.p.p.",
+                      "b) când se săvârşeşte o nouă infracţiune",
+                      "c) când începe executarea pedepsei."
+                  ],
+                  "answer": [
+                      0
+                  ]
+              },
+              {
+                  "question": "10. Graţierea nu produce efecte:",
+                  "options": [
+                      "a) asupra măsurilor de siguranţă",
+                      "b) asupra tuturor măsurilor educative",
+                      "c) asupra termenului de încercare prevăzut în cazul în care s-a acordat suspendarea condiţionată a executării pedepsei."
+                  ],
+                  "answer": [
+                      0
+                  ]
+              },
+              {
+                  "question": "11. Graţierea poate avea ca efect:",
+                  "options": [
+                      "a) comutarea pedepsei într-una mai uşoară",
+                      "b) înlăturarea în tot sau în parte a executării pedepsei",
+                      "c) asupra pedepsei complementare, dar numai când se dispune astfel prin actul de graţiere."
+                  ],
+                  "answer": [
+                      0,
+                      1,
+                      2
+                  ]
+              },
+              {
+                  "question": "12. Preşedintele României poate acorda:",
+                  "options": [
+                      "a) graţierea colectivă",
+                      "b) numai graţierea individuală, chiar şi a mai multor persoane individualizate",
+                      "c) graţierea colectivă şi individuală."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "13. În cazul detenţiunii pe viaţă, termenul de prescripţie al executării pedepsei este de:",
+                  "options": [
+                      "a) 15 ani",
+                      "b) 25 ani",
+                      "c) 20 ani."
+                  ],
+                  "answer": [
+                      2
+                  ]
+              },
+              {
+                  "question": "14. Graţierea acordată îşi va poduce efectele:",
+                  "options": [
+                      "a) în timpul urmăririi penale",
+                      "b) în timpul judecăţii",
+                      "c) numai după ce hotărârea de condamnare a rămas definitivă."
+                  ],
+                  "answer": [
+                      2
+                  ]
+              },
+              {
+                  "question": "15. Executarea unei pedepse de 22 de ani închisoare se prescrie în:",
+                  "options": [
+                      "a) 30 de ani",
+                      "b) 20 de ani",
+                      "c) 25 de ani."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "Termenul de prescripţie a executării pedepsei amenzii aplicate persoanei juridice se prescrie în:",
+                  "options": [
+                      "3 ani",
+                      "5 ani",
+                      "exact ca la persoana fizică."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "Executarea măsurilor de siguranţă:",
+                  "options": [
+                      "se prescrie",
+                      "nu se prescrie niciodată",
+                      "acestea se prescriu numai dacă se prevede astfel prin actul de graţiere."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "Legea de grațiere:",
+                  "options": [
+                      "produce aceleași efecte ca și amnistia antecondamnatorie dacă intervine în cursul procesului",
+                      "se aplică asupra pedepsei rezultante în cazul unei pluralități de infracțiuni",
+                      "produce efecte asupra participanților numai dacă săvârșirea faptei de către autor este anterioară datei prevăzute pentru aplicarea legii."
+                  ],
+                  "answer": [
+                      2
+                  ]
+              },
+              {
+                  "question": "Prescripţia înlătură:",
+                  "options": [
+                      "executarea măsurilor de siguranţă",
+                      "executarea măsurilor educative neprivative de libertate",
+                      "executarea pedepselor principale şi a celor accesorii."
+                  ],
+                  "answer": [
+                      2
+                  ]
+              },
+              {
+                  "question": "În cazul unei condamnări la pedeapsa închisorii de 10 ani, aceasta se prescrie în:",
+                  "options": [
+                      "20 de ani",
+                      "în 15 ani",
+                      "în 5 ani plus jumate din durata pedepsei ce trebuie executată."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "Graţierea colectivă poate fi acordată de:",
+                  "options": [
+                      "numai de către Parlament",
+                      "şi de Guvern",
+                      "Preşedintele României."
+                  ],
+                  "answer": [
+                      0
+                  ]
+              },
+              {
+                  "question": "Executarea pedepsei închisorii de 17 ani se prescrie în:",
+                  "options": [
+                      "25 de ani",
+                      "20 de ani",
+                      "30 de ani."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "În cazul unei condamnări la pedeapsa închisorii mai mică de 15 ani, termenul de prescripţie a executării pedepsei este de:",
+                  "options": [
+                      "3 ani plus durata pedepsei ce urma a fi executată, dar nu mai mult de 12 ani",
+                      "5 ani plus durata pedepsei ce urma a fi executată, dar nu mai mult de 15 ani",
+                      "5 ani plus durata pedepsei ce urma a fi executată, dar nu mai mult de 20 ani."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "Executarea pedepsei amenzii pentru persoana fizică se prescrie în termen de:",
+                  "options": [
+                      "1 an",
+                      "6 luni",
+                      "3 ani."
+                  ],
+                  "answer": [
+                      2
+                  ]
+              },
+              {
+                  "question": "Prescripţia nu înlătură executarea pedepsei aplicate în cazul infracţiunilor:",
+                  "options": [
+                      "contra securătăţii naţionale",
+                      "de viol, care a avut ca urmare moartea victimei",
+                      "de omor."
+                  ],
+                  "answer": [
+                      1,
+                      2
+                  ]
+              },
+              {
+                  "question": "Prescripţia înlătură:",
+                  "options": [
+                      "executarea pedepsei principale",
+                      "executarea pedepsei accesorii",
+                      "executarea măsurilor de siguranţă."
+                  ],
+                  "answer": [
+                      0,
+                      1
+                  ]
+              },
+              {
+                  "question": "Termenul de prescripţie a executării pedepsei se întrerupe:",
+                  "options": [
+                      "prin începerea executării pedepsei",
+                      "prin săvârşirea din nou a unei infracţiuni",
+                      "de la data sustragerii de la executare, după începerea executării pedepsei."
+                  ],
+                  "answer": [
+                      0,
+                      1,
+                      2
+                  ]
+              },
+              {
+                  "question": "Graţierea:",
+                  "options": [
+                      "are efecte asupra măsurilor de siguranţă şi măsurilor educative",
+                      "nu are efecte asupra măsurilor de siguranţă şi a măsurilor educative neprivative de libertate",
+                      "nu are efecte asupra măsurilor de siguranţă şi măsurilor educative, afară de cazul când se dispune altfel prin actul de graţiere."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "Executarea pedepseii închisorii, atunci când aceasta înlocuieşte pedeapsa detenţiunii pe viaţă, se prescrie în:",
+                  "options": [
+                      "30 de ani",
+                      "25 de ani",
+                      "20 de ani."
+                  ],
+                  "answer": [
+                      2
+                  ]
+              },
+              {
+                  "question": "Termenele de prescripţie a răspunderii penale se reduc, pentru cei care, la data săvârşirii infracţiunii, erau minori:",
+                  "options": [
+                      "cu 1/2",
+                      "cu 1/3",
+                      "cu 1/4."
+                  ],
+                  "answer": [
+                      0
+                  ]
+              },
+              {
+                  "question": "Graţierea:",
+                  "options": [
+                      "are ca efect înlăturarea în tot sau în parte a executării pedepsei ori comutarea acesteia în alta mai uşoară",
+                      "nu are efecte asupra pedepselor a căror executare este suspendată condiţionat",
+                      "nu are efecte asupra pedepselor complementare, afară de cazul când se dispune altfel prin actul de graţiere."
+                  ],
+                  "answer": [
+                      0,
+                      2
+                  ]
+              },
+              {
+                  "question": "Prescripţia specială:",
+                  "options": [
+                      "înlătură executarea pedepsei oricâte întreruperi ar interveni, dacă termenul de prescripţie prevăzut de lege este depăşit cu încă jumătate",
+                      "înlătură răspunderea penală şi în cazul în care legea prevede pentru infracţiunea săvârşită doar pedeapsa amenzii",
+                      "înlătură răspunderea penală în cazul tuturor infracţiunilor."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "Prescripţia specială:",
+                  "options": [
+                      "înlătură executarea pedepsei, dacă termenul de prescripţie a executării pedepsei a fost depăşit cu încă odată, indiferent de numărul întreruperilor",
+                      "nu produce efecte în cazul infracţiunilor contra umanităţii",
+                      "nu se poate aplica în cazul minorilor."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "În cazul persoanei fizice, prescripţia executării pedepsei:",
+                  "options": [
+                      "înlătură executarea pedepsei complementare a interzicerii unor drepturi",
+                      "determină încetarea executării pedepsei accesorii",
+                      "înlătură executarea măsurilor de siguranţă care se pot dispune numai pe lângă o pedeapsă principală."
+                  ],
+                  "answer": [
+                      1
+                  ]
+              },
+              {
+                  "question": "În cazul unui partid politic, prescripţia executării pedepsei complementare a difuzării hotărârii de condamnare:",
+                  "options": [
+                      "nu poate interveni niciodată, prescripţia executării pedepsei având efecte doar asupra pedepsei principale",
+                      "are un termen care, în ipoteza prescrierii executării pedepsei principale, curge în paralel cu termenul acelei prescripţii",
+                      "are un termen care, în ipoteza prescrierii executării pedepsei principale, curge de la data împlinirii termenului acelei prescripţii."
+                  ],
+                  "answer": [
+                      2
+                  ]
+              },
+              {
+                "question": "Termenele de reabilitare se socotesc:",
+                "options": [
+                    "a) în caz de graţiere totală antecondamnatorie, de la data actului de graţiere",
+                    "b) în caz de graţiere a restului de pedeapsă, de la data rămânerii definitive a hotărârii de condamnare",
+                    "c) pentru cei condamnaţi la pedeapsa amenzii, de la data achitării ei."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "În cazul liberatului condiţionat, termenul de reabilitare curge de la data:",
+                "options": [
+                    "a) liberării condiţionate",
+                    "b) împlinirii duratei pedepsei",
+                    "c) împlinirii duratei pedepsei în calculul căruia nu intră şi zilele considerate ca executate pe baza muncii prestate."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Anularea reabilitării priveşte:",
+                "options": [
+                    "a) ambele forme ale reabilitării",
+                    "b) numai reabilitarea judecătorească",
+                    "c) numai reabilitarea de drept."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Reabilitarea nu are efect asupra:",
+                "options": [
+                    "a) măsurii de siguranţă a confiscării extinse",
+                    "b) obligaţiei de reintegrare în funcţia din care condamnatul a fost destituit după comiterea infracţiunii",
+                    "c) vreunei măsuri de siguranţă."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Reabilitarea nu poate fi obţinută în cazul condamnărilor pentru infracţiunile:",
+                "options": [
+                    "a) contra umanităţii",
+                    "b) contra securităţii naţionale",
+                    "c) contra capacităţii de luptă a forţelor armate."
+                ],
+                "answer": []
+            },
+            {
+                "question": "Reabilitarea de drept poate interveni:",
+                "options": [
+                    "a) după executarea unei pedepse de 2 ani închisoare pentru o infracţiune intenţionată",
+                    "b) după trecerea unui termen de 3 ani de la executarea pedepsei închisorii ce nu depăşeşte 2 ani",
+                    "c) după executarea pedepsei amenzii."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Dacă referitor la o infracţiune pentru care persoana fizică a fost deja graţiată condiţionat intervine, ulterior acestui moment, amnistia postcondamnatorie:",
+                "options": [
+                    "a) revocarea graţierii condiţionate a pedepsei este obligatorie în cazul în care condamnatul săvârşeşte o infracţiune în termenul prevăzut de legea de graţiere, dar după data intrării în vigoare a legii de amnistie",
+                    "b) pedepsele complementare care nu au fost graţiate nu se mai execută",
+                    "c) termenul de reabilitare curge întotdeauna de la data intervenirii amnistiei."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Termenele de reabilitare judecătorească sunt:",
+                "options": [
+                    "a) 4 ani, în cazul condamnării la pedeapsa închisorii mai mare de 2 ani, dar care nu depăşeşte 5 ani",
+                    "b) 5 ani, în cazul condamnării la pedeapsa închisorii mai mare de 5 ani, dar care nu depăşeşte 10 ani",
+                    "c) 7 ani, în cazul condamnării la pedeapsa închisorii mai mare de 10 ani sau în cazul pedepsei detenţiunii pe viaţă, comutată sau înlocuită cu pedeapsa închisorii",
+                    "d) 10 ani, în cazul condamnării la pedeapsa detenţiunii pe viaţă, considerată executată ca urmare a graţierii, a împlinirii termenului de prescripţie a executării pedepsei sau a liberării condiţionate."
+                ],
+                "answer": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "Termenul de reabilitare judecătorească poate curge:",
+                "options": [
+                    "a) de la data actului de graţiere",
+                    "b) de la data când pedeapsa principală s-a prescris",
+                    "c) de la data pronunţării liberării condiţionate",
+                    "d) de la data când s-a terminat de executat pedeapsa principală."
+                ],
+                "answer": [
+                    0,
+                    1,
+                    3
+                ]
+            },
+            {
+                "question": "Anularea reabilitării judecătoreşti se face:",
+                "options": [
+                    "a) când, după acordarea, ei s-a descoperit că cel reabilitat nu şi-a executat cu rea-credinţă obligaţiile civile",
+                    "b) când, după acordarea ei, s-a descoperit că cel reabilitat mai suferise o altă condamnare, care dacă ar fi fost cunoscută, ducea la respingerea cererii de reabilitare",
+                    "c) când, după acordarea ei, s-a descoperit că cel reabilitat nu a avut o conduită bună."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "În cazul în care o persoană a suferit mai multe condamnări, dintre care unele fac obiectul reabilitării de drept şi altele fac obiectul reabilitării judecătoreşti:",
+                "options": [
+                    "a) pentru cele uşoare va opera reabilitarea de drept, deoarece aceasta are un efect constatator de drepturi",
+                    "b) pentru toate va opera reabilitarea judecătorească",
+                    "c) termenul de reablitare se va raporta la ultima pedeapsă executată."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "Reabilitarea înlătură:",
+                "options": [
+                    "a) răspunderea penală",
+                    "b) executarea pedepsei",
+                    "c) decăderile ce decurg din condamnare",
+                    "d) caracterul penal al faptei."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "Reabilitarea de drept:",
+                "options": [
+                    "a) intervine pentru orice tip de condamnare",
+                    "b) nu are efecte asupra pedepselor complementare",
+                    "c) spre deosebire de cea judecătorească nu înlătură şi incapacităţile ce decurg din condamnare."
+                ],
+                "answer": []
+            },
+            {
+                "question": "Reabilitarea judecătorească:",
+                "options": [
+                    "a) se acordă numai pentru condamnări mai mari de 2 ani",
+                    "b) produce aceleşi efecte ca şi reabilitarea de drept",
+                    "c) se poate acorda în principiu pentru orice fel de condamnare."
+                ],
+                "answer": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "Pronunţarea unei condamnări definitive în cursul termenului de reabilitare duce la:",
+                "options": [
+                    "a) întreruperea cursului termenului de reabilitare",
+                    "b) suspendarea cursului termenului de reabilitare",
+                    "c) nu are nici un efect asupra acestui termen."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "16. Pentru a beneficia de reabilitarea judecătorească, condamnatul:",
+                "options": [
+                    "a) trebuie ca în termenul de reabilitare să nu mai fi săvârşit o infracţiune",
+                    "b) trebuie ca în termenul de reabilitare să nu mai fi suferit o condamnare",
+                    "c) trebuie ca în termenul de reabilitare să nu mai fi suferit o condamnare, mai puţin cazul în care, ulterior, a intervenit amnistia sau dezincriminarea infracţiunii pentru care a suferit ultima condamnare."
+                ],
+                "answer": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "question": "17.Termenul de reabilitare judecătorească poate curge:",
+                "options": [
+                    "a) de la data când a luat sfârşit executarea pedepsei principale",
+                    "b) de la data rămânerii definitive a hotărârii de condamnare, în anumite cazuri",
+                    "c) de la data actului de graţiere necondiţionată a restului de pedeapsă."
+                ],
+                "answer": [
+                    0,
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "18. Reabilitarea de drept operază:",
+                "options": [
+                    "a) în cazul amânării aplicării pedepsei",
+                    "b) în cazul suspendării executării pedepsei sub supraveghere",
+                    "c) în cazul aplicării unei pedepse de 3 ani, cu suspendare sub supraveghere."
+                ],
+                "answer": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "19. Cel condamnat este reabilitat de drept:",
+                "options": [
+                    "a) la data executării condamnării la pedeapsa închisorii de 2 ani şi aplicarea amenzii",
+                    "b) la 3 ani după executarea pedepsei cu amenda",
+                    "c) la 3 ani după executarea pedepsei cu închisoarea pe timp de 3 ani."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "20. Condamnatul poate fi reabilitat la cerere de instanţa de judecată:",
+                "options": [
+                    "a) în cazul condamnării la pedeapsa închisorii mai mare de un an până la 5 ani, după trecerea unui termen de 4 ani",
+                    "b) în cazul condamnării la pedeapsa închisorii mai mare de 5 ani până la 10 ani, după trecerea unui termen de 5 ani de la executarea pedepsei",
+                    "c) în cazul condamnării la pedeapsa închisorii mai mare de 10 ani, după trecerea unui termen de 7 ani de la executarea pedepsei."
+                ],
+                "answer": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "question": "21. Termenele de reabilitare:",
+                "options": [
+                    "a) pot fi micşorate de către instanţa de judecată în cazuri excepţionale",
+                    "b) sunt diferite, în funcţie de pedeapsa aplicată",
+                    "c) sunt diferite, în funcţie de pedeapsa prevăzută de norma de incriminare."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "22. Reabilitarea de drept are loc, dacă în decurs de trei ani condamnatul nu a săvârşit nici o altă infracţiune, în cazul condamnării la:",
+                "options": [
+                    "a) pedeapsa amenzii",
+                    "b) pedeapsa închisorii de doi ani",
+                    "c) pedeapsa închisorii de trei ani."
+                ],
+                "answer": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "question": "23. Reabilitarea de drept are loc:",
+                "options": [
+                    "a) în cazul condamnării la pedeapsa închisorii care nu depăşeşte 2 ani, dacă în decurs de trei ani condamnatul nu a săvârşit o altă infracţiune",
+                    "b) în cazul condamnării la pedeapsa închisorii care nu depăşeşte 2 ani, dacă în decurs de trei ani condamnatul nu a săvârşit o altă infracţiune intenţionată",
+                    "c) dacă cel condamnat nu a săvârşit din nou o infracţiune înlăuntrul termenului de încercare şi nici nu s-a pronunţat revocarea suspendării executării pedepsei sub supraveghere."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "24. Termenul de 3 ani prevăzut de lege pentru reabilitarea de drept curge:",
+                "options": [
+                    "a) de la data rămânerii definitive a hotărârii de condamnare la o pedeapsă cu închisoarea de 1 an, cu executare în regim de detenţie",
+                    "b) de la data liberării condiţionate din executarea unei pedepse de 6 luni închisoare",
+                    "c) de la data când s-a prescris executarea unei pedepse de 1 an închisoare."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "25. Dacă o persoană a executat succesiv mai multe pedepse cu închisoarea mai mari de 2 ani, termenul de reabilitare judecătorească:",
+                "options": [
+                    "a) se calculează în funcţie de pedeapsa cea mai grea şi începe să curgă întotdeauna de la data la care aceasta a fost executată sau considerată ca executată",
+                    "b) se calculează întotdeauna în funcţie de durata ultimei pedepse şi începe să curgă de la data la care aceasta a fost executată sau considerată ca executată",
+                    "c) se calculează întotdeauna în funcţie de pedeapsa cea mai grea şi începe să curgă de la data la care ultima pedeapsă a fost executată sau considerată ca executată."
+                ],
+                "answer": [
+                    2
+                ]
+            },
+            {
+                "question": "26. Reabilitarea judecătorerască acordată persoanei fizice:",
+                "options": [
+                    "a) înlătură executarea măsurii de siguranţă a obligării la tratament medical",
+                    "b) nu înlătură executarea măsurii de siguranţă a internării medicale",
+                    "c) înlătură pedeapsa complementară a degradării militare, condamnatul redobândind gradul militar deţinut la data condamnării."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "27. În cazul condamnării la o pedeapsă cu închisoarea de 1 an, cu suspendarea condiţionată a executării acesteia, reabilitarea intervine:",
+                "options": [
+                    "a) dacă într-un termen de 3 ani de la data când se consideră executată pedeapsa, condamnatul nu a mai săvârşit nicio altă infracţiune şi nici nu s-a pronunţat revocarea suspendării condiţionate a executări pedepsei",
+                    "b) dacă într-un termen de 3 ani, la care se adaugă jumătate din durata pedepsei pronunţate, termen ce curge de la data rămânerii definitive a hotărârii, condamnatul nu a mai săvârşit nicio altă infracţiune",
+                    "c) dacă înăuntrul termenului de încercare condamnatul nu a mai săvârşit nicio altă infracţiune şi nici nu s-a pronunţat revocarea suspendării condiţionate a executări pedepsei."
+                ],
+                "answer": [
+                    0
+                ]
+            },
+            {
+                "question": "28. Reabilitarea judecătorească nu poate fi acordată:",
+                "options": [
+                    "a) în cazul condamnărilor pentru infracţiuni contra umanităţii",
+                    "b) în cazul persoanelor juridice",
+                    "c) dacă la data examinării cererii de reabilitare persoana condamnată se afla încă în executarea unei măsuri de siguranţă dispusă prin hotărârea de condamnare."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "29. O condamnare de 3 ani închisoare:",
+                "options": [
+                    "a) poate forma obiectul unei reabilitări de drept",
+                    "b) poate forma obiectul unei reabilitări judecătoreşti",
+                    "c) nu poate forma obiectul unei reabilitări judecătoreşti."
+                ],
+                "answer": [
+                    1
+                ]
+            },
+            {
+                "question": "30. Dacă o persoană a fost condamnată la pedeapsa închisorii de 5 ani, după trecerea unui termen de 7 ani de la executarea pedepsei, instanţa:",
+                "options": [
+                    "a) poate dispune reabilitarea acesteia de drept",
+                    "b) poate dispune reabilitarea acesteia judecătoreşte",
+                    "c) nu poate dispune nicio formă de reabilitare."
+                ],
+                "answer": [
+                    2
+                ]
+            }      
+    ]
+  }
+  

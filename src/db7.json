@@ -1,0 +1,221 @@
+{
+    "questions": [
+      {
+        "question": "Constituie măsuri de siguranţă:",
+        "options": [
+          "a) confiscarea specială",
+          "b) interzicerea de a se afla în anumite localităţi",
+          "c) interzicerea de a părăsi localitatea."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Constituie măsuri de siguranţă:",
+        "options": [
+          "a) interzicerea de a se afla în anumite localităţi",
+          "b) interdicţia de a reveni în locuinţa familiei pe o perioadă determinată",
+          "c) confiscarea extinsă."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Când persoana faţă de care s-a luat măsura de siguranţă a obligării la tratament medical nu se prezintă regulat la tratament, se poate dispune:",
+        "options": [
+          "a) arestarea preventivă",
+          "b) internarea medicală",
+          "c) internarea într-un centru de reeducare."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "În cazul bunurilor produse în scopul comiterii unei infracţiuni, care au fost ulterior folosite la săvârşirea acesteia:",
+        "options": [
+          "a) nu se poate dispune confiscarea în parte, prin echivalent, în considerarea faptului că valoarea bunului supus confiscării ar fi vădit disproporţionată faţă de natura şi gravitatea infracţiunii",
+          "b) confiscarea se dispune întotdeauna prin echivalent dacă bunurile nu aparţin autorului infracţiunii",
+          "c) se confiscă şi banii obţinuţi din exploatarea sau folosirea respectivelor bunuri ulterior comiterii infracţiunii la a cărei săvârşire au fost utilizate."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Măsura de siguranță a interzicerii unei funcții sau profesii se aseamănă cu pedeapsa complementară a interzicerii unor drepturi ce are un conținut similar prin:",
+        "options": [
+          "a) momentul de la care operează interdicția",
+          "b) faptul că ambele se pot dispune numai pe lângă o pedeapsă cu închisoarea",
+          "c) durata minimă pe care trebuie să opereze interdicția."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Măsura de siguranţă a obligării la tratament medical:",
+        "options": [
+          "a) poate fi luată în mod provizoriu de către procuror în cursul urmăririi penale",
+          "b) se poate executa şi în timpul executării pedepsei",
+          "c) poate fi luată numai de instanţă."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "Măsura de siguranţă a interzicerii unei funcţii sau profesii:",
+        "options": [
+          "a) poate fi luată pe o perioadă de maxim 3 ani",
+          "b) se poate dispune şi de către procuror",
+          "c) poate fi revocată, dar numai după trecerea unui termen de cel puțin un an, dacă se constată că temeiurile care au impus luarea ei au încetat."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Măsura de siguranţă a interzicerii exercitării unei funcţii sau profesii:",
+        "options": [
+          "a) se dispune pe perioadă nedeterminată",
+          "b) poate fi revocată",
+          "c) se poate dispune doar dacă instanţa a stabilit pedeapsa închisorii de cel puţin un an pentru infracţiunea respectivă."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "Confiscarea specială a bunurilor a căror deţinere este interzisă de lege se poate lua:",
+        "options": [
+          "a) numai dacă infractorului i se aplică o pedeapsă",
+          "b) numai dacă făptuitorului nu i se aplică o pedeapsă",
+          "c) indiferent dacă făptuitorului i se aplică ori nu o pedeapsă."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Obligarea la tratament medical se dispune pe o perioadă:",
+        "options": [
+          "a) nedeterminată, în toate cazurile",
+          "b) de minimum un an",
+          "c) de până la 5 ani."
+        ],
+        "answer": [0]
+      },
+      {
+        "question": "Sunt supuse confiscării speciale:",
+        "options": [
+          "a) bunurile produse prin fapta prevăzută de legea penală",
+          "b) bunurile dobândite prin comiterea infracţiunii, chiar dacă aparţin persoanei vătămate",
+          "c) bunurile a căror deţinere este interzisă de lege."
+        ],
+        "answer": [0, 2]
+      },
+      {
+        "question": "Sunt supuse confiscării speciale:",
+        "options": [
+          "a) bunurile care au fost date pentru a răsplăti pe infractor",
+          "b) bunurile care au fost destinate să servească la comiterea infracţiunii, chiar dacă nu sunt ale infractorului",
+          "c) dacă bunurile care au servit la comiterea infractiunii sunt ale infractorului."
+        ],
+        "answer": [0, 2]
+      },
+      {
+        "question": "Măsurile de siguranţă se pot lua:",
+        "options": [
+          "a) numai însoţind o pedeapsă",
+          "b) indiferent dacă făptuitorului i se aplică ori nu o pedeapsă",
+          "c) ca o consecinţă a răspunderii penale."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Sunt supuse confiscării speciale:",
+        "options": [
+          "a) bunurile care au fost folosite în orice mod la săvârşirea unor infracţiuni prin presă",
+          "b) bunurile produse, modificate sau adaptate în scopul săvârşirii unor infracţiuni, chiar dacă nu au fost utilizate la comiterea acesteia",
+          "c) bunurile arătate la varianta b) dacă acele bunuri au fost utilizate la comiterea infracţiunii."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Nu sunt măsuri de siguranţă:",
+        "options": [
+          "a) confiscarea specială",
+          "b) libertatea supravegheată",
+          "c) obligarea la tratament medical."
+        ],
+        "answer": [1]
+      },
+      {
+        "question": "Nu sunt supuse confiscării speciale:",
+        "options": [
+          "a) bunurile produse prin comiterea faptei prevăzute de legea penală",
+          "b) bunurile care au fost date pentru a răsplăti pe făptuitor",
+          "c) bunurile care au fost folosite în orice mod la comiterea unei infracţiuni prin presă."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Măsura de siguranţă a internării medicale:",
+        "options": [
+          "a) se ia în mod obligatoriu faţă de o persoană bolnavă mintal ori toxicomană care a săvârşit o faptă prevăzută de legea penală şi care prezintă pericol pentru societate",
+          "b) se ia mod obligatoriu în cazul persoanei faţă de care s-a luat măsura obligării la tratament medical, dar nu s-a prezentat în mod regulat la tratament",
+          "c) se poate lua în cazul persoanei faţă de care s-a luat măsura obligării la tratament medical, dar care nu s-a prezentat în mod regulat la tratament."
+        ],
+        "answer": [2]
+      },
+      {
+        "question": "Sunt supuse confiscării speciale:",
+        "options": [
+          "a) bunurile dobândite prin săvârşirea faptei prevăzute de legea penală care servesc la despăgubirea victimei",
+          "b) bunurile care au fost date pentru a determina săvârşirea unei fapte prevăzute de legea penală",
+          "c) bunurile care au fost folosite în orice mod la săvârşirea unei infracţiuni dacă aparţinând altei persoane, aceasta nu cunoştea scopul folosirii lor."
+        ],
+        "answer": [0, 1]
+      },
+      {
+        "question": "Măsura de siguranţă privind obligarea la tratament medical se dispune:",
+        "options": [
+          "a) o perioadă nedeterminată",
+          "b) ) până la însănătoşirea persoanei aflate la tratament",
+          "c) până la executarea pedepsei."
+        ],
+        "answer": [0,1]
+      },
+      {
+        "question": "20. Caracterul măsurilor de siguranţă este unul:",
+        "options": [
+        "a) educativ şi preventiv",
+        "b) preventiv",
+        "c) de pedeapsă"
+        ],
+        "answer": [1]
+        },
+        {
+        "question": "21. La individualizarea măsurilor de siguranţă se au în vedere:",
+        "options": [
+        "a) criteriile generale prevăzute de lege",
+        "b) gravitatea stării de pericol şi posibilităţile de înlăturare a acesteia",
+        "c) mijloacele de prevenţie folosite de legiuitor"
+        ],
+        "answer": [1]
+        },
+        {
+        "question": "22. Măsura de siguranţă a internării medicale se ia împotriva persoanei care a săvârşit o faptă prevăzută de legea penală, fiind:",
+        "options": [
+        "a) bolnav mintal sau toxicoman",
+        "b) bolnav de o boală gravă, incurabilă",
+        "c) bolnav, datorită rănilor produse prin automutilare"
+        ],
+        "answer": [0]
+        },
+        {
+        "question": "23. O măsură de siguranţă:",
+        "options": [
+        "a) are caracter de sancţiune de drept penal",
+        "b) este imprescriptibilă",
+        "c) nu se poate aplica unui minor"
+        ],
+        "answer": [0, 1]
+        },
+        {
+        "question": "24. Sunt adevărate afirmaţiile:",
+        "options": [
+        "a) cheltuiala cu efectuarea tratamentului ca masură de siguranţă nu se face pe cheltuiala statului",
+        "b) confiscarea extinsă se poate dispune numai dacă făptuitorul este condamnat definitiv",
+        "c) ca limită, confiscarea nu poate depăşi valoarea bunurilor dobândite în perioada de 5 ani înainte şi, dacă este cazul, după momentul săvârşirii infracţiunii, care excedează nivelului veniturilor licite ale persoanei condamnate"
+        ],
+        "answer": [1, 2]
+        }
+    ]
+  }
+  
